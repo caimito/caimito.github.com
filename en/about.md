@@ -1,9 +1,9 @@
 ---
 layout: main-en
-title: About Caimito Agile Life SL
+title: About Caimito Agile Life
 ---
-# About Caimito Agile Life SL
-Founded in 2017 in the Spanish province of Cordoba in Andalusia, Caimito Agile Life has two areas of activity:
+# About Caimito Agile Life
+Emerging from decades of hands-on experience in software engineering and land stewardship, Caimito Agile Life focuses on two areas of activity:
 
 - Improving software development
 - Preserving a piece of Dehesa through regenerative agriculture
