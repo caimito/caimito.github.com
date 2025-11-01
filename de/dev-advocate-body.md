@@ -1,12 +1,73 @@
 # Senior Developer Advocate
-Der Senior Developer Advocate ist ein erfahrener Software-Entwickler, welcher zeitweise in Ihrem Team mitarbeitet und dabei ein besonderes Augenmerk auf die Verbesserung der technischen und organisatorischen Fähigkeiten der Team-Mitglieder legt. Der Senior Developer Advocate arbeitet aktiv an der vom Team bereitgestellten Software-Lösung mit und ist daher auch ein weiterer Entwickler.
+
+Moderne Software-Organisationen scheitern selten an fehlendem Willen – sie scheitern an **Fehl­ausrichtung** zwischen Management-Erwartungen, Team-Fähigkeiten und technischer Realität.
+
+Ein Senior Developer Advocate überbrückt diese Lücke – nicht durch Schlagworte oder Frameworks, sondern durch **gemeinsames Verständnis, Transparenz und wiederholbar zuverlässige Lieferung**.
+
+---
+
+## Was wir tun
+
+Wir helfen Organisationen sich von „Projekten, die kämpfen“ zu „Teams, die liefern“ weiterzuentwickeln.
+
+- **Fortschritt sichtbar machen**  
+  Mit leichtgewichtigen visuellen Hilfsmitteln zeigen wir was erledigt ist, was als nächstes kommt und was blockiert – und verwandeln Lärm in Klarheit.
+
+- **Realität offenlegen – keine Ausreden**  
+  Wir machen versteckte Reibung sichtbar: technische Schulden, unklare Verantwortlichkeiten, fehlende Automatisierung – sodass Führung auf Fakten entscheiden kann.
+
+- **Fähigkeiten aufbauen während geliefert wird**  
+  Wir modernisieren Systeme *und* entwickeln Menschen. Jede Verbesserung hinterlässt stärkere interne Fähigkeiten statt neuer Abhängigkeiten.
+
+- **Stabilisieren vor Skalieren**  
+  Vorhersagbarer Durchsatz braucht ein solides Fundament: reproduzierbare Umgebungen, verlässliche Tests und transparente Release-Zyklen.
+
+- **Bestehendes Wissen respektieren**  
+  Die Menschen, die Ihr Geschäft am besten kennen, bleiben im Zentrum. Wir integrieren ihr Wissen um Modernisierung sicher und wirksam zu machen.
+
+---
+
+## Zusammenarbeit mit anderen Beratern und Frameworks
+
+Wir arbeiten häufig mit **Organisationsberatern** zusammen, die eigene Methoden einbringen.  
+Unsere Rolle ist **ergänzend** – nicht konkurrierend.  
+
+Wo Management-Frameworks Ziele definieren, stellen wir sicher, dass Teams die **technische Fähigkeit und Struktur** haben, diese zu erreichen.  
+Wir sind die Brücke zwischen **Konzept und Umsetzung** und übersetzen Management-Intention in ausführbare, nachhaltige Engineering-Praktiken.
+
+Typische Kooperationsmuster:
+
+- Unterstützung von Agile- oder Lean-Initiativen durch Automatisierungs- und Test-Fundamente, die schnelles Iterieren sicher machen.  
+- Übersetzen von OKR-Zielen in messbare technische Ergebnisse.  
+- Helfen, dass Prozessberater ihre Modelle an den tatsächlichen Team-Rahmenbedingungen und Fähigkeiten ausrichten.  
+- Eine neutrale technische Stimme bewahren, der sowohl Entwickler als auch Management vertrauen.
+
+Parallel arbeiten wir direkt mit **Top-Management und Gremien** um strategische Entscheidungen mit technischer Realität abzugleichen. So verstärken Richtung, Investition und Liefergeschwindigkeit einander statt zu kollidieren.
+
+---
+
+## Warum es funktioniert
+
+Software-Entwicklung ist keine Fertigung – es ist kontinuierliche Entdeckung.  
+Wir schaffen **Flow**, keinen Druck: schnellere Lernschleifen, weniger Überraschungen und evidenzbasierte Entscheidungen.
+
+Erfolg messen wir an:
+- Stabilität der Releases  
+- Geschwindigkeit verifizierten Feedbacks  
+- Autonomie und Zuversicht Ihres Teams  
+
+---
 
 ## Vorteile für Ihr Unternehmen
-In Zeiten knapper Budgets und vieler neuer Herausforderungen ist der Senior Developer Advocate eine sehr kostengünstige Möglichkeit die Gesamtleistung des Teams dramatisch zu verbessern.
 
-<a href="mailto:info@caimito.net?subject=Kostenfreies Development Assessment"><mark>Development Assessment kostenfrei bestellen</mark></a>
+Der Senior Developer Advocate ist sowohl **Berater als auch Entwickler** – ein erfahrener Ingenieur, der vorübergehend in Ihrer Organisation mitarbeitet um Fähigkeit, Performance und Liefergeschwindigkeit zu erhöhen.
 
-Statt in die Anstellung weiterer Software-Entwickler, Tester, Business Analysts, Product Owner, Scrum Master, usw. zu investieren, hilft der Senior Developer Advocate die Fähigkeiten der schon vorhandenen Mitarbeiter zu verbessern. Es fallen Einarbeitungszeiten weg, die Gesamtkosten sind weitaus geringer und als angenehmer Nebeneffekt steigt sogar die Qualität des Codes.
+In Zeiten knapper Budgets ist dies ein kosteneffizienter Weg das Team zu stärken ohne zusätzliche Stellen aufzubauen oder Momentum zu verlieren.
+
+<a href="mailto:info@caimito.net?subject=Kostenfreies Development Assessment"><mark>Kostenfreies<br/> Development Assessment bestellen</mark></a>
+
+Anstatt weitere Entwickler, Tester oder Projektrollen einzustellen, erhöht der Senior Developer Advocate die Fähigkeit des existierenden Teams.  
+Kosten sind geringer, Einarbeitung minimal und Code-Qualität steigt während Wissen natürlich diffundiert.
 
 {% include_relative contact.html %}
 
@@ -14,58 +75,76 @@ Statt in die Anstellung weiterer Software-Entwickler, Tester, Business Analysts,
   <img src="/img/developers.jpg"/>
 </figure>
 
-## Weitaus besser als Schulungen - und billiger
-Der Senior Developer Advocate ist ein weiteres Team-Mitglied und kann daher situativ die richtigen Angebote im richtigen Kontext machen. Er liefert die Lösung für das jeweilige Problem und die Schulung passiert "on the job" und ist quasi gratis. Hier einige Beispiele:
+---
 
-Continuous Deployment (CD)
-: Bisher liefert das Team eine neue Version der Software am Ende des Scrum Sprints und damit z.B. alle 2 Wochen. Anstelle einer aufwändigen Umstellung auf *Continous Deployment*, findet der Senior Developer Advocate Gelegenheiten immer mehr Schritte von *build*, *test* und *deployment* zu automatisieren. Durch viele kleine *quick wins* entsteht nach und nach eine Infrastruktur, die schließlich *Continous Deployment* ermöglicht. Der Senior Developer Advocate realisiert diese Dinge entweder eigenständig oder bezieht andere Team-Mitglieder im Stile von *pair programming* mit ein. Nicht nur wird eine Lösung geliefert, sondern auch nachhaltiges Wissen und Fähigkeiten aufgebaut. Ganz ohne Mühen ist das Team sogar auf dem Weg zu *DevOps*.
+## Lernen durch Tun
 
-Testgetriebene Entwicklung (TDD)
-: Zu TDD gibt es viele Texte und Schulungen. Leider ist testgetriebene Entwicklung alles andere als einfach. Bestehender Code stellt oft eine unüberwindbare Hürde dar und in fast allen Fällen wird TDD dann abgelehnt oder aufgegeben. Am Ende wird sich weiter auf dedizierte Tester verlassen, der Code ist schwer veränderbar und die *technischen Schulden* steigen. Der Senior Developer Advocate hat durch langjährige Praxis ein Gespür für den richtigen Moment, für die richtige Situation und führt die anderen Team-Entwickler an TDD heran.
+Weil der Senior Developer Advocate eng mit den Teams arbeitet, passieren Verbesserungen in echter Arbeit – nicht in Theorie.  
+Hier Beispiele wie das aussieht:
 
-Ausführbare Spezifikation
-: Gerade in größeren Unternehmen ist die Kommunikation zwischen Entwicklungsteam und den internen Auftraggebern oft schwierig und gern werden perfekte Lösungen für das falsche Problem entwickelt. Der Senior Developer Advocate setzt sich mit den Auftraggebern - *stakeholdern* - zusammen und findet heraus wo es klemmt. Eine mögliche Lösung ist dann die behutsame Einführung von ATDD (Acceptance Test-Driven Development), welches eine ausführbare Spezifikation, z.B. mit dem Werkzeug Cucumber oder Alternativen, nutzt, um die in natürlicher Sprache abgefaßten Anforderungen testbar zu machen. So wird geliefert was bestellt wird.
+Continuous Deployment  
+: Wir identifizieren kleine Automatisierungs-Möglichkeiten in Build, Test und Deployment. Jeder Quick Win bringt Sie näher zu kontinuierlicher Lieferung – nachhaltig und mit dauerhaftem Know-how.
 
-## Dauer des Einsatzes
-Die Dauer des Einsatzes des Senior Developer Advocate ist grundsätzlich nicht begrenzt. Er ist ja primär ein weiteres Team-Mitglied - allerdings mit einer Sonderaufgabe. Viele Einsätze gehen über 6 - 12 Monate. 
+Testgetriebene Entwicklung (TDD)  
+: Viele Teams ringen mit TDD in komplexen Umgebungen. Der Senior Developer Advocate weiß wann und wie es sicher eingeführt wird – und führt Entwickler zu besserer Struktur und weniger Regressionen.
 
-Es ist hilfreich das Engagement dynamisch oder in Intervallen, z.B. jede zweite Woche, zu gestalten. **Die Kosten bleiben dadurch unter den üblichen Ausgaben für externe Spezialisten.** Damit bekommt Ihr Unternehmen mit dem Senior Developer Advocate einen Entwickler, einen Berater, einen Trainer und die gesammelte Erfahrung von vielen Unternehmen.
+Ausführbare Spezifikation  
+: Missverständnisse zwischen Teams und Stakeholdern verursachen teure Nacharbeit. Wir führen lebende, testbare Spezifikationen ein, damit das Vereinbarte auch geliefert wird.
 
-## Struktur eines typischen Engagements als Senior Developer Advocate
-Erfolgskontrolle ist bei jeder Investition wichtig. Eine klare Struktur und Kommunikation sind wichtige Elemente.
+---
 
-- Bestandsaufnahme und Interviews
-- Planung von Maßnahmen (Coaching-Karte)
-- Praktische Arbeit
-- Erfolgskontrolle
-- Entwöhnung
+## Vertragsmodell
 
-**Bestandsaufnahme und Interviews**
-: Bevor wir anfangen können, müssen wir feststellen, wo wir überhaupt stehen. Was funktioniert gut und wo gibt es Schwierigkeiten, Herausforderungen, Defizite usw.
-: Je nach Größe des Teams und Umfang der bestehenden Software werden im Laufe von ein bis zwei Wochen verschiedene Interviews geführt und bestehende technische Prozesse genauer analysiert. Dazu gehört auch ein *technical review* der bestehenden Software.
+Der Senior Developer Advocate wird **direkt durch Vorstand, Geschäftsführung oder gleichwertige Leitungsebene beauftragt** – nicht als temporärer Mitarbeiter in einem einzelnen Team.  
 
-**Coaching-Karte zur Bestimmung von Maßnahmen und erwarteten Erfolgen**
-: Mit den Erkenntnissen aus der Bestandsaufnahme entwickeln wir gemeinsam eine Coaching-Karte, die – ähnlich einer [Story Map](/de/kbase/story-map.html) – mögliche Maßnahmen sowie deren zeitlichen und inhaltlichen Zusammenhang aufzeigt. Diese Coaching-Karte wird dann unser gemeinsamer Plan und dient auch zur Erfolgskontrolle.
+Das sichert:
+- Unabhängige Einschätzung und direkte Berichterstattung an Entscheider.  
+- Einen klaren Auftrag organisatorische Richtung mit technischer Umsetzung zu verzahnen.  
+- Freiheit von internen Team-Dynamiken oder Bereichspolitik.  
+
+Wir arbeiten Seite an Seite mit Entwicklern, Product Ownern und anderen Beratern – die Rolle bleibt jedoch eine **strategische Partnerschaft mit der Führung**. Diese Position garantiert Neutralität, Autorität und nachhaltige Wirkung über die Organisation hinweg.
+
+---
+
+## Engagement-Modell
+
+Die Dauer eines Engagements ist vollständig situativ und durch die anstehende Arbeit bestimmt. Es kann ein fokussiertes, zeitlich begrenztes Programm sein (z.B. einige Monate um Engineering-Fähigkeiten zu heben, CI/CD einzuführen oder moderne Team-Praktiken zu etablieren) oder eine mehrjährige Partnerschaft zur schrittweisen Modernisierung und Weiterentwicklung eines großen, geschäftskritischen Softwaresystems. Die Intensität passt sich an: wir verstärken die Begleitung in Phasen der Richtungsänderung und fahren sie zurück, sobald Teams mehr Autonomie haben.  
+
+Zum Preis eines Entwicklers erhalten Sie Entwickler, Coach und technischen Berater – alles in einer Person.
+
+**Struktur**
+
+- Bestandsaufnahme & Interviews  
+- Coaching Map (Aktionsplan)  
+- Praktische Arbeit  
+- Leistungs-/Erfolgs-Monitoring  
+- Ausleitung  
+
+**Bestandsaufnahme & Interviews**  
+: Wir analysieren aktuelle Praktiken, identifizieren Engpässe und prüfen technische Prozesse um zu verstehen wo Verbesserungen den größten Hebel haben.
+
+**Coaching Map**  
+: Gemeinsam erstellen wir eine visuelle Roadmap – ähnlich einer [Story Map](/de/kbase/story-map.html) – mit Maßnahmen, zeitlicher Einordnung und erwarteten Ergebnissen.
 
 <figure>
 	<img src="/img/story-map.png">
 </figure>
 
-**Praktische Arbeit**
-: 60 % bis 70 % der praktischen Arbeit des Senior Developer Advocate besteht aus der Mitarbeit an der Entwicklung der Softwarelösung, an der das Team arbeitet. Daher ist diese Rolle klar die eines Teammitglieds und Entwicklers, und es geht nicht einfach nur um Training.
-
-: Der Schwerpunkt auf der praktischen Arbeit als Entwickler führt zur Akzeptanz der Person und der vorgeschlagenen Maßnahmen durch die anderen Teammitglieder.
-
-: Die oben erwähnte Coaching-Karte ist für alle Teammitglieder ständig sichtbar, und der Senior Developer Advocate sucht aktiv nach den richtigen Zeitpunkten und Gelegenheiten, um Ausbildungsziele und Maßnahmen situativ und im persönlichen Kontakt umzusetzen.
+**Praktische Arbeit**  
+: Rund 60–70 % der Zeit des Advocates fließen direkt in Entwicklung.  
+: Das sichert Glaubwürdigkeit und natürliche Integration. Verbesserungen werden im Kontext angewendet – nicht von außen verordnet.
 
 <figure>
   <img src="/img/pairProgramming.jpg"/>
 </figure>
 
-**Phase der Entwöhnung**
-: Nach einiger Zeit wird das Engagement enden, und es beginnt die Phase der Entwöhnung. Der Nachhaltigkeit wegen sollte diese Phase spätestens nach 12 Monaten beginnen. Die Mitarbeit des Senior Developer Advocate wird reduziert, und der Schwerpunkt verlagert sich mehr auf die Beobachtung und Begleitung des Teams.
+**Ausleitung**  
+: Wenn das Team unabhängiger wird, reduzieren wir die Präsenz schrittweise. Nach einigen Wochen Beobachtung und Begleitung endet das Engagement – jederzeit reaktivierbar.
 
-: Ziel ist es, das Engagement nach ein paar Wochen reduzierter Präsenz vollständig zu beenden. Bei Bedarf kann es wieder aufgenommen werden.
+---
 
-## Erfolgskontrolle
-Regelmäßige Gespräche mit der Geschäfts- oder Bereichsleitung dienen der Erfolgskontrolle. Es geht dabei um klare Ziele und was davon erreicht wurde oder wo Schwierigkeiten sind. Der Senior Developer Advocate ist auch ein Unternehmensberater und wird gegebenenfalls z.B. auch Änderungen an der Aufbaustruktur des Unternehmens vorschlagen.
+## Erfolgs-Monitoring
+
+- Regelmäßige Reviews mit dem Top-Management verfolgen Fortschritt und Ergebnisse.  
+- Fokusbereiche sind Performance, Qualität und Team-Autonomie.  
+- Als neutrale Beobachtung kann der Senior Developer Advocate auch organisatorische Verbesserungen anregen, um Resultate zu verstetigen.

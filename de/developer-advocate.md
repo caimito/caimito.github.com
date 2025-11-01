@@ -8,6 +8,9 @@ title:
     {{ left_column | markdownify }}
   </div>
   <div class="sidebar reference-projects">
+    <p>Der <strong>Senior Developer Advocate</strong> verbindet Management-Vision mit technischer Realität.  
+    Wir arbeiten reibungslos neben Agile-, Lean- oder OKR-Initiativen – und verwandeln Strategie in nachhaltige Umsetzung ohne zusätzliche Reibung oder Konkurrenz.  
+    Indem wir sowohl Vorstandsebene als auch Entwicklungsteams einbeziehen, sorgen wir dafür, dass Richtung, Entscheidungen und Lieferung sauber aufeinander abgestimmt bleiben.</p>
     <h2>Berichte aus der Praxis</h2>
     <ul class="posts">
       {% for post in site.tags.dev-advocate-de limit:10 %}
