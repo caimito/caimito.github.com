@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1350" height="900" viewBox="0 0 1350 900">
   <title>Spanish Language Flag (Stripes)</title>
-  <desc>Simplified Spanish language icon using only two warm color stripes (non-official proportions).</desc>
+  <desc>Simplified Spanish language icon using only two warm color stripes (non-official
+    proportions).</desc>
   <rect width="1350" height="900" fill="#d00021" />
   <rect y="300" width="1350" height="300" fill="#ffce00" opacity="0.95" />
 </svg>
