@@ -120,6 +120,24 @@ DIV.two-columns {
   gap: 2em;
 }
 
+/* Specific refinement for contracting model guideline pairing */
+div.two-columns.contracting-guidelines {
+  grid-template-columns: 62% 38%; /* a touch wider right column for readability */
+  align-items: start;
+}
+
+div.two-columns.contracting-guidelines .column-right {
+  border-left: 1px solid #ddd;
+  padding-left: 1em;
+  padding-right: 0.5em; /* keep off the edge */
+  font-size: 0.95em;
+  line-height: 1.35em;
+}
+
+div.two-columns.contracting-guidelines .column-left {
+  padding-right: 0.5em;
+}
+
 div.sidebar {
   border-left: thin solid grey;
   padding-top: 1em;

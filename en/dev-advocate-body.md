@@ -4,7 +4,6 @@ Modern software organizations rarely fail because of bad intentions — they fai
 
 A Senior Developer Advocate bridges that gap — not through slogans or frameworks, but through **shared understanding, transparency, and repeatable delivery**.
 
----
 
 ## What We Do
 
@@ -25,7 +24,6 @@ We help organizations evolve from “projects that struggle” to “teams that 
 - **Respect existing knowledge**  
   The people who know your business best stay at the center. We integrate their expertise to keep modernization safe and effective.
 
----
 
 ## Working with Other Consultants and Frameworks
 
@@ -45,7 +43,7 @@ Typical cooperation patterns include:
 
 At the same time, we work directly with **senior management and boards** to align strategic decisions with technical reality. This ensures that direction, investment, and delivery speed reinforce each other instead of conflicting.
 
----
+
 
 ## Why It Works
 
@@ -57,7 +55,7 @@ We measure success by:
 - Speed of verified feedback  
 - Autonomy and confidence of your team  
 
----
+
 
 ## Benefits for Your Company
 
@@ -76,7 +74,7 @@ Costs are lower, onboarding is minimal, and code quality rises as knowledge spre
   <img src="/img/developers.jpg"/>
 </figure>
 
----
+
 
 ## Learning by Doing
 
@@ -92,20 +90,35 @@ Test-Driven Development
 Executable Specification  
 : Misunderstandings between teams and stakeholders cause costly rework. We introduce living, testable specifications so that what’s agreed is what gets delivered.
 
----
+
 
 ## Contracting Model
-
-The Senior Developer Advocate is **contracted directly by the board, managing director, or equivalent leadership level** — not as a temporary employee within a single team.  
+<div class="two-columns contracting-guidelines">
+  <div class="column-left" markdown="1">
+The Senior Developer Advocate is **contracted directly by the board, managing director, or equivalent leadership level** — not as a temporary employee within a single team.
 
 This ensures:
-- Independent assessment and direct reporting to decision-makers.  
-- A clear mandate to align organizational direction with technical execution.  
-- Freedom from internal team dynamics or departmental politics.  
+
+- Independent assessment and direct reporting to decision-makers.
+- A clear mandate to align organizational direction with technical execution.
+- Freedom from internal team dynamics or departmental politics.
 
 While we work side by side with developers, product owners, and other consultants, the role remains a **strategic partnership with leadership**. This positioning guarantees neutrality, authority, and sustainable impact across the organization.
+  </div>
+  <div class="column-right" markdown="1">
+### Guideline & Reference
 
----
+The *Senior Developer Advocate Guidelines* provide a concise, shareable reference for sponsors and stakeholders. They distill purpose, boundaries, collaboration principles, and expected outcomes.
+
+Use the guideline alongside this page to align executive intent with day-to-day delivery without re-reading narrative sections.
+
+**Open:** <a class="learn-more" href="/en/developer-advocate-guidelines.html">Senior Developer Advocate Guidelines</a>
+
+<small>Use during executive reviews, renewals, or when introducing the role.</small>
+  </div>
+</div>
+
+
 
 ## Engagement Model
 
@@ -142,7 +155,7 @@ For the price of one developer, you gain a developer, coach, and technical consu
 **Phasing Out**  
 : As the team grows more independent, the Advocate’s presence is gradually reduced. After a few weeks of observation and support, the engagement ends — ready to be reactivated if needed.
 
----
+
 
 ## Success Monitoring
 

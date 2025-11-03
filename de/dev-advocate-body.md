@@ -4,7 +4,6 @@ Moderne Software-Organisationen scheitern selten an fehlendem Willen – sie sch
 
 Ein Senior Developer Advocate überbrückt diese Lücke – nicht durch Schlagworte oder Frameworks, sondern durch **gemeinsames Verständnis, Transparenz und wiederholbar zuverlässige Lieferung**.
 
----
 
 ## Was wir tun
 
@@ -25,7 +24,6 @@ Wir helfen Organisationen sich von „Projekten, die kämpfen“ zu „Teams, di
 - **Bestehendes Wissen respektieren**  
   Die Menschen, die Ihr Geschäft am besten kennen, bleiben im Zentrum. Wir integrieren ihr Wissen um Modernisierung sicher und wirksam zu machen.
 
----
 
 ## Zusammenarbeit mit anderen Beratern und Frameworks
 
@@ -44,7 +42,6 @@ Typische Kooperationsmuster:
 
 Parallel arbeiten wir direkt mit **Top-Management und Gremien** um strategische Entscheidungen mit technischer Realität abzugleichen. So verstärken Richtung, Investition und Liefergeschwindigkeit einander statt zu kollidieren.
 
----
 
 ## Warum es funktioniert
 
@@ -56,7 +53,6 @@ Erfolg messen wir an:
 - Geschwindigkeit verifizierten Feedbacks  
 - Autonomie und Zuversicht Ihres Teams  
 
----
 
 ## Vorteile für Ihr Unternehmen
 
@@ -91,20 +87,32 @@ Testgetriebene Entwicklung (TDD)
 Ausführbare Spezifikation  
 : Missverständnisse zwischen Teams und Stakeholdern verursachen teure Nacharbeit. Wir führen lebende, testbare Spezifikationen ein, damit das Vereinbarte auch geliefert wird.
 
----
 
 ## Vertragsmodell
 
-Der Senior Developer Advocate wird **direkt durch Vorstand, Geschäftsführung oder gleichwertige Leitungsebene beauftragt** – nicht als temporärer Mitarbeiter in einem einzelnen Team.  
+<div class="two-columns contracting-guidelines">
+  <div class="column-left" markdown="1">
+Der Senior Developer Advocate wird **direkt durch Vorstand, Geschäftsführung oder gleichwertige Leitungsebene beauftragt** – nicht als temporärer Mitarbeiter in einem einzelnen Team.
 
 Das sichert:
-- Unabhängige Einschätzung und direkte Berichterstattung an Entscheider.  
-- Einen klaren Auftrag organisatorische Richtung mit technischer Umsetzung zu verzahnen.  
-- Freiheit von internen Team-Dynamiken oder Bereichspolitik.  
+
+- Unabhängige Einschätzung und direkte Berichterstattung an Entscheider.
+- Einen klaren Auftrag organisatorische Richtung mit technischer Umsetzung zu verzahnen.
+- Freiheit von internen Team-Dynamiken oder Bereichspolitik.
 
 Wir arbeiten Seite an Seite mit Entwicklern, Product Ownern und anderen Beratern – die Rolle bleibt jedoch eine **strategische Partnerschaft mit der Führung**. Diese Position garantiert Neutralität, Autorität und nachhaltige Wirkung über die Organisation hinweg.
+  </div>
+  <div class="column-right" markdown="1">
+### Leitfaden & Referenz
 
----
+Der *Senior Developer Advocate Leitfaden* bietet eine prägnante, teilbare Referenz für Sponsoren und Stakeholder. Er bündelt Zweck, Grenzen, Kooperationsprinzipien und erwartete Ergebnisse.
+
+**Öffnen:** <a class="learn-more" href="/de/developer-advocate-guidelines.html">Senior Developer Advocate Leitfaden</a>
+
+<small>Während Executive Reviews, Verlängerungen oder zur Einführung der Rolle nutzen.</small>
+  </div>
+</div>
+
 
 ## Engagement-Modell
 
@@ -141,7 +149,6 @@ Zum Preis eines Entwicklers erhalten Sie Entwickler, Coach und technischen Berat
 **Ausleitung**  
 : Wenn das Team unabhängiger wird, reduzieren wir die Präsenz schrittweise. Nach einigen Wochen Beobachtung und Begleitung endet das Engagement – jederzeit reaktivierbar.
 
----
 
 ## Erfolgs-Monitoring
 
