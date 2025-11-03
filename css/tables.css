@@ -1,0 +1,39 @@
+/* Generic tables (Markdown output) */
+table:not(.table) {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2em 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+table:not(.table) th {
+  background: #007A00;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 10px 14px;
+  text-align: left;
+  border: 1px solid #006200;
+}
+
+table:not(.table) td {
+  padding: 10px 14px;
+  border: 1px solid #d9d9d9;
+  vertical-align: top;
+}
+
+table:not(.table) tbody tr:nth-child(even) {
+  background: #f7fdf7;
+}
+
+table:not(.table) tbody tr:hover {
+  background: #eef9ee;
+}
+
+@media (max-width: 640px) {
+  table:not(.table) th,
+  table:not(.table) td {
+    padding: 8px 10px;
+    font-size: 0.9rem;
+  }
+}
