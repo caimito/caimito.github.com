@@ -120,6 +120,24 @@ DIV.two-columns {
   gap: 2em;
 }
 
+/* Equal width variant for outcomes/value pairing */
+div.two-columns.outcomes-value {
+  grid-template-columns: 1fr 1fr;
+}
+
+/* Equal width for Why/What pairing */
+div.two-columns.why-what {
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+}
+
+/* Equal width for contracting & positioning block */
+div.two-columns.contracting-positioning {
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+  align-items: start;
+}
+
 /* Specific refinement for contracting model guideline pairing */
 div.two-columns.contracting-guidelines {
   grid-template-columns: 62% 38%; /* a touch wider right column for readability */
