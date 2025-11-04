@@ -8,9 +8,9 @@ title: Working Successfully with a Senior Developer Advocate
     {{ left_column | markdownify }}
   </div>
   <div class="sidebar reference-projects">
-    <p>The <strong>Senior Developer Advocate</strong> connects management vision with engineering reality.  
-    We work seamlessly alongside Agile, Lean, or OKR initiatives — turning strategy into sustainable execution without creating friction or competition.  
-    By engaging both the boardroom and the development team, we ensure that direction, decisions, and delivery stay perfectly aligned.</p>
+  <p>The <strong>Senior Developer Advocate</strong> connects management intent with engineering reality.  
+  We operate method‑neutral: no promotion of branded frameworks or label debates — only practical improvements that make strategy executable.  
+  By engaging both leadership and engineering, direction, decisions, and delivery remain fact‑based and aligned.</p>
 
     <h2>Reports from Practice</h2>
     <ul class="posts">

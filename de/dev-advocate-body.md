@@ -1,157 +1,157 @@
 # Senior Developer Advocate
 
-Moderne Software-Organisationen scheitern selten an fehlendem Willen – sie scheitern an **Fehl­ausrichtung** zwischen Management-Erwartungen, Team-Fähigkeiten und technischer Realität.
+<div class="callout">
+<strong>Ständig im Code & kontinuierlich verbessern:</strong> Diese Rolle liefert fortlaufend Produktivcode und räumt Lieferhindernisse aus dem Weg (Durchfluss, Tests, Releases, Feedback). Praktisches Engineering und Befähigung gehören untrennbar zusammen.
+</div>
 
-Ein Senior Developer Advocate überbrückt diese Lücke – nicht durch Schlagworte oder Frameworks, sondern durch **gemeinsames Verständnis, Transparenz und wiederholbar zuverlässige Lieferung**.
+## Kurzfassung
+Sie wollen Software schneller, mit weniger Überraschungen und belastbaren Fakten statt Schönfärberei. Verlangsamung entsteht selten durch fehlenden Einsatz – sondern durch Auseinanderlaufen von Zielen, Fähigkeiten und technischer Realität. Wir bringen das wieder in Einklang.
 
+## Rollenprofil
+Ein Senior Developer Advocate ist ein erfahrener Engineer, der produktiven Code schreibt und zugleich verbessert, wie Arbeit fließt. Kein Theoretiker. Kein Methodenverkäufer. Wir erhöhen Liefersicherheit, indem wir Codebasis, Pipeline und Feedbackschleife gemeinsam verbessern.
 
-## Was wir tun
+> Wir installieren keine Marken-Methoden und benennen Ihre Meetings nicht um. Was funktioniert, bleibt. Was nur Lärm erzeugt, entfällt. Einzige Konstante: mehr gelieferte Software mit wachsender Zuversicht.
 
-Wir helfen Organisationen sich von „Projekten, die kämpfen“ zu „Teams, die liefern“ weiterzuentwickeln.
+<div class="two-columns outcomes-value">
+  <div class="column-left">
+  <h2>Ergebnisse, die wir erzielen</h2>
+    <ul>
+  <li>Schnellerer Durchfluss wertvoller Änderungen</li>
+  <li>Kürzere Zeit von Idee bis Produktion</li>
+  <li>Weniger Produktionsprobleme und Rollbacks</li>
+  <li>Klare Sicht: erledigt, als Nächstes, blockiert</li>
+  <li>Stärkeres internes Können (weniger externe Abhängigkeit)</li>
+    </ul>
+  </div>
+  <div class="column-right">
+  <h2>Unser Wertbeitrag</h2>
+    <ul>
+  <li>Arbeit sichtbar machen – Risiken tauchen früh auf</li>
+  <li>Reibung beseitigen: instabile Tests, langsame Umgebungen, unklare Zuständigkeiten</li>
+  <li>Liefern und gleichzeitig befähigen – Lernen in echter Arbeit</li>
+  <li>Pipelines und Releases stabilisieren bevor Teams vergrößert werden</li>
+  <li>Bestehendes Domänenwissen schützen und verstärken</li>
+    </ul>
+  </div>
+</div>
 
-- **Fortschritt sichtbar machen**  
-  Mit leichtgewichtigen visuellen Hilfsmitteln zeigen wir was erledigt ist, was als nächstes kommt und was blockiert – und verwandeln Lärm in Klarheit.
+## Zusammenarbeit mit anderen Beratern
+Wir arbeiten häufig parallel zu Strategie- oder Organisationsberatern. Sie setzen Richtung; wir stellen sicher, dass Teams technisch ausführen können. Wir übersetzen Absicht in konkrete technische Verbesserungen: Umgebungen, Tests, Release-Disziplin, Architektur-Klarheit, Feedback-Geschwindigkeit.
 
-- **Realität offenlegen – keine Ausreden**  
-  Wir machen versteckte Reibung sichtbar: technische Schulden, unklare Verantwortlichkeiten, fehlende Automatisierung – sodass Führung auf Fakten entscheiden kann.
+Typische Zusammenarbeit:
+- Hochrangige Ziele in konkrete technische Zielgrößen übersetzen
+- Unabhängige technische Sicht für Führungsentscheidungen liefern
+- Empfehlungen an echte Rahmenbedingungen und Teamkapazität binden
+- Neutrale Brücke zwischen Vorstand, Produkt und Engineering halten
 
-- **Fähigkeiten aufbauen während geliefert wird**  
-  Wir modernisieren Systeme *und* entwickeln Menschen. Jede Verbesserung hinterlässt stärkere interne Fähigkeiten statt neuer Abhängigkeiten.
+<div class="two-columns why-what">
+  <div class="column-left">
+  <h2>Warum das wirkt</h2>
+  <p>Softwarearbeit ist gleichzeitiges Lernen und Liefern. Reiner Druck versteckt Risiken. Wir schaffen stetigen, sicheren Fluss in kleinen beobachtbaren Schritten. Das erhöht Vorhersagbarkeit und senkt Eskalationen.</p>
+  </div>
+  <div class="column-right">
+  <h2>Ihr Nutzen (statt weiterer Einstellungen)</h2>
+  <p>Eine Person wirkt gleichzeitig als:</p>
+    <ul>
+  <li>Senior Engineer (schreibt ca. 60–70 % seiner Zeit produktiven Code)</li>
+  <li>Technischer Coach und Katalysator</li>
+  <li>Neutrale Einschätzung für Entscheider</li>
+    </ul>
+  <p>Ersetzt mehrere Einzelfunktionen (Entwicklung, Coaching, Übersetzung von Prozess in Technik) und beschleunigt interne Reife.</p>
+  </div>
+</div>
 
-- **Stabilisieren vor Skalieren**  
-  Vorhersagbarer Durchsatz braucht ein solides Fundament: reproduzierbare Umgebungen, verlässliche Tests und transparente Release-Zyklen.
-
-- **Bestehendes Wissen respektieren**  
-  Die Menschen, die Ihr Geschäft am besten kennen, bleiben im Zentrum. Wir integrieren ihr Wissen um Modernisierung sicher und wirksam zu machen.
-
-
-## Zusammenarbeit mit anderen Beratern und Frameworks
-
-Wir arbeiten häufig mit **Organisationsberatern** zusammen, die eigene Methoden einbringen.  
-Unsere Rolle ist **ergänzend** – nicht konkurrierend.  
-
-Wo Management-Frameworks Ziele definieren, stellen wir sicher, dass Teams die **technische Fähigkeit und Struktur** haben, diese zu erreichen.  
-Wir sind die Brücke zwischen **Konzept und Umsetzung** und übersetzen Management-Intention in ausführbare, nachhaltige Engineering-Praktiken.
-
-Typische Kooperationsmuster:
-
-- Unterstützung von Agile- oder Lean-Initiativen durch Automatisierungs- und Test-Fundamente, die schnelles Iterieren sicher machen.  
-- Übersetzen von OKR-Zielen in messbare technische Ergebnisse.  
-- Helfen, dass Prozessberater ihre Modelle an den tatsächlichen Team-Rahmenbedingungen und Fähigkeiten ausrichten.  
-- Eine neutrale technische Stimme bewahren, der sowohl Entwickler als auch Management vertrauen.
-
-Parallel arbeiten wir direkt mit **Top-Management und Gremien** um strategische Entscheidungen mit technischer Realität abzugleichen. So verstärken Richtung, Investition und Liefergeschwindigkeit einander statt zu kollidieren.
-
-
-## Warum es funktioniert
-
-Software-Entwicklung ist keine Fertigung – es ist kontinuierliche Entdeckung.  
-Wir schaffen **Flow**, keinen Druck: schnellere Lernschleifen, weniger Überraschungen und evidenzbasierte Entscheidungen.
-
-Erfolg messen wir an:
-- Stabilität der Releases  
-- Geschwindigkeit verifizierten Feedbacks  
-- Autonomie und Zuversicht Ihres Teams  
-
-
-## Vorteile für Ihr Unternehmen
-
-Der Senior Developer Advocate ist sowohl **Berater als auch Entwickler** – ein erfahrener Ingenieur, der vorübergehend in Ihrer Organisation mitarbeitet um Fähigkeit, Performance und Liefergeschwindigkeit zu erhöhen.
-
-In Zeiten knapper Budgets ist dies ein kosteneffizienter Weg das Team zu stärken ohne zusätzliche Stellen aufzubauen oder Momentum zu verlieren.
-
-<a href="mailto:info@caimito.net?subject=Kostenfreies Development Assessment"><mark>Kostenfreies<br/> Development Assessment bestellen</mark></a>
-
-Anstatt weitere Entwickler, Tester oder Projektrollen einzustellen, erhöht der Senior Developer Advocate die Fähigkeit des existierenden Teams.  
-Kosten sind geringer, Einarbeitung minimal und Code-Qualität steigt während Wissen natürlich diffundiert.
+<a href="mailto:info@caimito.net?subject=Kostenfreies Delivery Assessment"><mark>Kostenfreies<br/> Delivery Assessment anfragen</mark></a>
 
 {% include_relative contact.html %}
+
+## Wie Verbesserungen entstehen
+Immer in echter Arbeit, an laufenden Systemen – keine Workshops um der Form willen.
+
+Bereitschaft für kontinuierliche Bereitstellung  
+: Schrittweise Automatisierung in Build, Test und Deployment. Kleine Gewinne summieren sich.
+
+Testdisziplin  
+: Pragmatistische Teststrategie (Unit wo sinnvoll, Integration wo aussagekräftig) senkt Regressionen und beschleunigt Reviews.
+
+Ausführbare Klarheit  
+: Unklare Anforderungen werden in Beispiele und Überprüfungen übersetzt – verhindert teure Nacharbeit.
 
 <figure>
   <img src="/img/developers.jpg"/>
 </figure>
 
----
-
-## Lernen durch Tun
-
-Weil der Senior Developer Advocate eng mit den Teams arbeitet, passieren Verbesserungen in echter Arbeit – nicht in Theorie.  
-Hier Beispiele wie das aussieht:
-
-Continuous Deployment  
-: Wir identifizieren kleine Automatisierungs-Möglichkeiten in Build, Test und Deployment. Jeder Quick Win bringt Sie näher zu kontinuierlicher Lieferung – nachhaltig und mit dauerhaftem Know-how.
-
-Testgetriebene Entwicklung (TDD)  
-: Viele Teams ringen mit TDD in komplexen Umgebungen. Der Senior Developer Advocate weiß wann und wie es sicher eingeführt wird – und führt Entwickler zu besserer Struktur und weniger Regressionen.
-
-Ausführbare Spezifikation  
-: Missverständnisse zwischen Teams und Stakeholdern verursachen teure Nacharbeit. Wir führen lebende, testbare Spezifikationen ein, damit das Vereinbarte auch geliefert wird.
-
-
-## Vertragsmodell
-
-<div class="two-columns contracting-guidelines">
-  <div class="column-left" markdown="1">
-Der Senior Developer Advocate wird **direkt durch Vorstand, Geschäftsführung oder gleichwertige Leitungsebene beauftragt** – nicht als temporärer Mitarbeiter in einem einzelnen Team.
-
-Das sichert:
-
-- Unabhängige Einschätzung und direkte Berichterstattung an Entscheider.
-- Einen klaren Auftrag organisatorische Richtung mit technischer Umsetzung zu verzahnen.
-- Freiheit von internen Team-Dynamiken oder Bereichspolitik.
-
-Wir arbeiten Seite an Seite mit Entwicklern, Product Ownern und anderen Beratern – die Rolle bleibt jedoch eine **strategische Partnerschaft mit der Führung**. Diese Position garantiert Neutralität, Autorität und nachhaltige Wirkung über die Organisation hinweg.
-  </div>
-  <div class="column-right" markdown="1">
-### Leitfaden & Referenz
-
-Der *Senior Developer Advocate Leitfaden* bietet eine prägnante, teilbare Referenz für Sponsoren und Stakeholder. Er bündelt Zweck, Grenzen, Kooperationsprinzipien und erwartete Ergebnisse.
-
-**Öffnen:** <a class="learn-more" href="/de/developer-advocate-guidelines.html">Senior Developer Advocate Leitfaden</a>
-
-<small>Während Executive Reviews, Verlängerungen oder zur Einführung der Rolle nutzen.</small>
-  </div>
-</div>
-
-
 ## Engagement-Modell
+Flexible Dauer: fokussierter Verbesserungsschub über wenige Monate oder längerer Modernisierungspartner. Intensität passt sich an: anfangs stark praktisch, später Ausdünnung sobald Teams sicherer werden.
 
-Die Dauer eines Engagements ist vollständig situativ und durch die anstehende Arbeit bestimmt. Es kann ein fokussiertes, zeitlich begrenztes Programm sein (z.B. einige Monate um Engineering-Fähigkeiten zu heben, CI/CD einzuführen oder moderne Team-Praktiken zu etablieren) oder eine mehrjährige Partnerschaft zur schrittweisen Modernisierung und Weiterentwicklung eines großen, geschäftskritischen Softwaresystems. Die Intensität passt sich an: wir verstärken die Begleitung in Phasen der Richtungsänderung und fahren sie zurück, sobald Teams mehr Autonomie haben.  
+Typischer Ablauf:
+1. Bestandsaufnahme (Interviews, Code- und Delivery-Diagnose)
+2. Maßnahmenplan (klare Reihenfolge mit erwartetem Nutzen)
+3. Eingebettete Lieferung (praktisches Coding + Fähigkeitsaufbau)
+4. Fortschrittsreviews (Evidenz, Metriken, Risiken)
+5. Auslaufphase (leichter Support, dann Exit; Wiedereinstieg nur bei Bedarf)
 
-Zum Preis eines Entwicklers erhalten Sie Entwickler, Coach und technischen Berater – alles in einer Person.
+<p><a href="mailto:info@caimito.net?subject=Kostenfreies Delivery Assessment"><mark>Gespräch starten</mark></a></p>
 
-**Struktur**
+## Frühe Coachingphase
+In den ersten Wochen strukturieren wir Coaching so, dass Veränderung beschleunigt ohne Lieferung zu stören. Kein Schulungsraum. Sondern:
+- Kurze fokussierte Sitzungen an echtem Code und Pipeline-Schritten
+- Pairing bei Verbesserungen (Tests, Build, Deployment, Architektur-Klarheit)
+- Gezielte Durchgänge durch Engpässe und Entscheidungspunkte
+- Schneller Fähigkeitsaufbau bei internen Verantwortlichen kritischer Systeme
 
-- Bestandsaufnahme & Interviews  
-- Coaching Map (Aktionsplan)  
-- Praktische Arbeit  
-- Leistungs-/Erfolgs-Monitoring  
-- Ausleitung  
-
-**Bestandsaufnahme & Interviews**  
-: Wir analysieren aktuelle Praktiken, identifizieren Engpässe und prüfen technische Prozesse um zu verstehen wo Verbesserungen den größten Hebel haben.
-
-**Coaching Map**  
-: Gemeinsam erstellen wir eine visuelle Roadmap – ähnlich einer [Story Map](/de/kbase/story-map.html) – mit Maßnahmen, zeitlicher Einordnung und erwarteten Ergebnissen.
+Die Struktur macht frühe Verbesserungen sichtbar, baut Eigentümerschaft auf und verhindert Abhängigkeit. Fokusbereiche und Ergebnisse bleiben im Maßnahmenplan für Führung transparent.
 
 <figure>
-	<img src="/img/story-map.png">
+  <img src="/img/story-map.png">
 </figure>
 
-**Praktische Arbeit**  
-: Rund 60–70 % der Zeit des Advocates fließen direkt in Entwicklung.  
-: Das sichert Glaubwürdigkeit und natürliche Integration. Verbesserungen werden im Kontext angewendet – nicht von außen verordnet.
+## Praktische Arbeit
+Etwa 60–70 % der Zeit fließen direkt in Codebasis, Pipelines und Architektur-Diskussionen. Niemals „nur Folien“. Diese praktische Teilnahme:
+- Verankert Empfehlungen in Realität statt Theorie
+- Baut Vertrauen und Glaubwürdigkeit bei Engineers
+- Lässt Verbesserungen schneller landen (Implementierung während Coaching)
+- Modelliert nachhaltige Liefergewohnheiten in echten Situationen
+
+### Einsatz von KI-Unterstützung
+Wir fördern verantwortungsvolle Nutzung moderner KI-Tools: Arbeiten auf höherer Abstraktionsebene über einzelnen Sprachen (Java, C#, etc.). KI unterstützt Entwurf, Refactoring und schnelle Optionenerkundung – Validierung folgt durch Tests und menschliches Urteil. Ziel: Beschleunigung bei erhaltener Qualität und Klarheit, kein Ersatz.
+
+Verbesserungen entstehen im Kontext, nicht von außen verordnet. Ziel ist dauerhafte Fähigkeit, nicht Abhängigkeit.
 
 <figure>
   <img src="/img/pairProgramming.jpg"/>
 </figure>
 
-**Ausleitung**  
-: Wenn das Team unabhängiger wird, reduzieren wir die Präsenz schrittweise. Nach einigen Wochen Beobachtung und Begleitung endet das Engagement – jederzeit reaktivierbar.
-
-
-## Erfolgs-Monitoring
-
-- Regelmäßige Reviews mit dem Top-Management verfolgen Fortschritt und Ergebnisse.  
-- Fokusbereiche sind Performance, Qualität und Team-Autonomie.  
-- Als neutrale Beobachtung kann der Senior Developer Advocate auch organisatorische Verbesserungen anregen, um Resultate zu verstetigen.
+<div class="two-columns contracting-positioning">
+  <div class="column-left">
+  <h2>Vertrag &amp; Positionierung</h2>
+  <p>Direkte Berichts­linie zu CEO, Vorstand oder gleichwertigem Sponsor sichert klares Mandat und neutrale Perspektive.</p>
+    <ul>
+      <li>Unabhängige Sicht auf Delivery-Realität</li>
+  <li>Mandat, teamübergreifende Blocker zu entfernen</li>
+  <li>Neutrale Haltung außerhalb interner Politik</li>
+    </ul>
+  <p>Referenz: <a class="learn-more" href="/de/developer-advocate-guidelines.html">Leitfaden Senior Developer Advocate</a></p>
+    <h2>Start</h2>
+    <p>Fordern Sie ein kurzes Assessment an. Sie erhalten einen kompakten Report: aktuelle Liefer-Risiken, 3–5 Hebelverbesserungen und optionaler Engagement-Umriss.</p>
+  </div>
+  <div class="column-right">
+  <h2>Erfolg messen</h2>
+  <p>Frühe Ausgangslage erfassen, dann regelmäßige Reviews. Typische Indikatoren:</p>
+    <ul>
+  <li>Durchlaufzeit (Idee bis Produktion) sinkt</li>
+  <li>Release-Stabilität (weniger Hotfixes, sauberere Deployments)</li>
+  <li>Laufende Arbeit (WIP) unter Kontrolle und sichtbar</li>
+  <li>Mehr automatisierte Checks, weniger manuelle „Heldentaten“</li>
+  <li>Teams agieren sicher ohne ständige Eskalation</li>
+    </ul>
+  <h2>Einfacher Check nach 90 Tagen</h2>
+  <p>Sie sollten faktenbasiert beantworten können:</p>
+    <ul>
+      <li>Wo stecken wir fest?</li>
+      <li>Was verbesserte sich – um wie viel?</li>
+      <li>Was ist der nächste Hebel?</li>
+    </ul>
+    <p><strong>Falls nicht, haben wir unseren Job nicht erledigt.</strong></p>
+  </div>
+</div>

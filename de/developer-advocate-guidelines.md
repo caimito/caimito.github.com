@@ -8,7 +8,7 @@ title: Senior Developer Advocate Leitfaden
     {{ left_column | markdownify }}
   </div>
   <div class="sidebar reference-projects">
-    <p>Der <strong>Senior Developer Advocate</strong> verbindet Management-Vision mit technischer Realität. Wir arbeiten neben agilen, Lean- oder OKR-Initiativen – und verwandeln Strategie in nachhaltige Ausführung ohne Reibung oder Konkurrenz. Durch die Ansprache sowohl von Vorstandsebene als auch Entwicklungsteams bleiben Richtung, Entscheidungen und Lieferung ausgerichtet.</p>
+  <p>Der <strong>Senior Developer Advocate</strong> verbindet Management-Absicht mit technischer Realität. Methodenneutral – keine Förderung von Marken-Frameworks oder Label-Debatten, sondern praktische Verbesserungen, die Strategie ausführbar machen. Durch die Ansprache von Führung und Engineering bleiben Richtung, Entscheidungen und Lieferung faktenbasiert und ausgerichtet.</p>
 
     <h2>Berichte aus der Praxis</h2>
     <ul class="posts">

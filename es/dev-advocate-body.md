@@ -1,149 +1,157 @@
 # Senior Developer Advocate
 
-Las organizaciones modernas de software rara vez fracasan por malas intenciones: fracasan por **desalineación** entre las expectativas de la dirección, la capacidad del equipo y la realidad técnica.
+<div class="callout">
+<strong>Siempre en el código + Siempre mejorando:</strong> Este rol entrega código productivo mientras despeja obstáculos de flujo (tests, release, feedback). Ingeniería práctica y habilitación van juntas.
+</div>
 
-Un Senior Developer Advocate cierra esa brecha — no con eslóganes o frameworks, sino mediante **entendimiento compartido, transparencia y entrega repetible**.
+## En Un Minuto
+Usted quiere software entregado más rápido, con menos sorpresas y hechos claros en vez de reportes optimistas. El trabajo se frena porque objetivos, capacidad y realidad técnica se desalinean. Nosotros los realineamos.
 
-## Qué Hacemos
+## Lo Que Hace Este Rol
+Un Senior Developer Advocate es un ingeniero senior que escribe código productivo y a la vez mejora cómo fluye el trabajo. No es teórico. No es vendedor de métodos. Mejoramos la entrega tocando código, pipeline y bucle de feedback al mismo tiempo.
 
-Ayudamos a las organizaciones a evolucionar de “proyectos que sufren” a “equipos que entregan”.
+> No instalamos procesos con marca ni renombramos sus reuniones. Si algo funciona, se queda. Si solo hace ruido, se quita. Único requisito: software entregado con creciente confianza.
 
-- **Hacer visible el progreso**  
-  Usamos herramientas visuales ligeras para mostrar lo que está hecho, lo que sigue y lo que está bloqueado — transformando ruido en claridad.
+<div class="two-columns outcomes-value">
+  <div class="column-left">
+    <h2>Resultados que impulsamos</h2>
+    <ul>
+      <li>Flujo más rápido de cambios valiosos</li>
+      <li>Menor tiempo de idea a producción</li>
+      <li>Menos incidentes y rollbacks</li>
+      <li>Visibilidad clara: hecho, siguiente, bloqueado</li>
+      <li>Mayor capacidad interna (menos dependencia externa)</li>
+    </ul>
+  </div>
+  <div class="column-right">
+    <h2>Cómo generamos valor</h2>
+    <ul>
+      <li>Hacemos visible el trabajo para que el riesgo aparezca temprano</li>
+      <li>Quitamos fricción: pruebas inestables, entornos lentos, propiedad difusa</li>
+      <li>Construimos mientras enseñamos: el equipo sube de nivel entregando</li>
+      <li>Estabilizamos pipelines y releases antes de ampliar plantilla</li>
+      <li>Protegemos conocimiento existente — lo amplificamos</li>
+    </ul>
+  </div>
+</div>
 
-- **Exponer la realidad, no excusas**  
-  Hacemos visible la fricción oculta: deuda técnica, propiedad poco clara, falta de automatización — para que la dirección actúe con hechos.
+## Trabajo con Otros Asesores
+Operamos a menudo junto a consultores estratégicos u organizacionales. Ellos marcan dirección; nosotros hacemos posible la ejecución. Traducimos intención en mejoras concretas: entornos, pruebas, disciplina de release, claridad arquitectónica, velocidad de feedback.
 
-- **Construir capacidad mientras entregamos**  
-  Modernizamos sistemas *y* desarrollamos personas. Cada mejora deja habilidades internas más fuertes, no dependencia.
+Colaboración típica:
+- Convertir objetivos de alto nivel en metas técnicas concretas
+- Dar visión técnica independiente para decisiones ejecutivas
+- Anclar recomendaciones en restricciones y capacidad reales
+- Mantener puente neutral entre dirección, producto e ingeniería
 
-- **Estabilizar antes de escalar**  
-  Un flujo predecible requiere una base sólida: entornos repetibles, pruebas fiables y ciclos de release transparentes.
+<div class="two-columns why-what">
+  <div class="column-left">
+    <h2>Por qué funciona</h2>
+    <p>El trabajo de software es aprendizaje más entrega. La presión solo oculta riesgo. Creamos flujo estable: pasos pequeños, seguros y observables. Genera mejor predictibilidad y menos escaladas.</p>
+  </div>
+  <div class="column-right">
+    <h2>Lo que recibe (en vez de otra contratación)</h2>
+    <p>Una sola persona actuando como:</p>
+    <ul>
+      <li>Ingeniero senior (entrega código ~60–70% del tiempo)</li>
+      <li>Coach técnico y catalizador</li>
+      <li>Evaluador neutral para ejecutivos</li>
+    </ul>
+    <p>Reemplaza múltiples roles (desarrollador, coach, traductor de proceso) y acelera madurez interna.</p>
+  </div>
+</div>
 
-- **Respetar el conocimiento existente**  
-  Las personas que mejor conocen su negocio permanecen en el centro. Integramos su experiencia para que la modernización sea segura y eficaz.
-
-## Trabajo con Otros Consultores y Frameworks
-
-Colaboramos frecuentemente con **consultores organizacionales** que introducen sus propios métodos.  
-
-Nuestro rol es **complementario**, no competitivo.  
-
-Donde los marcos de gestión definen objetivos, nos aseguramos de que los equipos tengan la **capacidad técnica y la estructura** para alcanzarlos.  
-Somos el puente entre **concepto e implementación**, traduciendo la intención de gestión en prácticas de ingeniería ejecutables y sostenibles.
-
-Patrones típicos de cooperación:
-
-- Apoyar iniciativas Agile o Lean con bases de automatización y pruebas que hacen segura la iteración rápida.  
-- Traducir objetivos OKR en resultados técnicos medibles.  
-- Ayudar a consultores de procesos a ajustar sus modelos a las restricciones y habilidades reales del equipo.  
-- Mantener una voz técnica neutral en la que confían desarrolladores y dirección.
-
-Al mismo tiempo trabajamos directamente con **alta dirección y comités** para alinear decisiones estratégicas con la realidad técnica. Así la dirección, la inversión y la velocidad de entrega se refuerzan mutuamente en lugar de chocar.
-
-## Por Qué Funciona
-
-El desarrollo de software no es manufactura — es descubrimiento continuo.  
-Creamos **flujo**, no presión: ciclos de aprendizaje más rápidos, menos sorpresas y decisiones basadas en evidencia.
-
-Medimos el éxito por:
-- Estabilidad de los releases  
-- Velocidad del feedback verificado  
-- Autonomía y confianza del equipo  
-
-## Beneficios para su Organización
-
-El Senior Developer Advocate es tanto **consultor como desarrollador** — un ingeniero experimentado que se integra temporalmente para aumentar habilidad, rendimiento y velocidad de entrega.
-
-En tiempos de presupuestos ajustados, es una forma rentable de fortalecer al equipo sin ampliar plantilla ni perder impulso.
-
-<a href="mailto:info@caimito.net?subject=Evaluación de Desarrollo Gratuita"><mark>Solicitar<br/> Evaluación Gratuita</mark></a>
-
-En lugar de contratar más desarrolladores, testers o roles de proyecto, el Senior Developer Advocate potencia la capacidad del equipo existente.  
-Los costes son menores, la incorporación mínima y la calidad del código aumenta mientras el conocimiento se difunde de forma natural.
+<a href="mailto:info@caimito.net?subject=Evaluación Gratuita de Delivery"><mark>Solicitar<br/> Evaluación de Delivery</mark></a>
 
 {% include_relative contact.html %}
+
+## Cómo Ocurren las Mejoras
+Trabajo real, sistemas vivos — no talleres por obligación.
+
+Preparación para Entrega Continua  
+: Automatización incremental en build, test y deploy. Pequeñas mejoras que se acumulan.
+
+Disciplina de Pruebas  
+: Estrategia de pruebas pragmática (unit donde aporta, integración donde genera evidencia) reduce regresiones y acelera revisión.
+
+Claridad Ejecutable  
+: Requisitos difusos se convierten en ejemplos y comprobaciones que evitan retrabajo.
 
 <figure>
   <img src="/img/developers.jpg"/>
 </figure>
 
-## Aprender Haciendo
-
-Como el Senior Developer Advocate trabaja cerca de los equipos, la mejora ocurre en trabajo real — no en teoría.  
-Así se ve en la práctica:
-
-Entrega Continua (Continuous Deployment)  
-: Identificamos pequeñas oportunidades de automatización en build, test y despliegue. Cada quick win acerca a la entrega continua — de manera sostenible y con conocimiento duradero.
-
-Desarrollo Guiado por Pruebas (TDD)  
-: Muchos equipos luchan con TDD en entornos complejos. El Senior Developer Advocate sabe cuándo y cómo introducirlo con seguridad — guiando a mejores estructuras y menos regresiones.
-
-Especificación Ejecutable  
-: Los malentendidos entre equipos y stakeholders generan retrabajo costoso. Introducimos especificaciones vivas y testeables para que lo acordado sea lo entregado.
-
-## Modelo de Contratación
-
-<div class="two-columns contracting-guidelines">
-  <div class="column-left" markdown="1">
-El Senior Developer Advocate se **contrata directamente por el consejo, dirección general o nivel ejecutivo equivalente** — no como empleado temporal dentro de un solo equipo.
-
-Esto asegura:
-
-- Evaluación independiente y reporte directo a decisores.
-- Mandato claro para alinear dirección organizacional con ejecución técnica.
-- Libertad de dinámicas internas de equipos o política departamental.
-
-Aunque trabajamos codo a codo con desarrolladores, product owners y otros consultores, el rol sigue siendo una **alianza estratégica con la dirección**. Esta posición garantiza neutralidad, autoridad e impacto sostenible en toda la organización.
-  </div>
-  <div class="column-right" markdown="1">
-### Guía & Referencia
-
-La *Guía del Senior Developer Advocate* ofrece una referencia concisa y compartible para patrocinadores y stakeholders. Resume propósito, límites, principios de colaboración y resultados esperados.
-
-**Abrir:** <a class="learn-more" href="/es/developer-advocate-guidelines.html">Guía Senior Developer Advocate</a>
-
-<small>Úsela en revisiones ejecutivas, renovaciones o al introducir el rol.</small>
-  </div>
-</div>
-
 ## Modelo de Engagement
+Duración flexible: desde impulso focalizado de unos meses hasta socio de modernización más largo. La intensidad se ajusta: muy hands‑on al inicio, disminuye cuando el equipo gana confianza.
 
-La duración del engagement es totalmente situacional y guiada por el trabajo pendiente. Puede ser un programa enfocado y acotado (p.ej. varios meses para elevar habilidades de ingeniería, introducir CI/CD o establecer prácticas modernas de equipo) o una asociación plurianual para modernizar y evolucionar progresivamente un sistema software crítico. La intensidad se ajusta: nos involucramos más en puntos de inflexión y reducimos la presencia cuando el equipo gana autonomía.  
+Arco típico:
+1. Assessment (entrevistas, diagnóstico de código y entrega)
+2. Action Map (secuencia clara de mejoras + impacto esperado)
+3. Entrega Embebida (coding práctico + construcción de capacidad)
+4. Revisiones de Progreso (evidencia, métricas, riesgos)
+5. Fase de Salida (soporte ligero y cierre; reenganche solo si se requiere)
 
-Por el precio de un desarrollador obtiene desarrollador, coach y consultor técnico — todo en una persona.
+<p><a href="mailto:info@caimito.net?subject=Evaluación Gratuita de Delivery"><mark>Iniciar Conversación</mark></a></p>
 
-**Estructura**
+## Fase Temprana de Coaching
+Primeras semanas: coaching estructurado acelera cambio sin frenar entrega. No es aula. Es:
+- Sesiones cortas y enfocadas sobre código y pasos de pipeline reales
+- Pairing en mejoras (tests, build, despliegue, claridad arquitectónica)
+- Recorridos dirigidos por cuellos de botella y puntos de decisión
+- Uplift rápido de habilidad para responsables internos de sistemas críticos
 
-- Evaluación e Entrevistas  
-- Mapa de Coaching (Plan de Acción)  
-- Trabajo Práctico  
-- Monitoreo de Performance  
-- Fase de Salida  
-
-**Evaluación e Entrevistas**  
-: Analizamos prácticas actuales, identificamos cuellos de botella y revisamos procesos técnicos para entender dónde la mejora tiene mayor apalancamiento.
-
-**Mapa de Coaching**  
-: Creamos juntos un roadmap visual — similar a un [Story Map](/de/kbase/story-map.html) — con acciones, tiempos y resultados esperados.
+La estructura de coaching da forma a las mejoras iniciales, construye propiedad y evita dependencia. Áreas y resultados visibles en el Action Map.
 
 <figure>
-	<img src="/img/story-map.png">
+  <img src="/img/story-map.png">
 </figure>
 
-**Trabajo Práctico**  
-: Alrededor del 60–70% del tiempo del Advocate va directo a desarrollo.  
-: Asegura credibilidad e integración natural. Las mejoras se aplican en contexto, no impuestas desde fuera.
+## Trabajo Práctico
+~60–70% del tiempo del Advocate va directo a la base de código, pipelines y discusiones de arquitectura. Nunca “solo diapositivas”. Esta participación hands‑on:
+- Aterra recomendaciones en la realidad
+- Construye confianza y credibilidad con ingeniería
+- Deja mejoras antes (implementamos mientras coachamos)
+- Modela hábitos sanos de entrega en situaciones reales
+
+### Uso Aplicado de IA
+Promovemos uso responsable de herramientas de código asistido por IA para trabajar a un nivel de abstracción mayor que lenguajes individuales. IA acelera borradores, refactor y exploración; validamos después con pruebas y criterio humano. No buscamos reemplazar, sino acelerar con calidad y claridad.
+
+Las mejoras se aplican en contexto, no impuestas desde fuera. El objetivo: capacidad duradera, no dependencia.
 
 <figure>
   <img src="/img/pairProgramming.jpg"/>
 </figure>
 
-**Fase de Salida**  
-: A medida que el equipo gana independencia, la presencia se reduce gradualmente. Tras unas semanas de observación y soporte, el engagement termina — listo para reactivarse si se necesita.
-
-## Monitoreo del Éxito
-
-- Revisiones regulares con la alta dirección siguen progreso y resultados.  
-- Áreas de foco incluyen rendimiento, calidad y autonomía del equipo.  
-- Como observador neutral, el Senior Developer Advocate puede sugerir mejoras organizacionales para sostener los resultados.
+<div class="two-columns contracting-positioning">
+  <div class="column-left">
+    <h2>Contratación &amp; Posicionamiento</h2>
+    <p>Reportamos directo a CEO, consejo u otro patrocinador equivalente. Da mandato claro y perspectiva neutral.</p>
+    <ul>
+      <li>Visión independiente sobre la realidad de entrega</li>
+      <li>Mandato para eliminar bloqueos transversales</li>
+      <li>Postura neutral fuera de política interna</li>
+    </ul>
+    <p>Documento de referencia: <a class="learn-more" href="/es/developer-advocate-guidelines.html">Guía Senior Developer Advocate</a></p>
+    <h2>Inicio</h2>
+    <p>Pida un breve assessment. Recibe informe conciso: riesgos actuales, 3–5 mejoras de mayor apalancamiento y esquema opcional de engagement.</p>
+  </div>
+  <div class="column-right">
+    <h2>Medir el Éxito</h2>
+    <p>Baselining temprano y revisiones regulares. Indicadores típicos:</p>
+    <ul>
+      <li>Lead time idea→producción bajando</li>
+      <li>Mayor estabilidad en releases (menos hotfixes)</li>
+      <li>Trabajo en curso controlado y visible</li>
+      <li>Aumentan checks automatizados; baja heroísmo manual</li>
+      <li>Equipos operan con confianza sin escalación constante</li>
+    </ul>
+    <h2>Test Simple: tras 90 días</h2>
+    <p>Debería poder responder con evidencia:</p>
+    <ul>
+      <li>¿Dónde estamos atascados?</li>
+      <li>¿Qué mejoró y cuánto?</li>
+      <li>¿Cuál es el siguiente mayor apalancamiento?</li>
+    </ul>
+    <p><strong>Si no, no hemos hecho nuestro trabajo.</strong></p>
+  </div>
+</div>

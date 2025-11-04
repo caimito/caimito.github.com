@@ -26,14 +26,15 @@ Coaching early; embedded delivery as trust builds. Independence stays constant.
 We are not employees in your reporting chain. We are not process facilitators, ritual participants, or a “transformation program.” We don’t compete with internal enablement or other advisors. We focus on working software and capability, not ceremonies or branded methods.
 
 ### Method Neutrality & Sponsor Shield
-We don’t take sides in “method” debates (names, labels, branded approaches). Arguing over frameworks or terminology slows delivery, erodes trust, and can undo gains we’ve already made. Our work is grounded in practical engineering and business outcomes, not allegiance.
+We don’t take sides in “method” debates (names, labels, branded approaches). Arguing over frameworks or terminology slows delivery, erodes trust, and can undo gains. Our work is grounded in practical engineering and business outcomes, never allegiance.
 
 Kind request to our sponsor:
-- Please keep us out of turf discussions and protect time spent on real improvements.
-- If a conflict over style, labels, or ownership surfaces, address it directly and ask any other consultants to stay clear of our hands‑on delivery work while it is resolved.
-- Judge our contribution by delivery flow, quality, and clarity — not by participation in ceremonies.
+- Keep us out of style/label debates and protect time spent on real improvements.
+- If a conflict over style, labels, or ownership surfaces, address it directly and ask other consultants to stay clear of hands‑on delivery until resolved.
+- Ensure those currently delivering value are explicitly shielded from methodological disputes; such debates must happen outside active delivery windows.
+- Judge our contribution by flow, quality, and clarity — not ceremony attendance.
 
-This neutrality is a performance safeguard: it preserves focus, speed, and cumulative progress.
+Neutrality is a performance safeguard: it preserves focus, speed, and cumulative progress.
 
 ## 4. Advocate Role
 We act in the organization’s long-term delivery interest:
@@ -95,14 +96,15 @@ When it stops adding clarity, we archive or erase it. Its sole purpose is faster
 ## 9. Continuity
 Engagement can expand, pause, or end as needed. Trust maintains momentum. We document improvements so value remains even if the cadence changes. Build resilience, not dependency.
 
-### Handling Organizational Change & Potential Conflict (Non-Contract Guidance)
-Major new management initiatives (planning style, reporting layer, tooling that changes how work is sliced) can speed delivery—or accidentally slow it. To protect progress:
-- Brief us early before introducing a broad change that touches planning, estimation, status reporting, or collaboration mechanics.
-- We’ll give a short, factual impact note: what likely improves, what might slow, and a safe integration path if you proceed.
-- If a chosen change directly undermines active delivery improvements, we shift into a deliberate transition phase: stabilize what exists, hand over knowledge, document key flows, then respectfully step back.
-- Sponsor support: ask other consultants to avoid interfering with hands‑on delivery while alignment is clarified; keep debate off the critical path.
+### Handling Organizational Change & Potential Conflict
+Major new management initiatives — new planning rhythms, added reporting layers, introduction of new methods/frameworks, or tooling that reshapes work slices — can accelerate delivery or unintentionally slow it. To protect progress we follow a clear sequence:
 
-This is not a legal clause—just practical guardrails that keep delivery speed, trust, and accumulated gains intact.
+1. Brief us early before introducing any broad change touching planning, estimation, status formats, collaboration mechanics, or new methods/frameworks.
+2. We perform a focused assessment and provide a written advisory on potential impact to what already works: expected gains, possible risks, and a safe integration path.
+3. If a selected change directly undermines active improvements and is still implemented, we initiate a defined transition phase: stabilize the current state, transfer knowledge, document essential flows, then conclude the engagement in an orderly manner.
+4. Sponsor support: ensure other consultants do not disrupt hands‑on delivery while alignment is clarified; style or label debates are kept off the critical path and outside core delivery time. Delivery staff are explicitly protected from methodological disputes.
+
+Practical guardrails for preserving speed, trust, and accumulated progress.
 
 ## 10. Typical Results
 - Faster, steadier releases

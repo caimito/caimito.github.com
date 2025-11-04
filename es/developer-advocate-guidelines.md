@@ -8,7 +8,7 @@ title: Senior Developer Advocate Guía
     {{ left_column | markdownify }}
   </div>
   <div class="sidebar reference-projects">
-    <p>El <strong>Senior Developer Advocate</strong> conecta la visión de gestión con la realidad de ingeniería. Trabajamos junto a iniciativas Agile, Lean u OKR — convirtiendo estrategia en ejecución sostenible sin fricción ni competencia. Al involucrar tanto a la dirección como al equipo de desarrollo, mantenemos alineadas la dirección, las decisiones y la entrega.</p>
+  <p>El <strong>Senior Developer Advocate</strong> conecta la intención estratégica con la realidad de ingeniería. Operamos con neutralidad de método: sin promover frameworks de marca ni debatir etiquetas — solo mejoras prácticas que vuelven ejecutable la estrategia. Al involucrar liderazgo e ingeniería, dirección, decisiones y entrega se mantienen alineadas y basadas en hechos.</p>
 
     <h2>Informes de la Práctica</h2>
     <ul class="posts">
