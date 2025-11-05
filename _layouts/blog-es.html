@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	{% include head.html %}
+</head>
+
+<body>
+	{% include menu-es.html %}
+	<div class="container">
+		<div class="two-columns">
+			<div>
+				<h1>{{ page.title }}</h1>
+				{{ content }}
+				{% include blog-contact-es.html %}
+			</div>
+			<div class="sidebar">
+				{% include sidebar-en.html %}
+			</div>
+		</div>
+	</div>
+	{% include footer-en.html %}
+	</div>
+</body>
+
+</html>
