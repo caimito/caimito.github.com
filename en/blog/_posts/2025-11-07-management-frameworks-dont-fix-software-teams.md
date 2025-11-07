@@ -88,6 +88,6 @@ Great management creates space for the builders to fix what’s visible.
 
 ## TL;DR
 
-Be grateful to those who reveal the waste.
-Then let the software developers repair the system.
-Methods start the conversation — software development ends it.
+* Be grateful to those who reveal the waste.
+* Then let the software developers repair the system.
+* Methods start the conversation — software development ends it.

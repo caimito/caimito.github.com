@@ -76,6 +76,6 @@ Denn wo andere Regeln folgen, folgt es der Wahrheit.
 
 ### TL;DR
 
-Software ist keine Montage.
-Prozess ersetzt kein Vertrauen.
-Die Zukunft gehört denen, die roh liefern, lernen und sich weiterentwickeln.
+* Software ist keine Montage.
+* Prozess ersetzt kein Vertrauen.
+* Die Zukunft gehört denen, die roh liefern, lernen und sich weiterentwickeln.

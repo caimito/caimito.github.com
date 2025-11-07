@@ -88,6 +88,6 @@ El gran management crea espacio para que los builders reparen lo visible.
 
 ## TL;DR
 
-Agradece a quienes revelan el desperdicio.
-Luego deja que el desarrollo de software repare el sistema.
-Los métodos inician la conversación — el desarrollo de software la termina.
+* Agradece a quienes revelan el desperdicio.
+* Luego deja que el desarrollo de software repare el sistema.
+* Los métodos inician la conversación — el desarrollo de software la termina.

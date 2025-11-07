@@ -7,6 +7,7 @@ title: Notizblog
 		{% for post in site.tags.de limit:1 %}
 		<h1>{{ post.title }}</h1>
 		{{ post.content }}
+		{% include blog-contact-de.html %}
 		{% endfor %}
 	</div>
 

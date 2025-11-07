@@ -76,6 +76,6 @@ Because where others follow rules, they follow truth.
 
 ### TL;DR
 
-Software is not assembly.
-Process is no substitute for trust.
-The future belongs to those who ship, learn, and evolve — raw.
+* Software is not assembly.
+* Process is no substitute for trust.
+* The future belongs to those who ship, learn, and evolve — raw.

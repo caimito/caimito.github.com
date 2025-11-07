@@ -76,6 +76,6 @@ Porque donde otros siguen reglas, ellos siguen la verdad.
 
 ### TL;DR
 
-El software no es ensamblaje.
-El proceso no sustituye la confianza.
-El futuro pertenece a quienes entregan, aprenden y evolucionan — en bruto.
+* El software no es ensamblaje.
+* El proceso no sustituye la confianza.
+* El futuro pertenece a quienes entregan, aprenden y evolucionan — en bruto.

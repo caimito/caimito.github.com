@@ -88,6 +88,6 @@ Großartiges Management schafft Raum damit die Builder das Sichtbare reparieren.
 
 ## TL;DR
 
-Sei dankbar für jene die Verschwendung sichtbar machen.
-Lass danach Software-Entwicklung das System reparieren.
-Methoden starten das Gespräch — Software-Entwicklung beendet es.
+* Sei dankbar für jene die Verschwendung sichtbar machen.
+* Lass danach Software-Entwicklung das System reparieren.
+* Methoden starten das Gespräch — Software-Entwicklung beendet es.
