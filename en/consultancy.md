@@ -24,7 +24,7 @@ Most importantly, we don't want to increase your headcount or require you to use
 Our associates can act as **Senior Developer Advocate** or as **Entrepreneurial Consultant** with good information sharing between them.
 
 <figure>
-	<img src="/img/EN-SeniorDevAdvocateEntrepreneurialConsultant.png" />
+	<object type="image/svg+xml" data="/img/EN-SeniorDevAdvocateEntrepreneurialConsultant.svg"></object>
 </figure>
 
 {% include_relative contact.html %}

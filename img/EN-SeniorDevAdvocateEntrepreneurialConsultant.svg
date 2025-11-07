@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="392" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMin meet">
+  <title id="title">Senior Developer Advocate – Entrepreneurial Consultant</title>
+  <desc id="desc">Arc diagram with two role titles, double arrow, central coaching statement, and practice domains.</desc>
+  <style>
+    .title-left { font:700 30px Helvetica,Arial,sans-serif; fill:#05720b; }
+    .title-right { font:700 30px Helvetica,Arial,sans-serif; fill:#880070; }
+    .center { font:700 26px Helvetica,Arial,sans-serif; fill:#000; text-anchor:middle; }
+      .practices { font:700 28px Helvetica,Arial,sans-serif; }
+    .dev { fill:#05720b; }
+    .biz { fill:#880070; }
+    .arc { stroke:#000; stroke-width:12; stroke-linecap:round; fill:none; stroke-dasharray:110 34; }
+    .arrowhead { fill:#000; }
+  </style>
+
+  <!-- Role Titles -->
+    <text x="160" y="100" class="title-left">Senior Developer Advocate</text>
+    <text x="705" y="100" class="title-right">Entrepreneurial Consultant</text>
+
+  <!-- Double Arrow between titles -->
+    <polygon class="arrowhead" points="608,90 596,84 596,96" />
+    <polygon class="arrowhead" points="624,90 636,84 636,96" />
+
+  <!-- Arc -->
+  <path d="M180 340 C 420 80, 780 80, 1020 340" class="arc" />
+
+  <!-- Center multiline statement -->
+  <text x="600" y="240" class="center">
+    <tspan x="600" dy="0">Coaching on every level</tspan>
+    <tspan x="600" dy="36">of the organization</tspan>
+    <tspan x="600" dy="36">to become more fit and adaptable</tspan>
+    <tspan x="600" dy="36">in an ever changing business context</tspan>
+  </text>
+
+  <!-- Practice Domains -->
+    <text x="250" y="520" class="practices dev">Development</text>
+    <text x="250" y="550" class="practices dev">Practices</text>
+
+    <text x="835" y="520" class="practices biz">Business</text>
+    <text x="835" y="550" class="practices biz">Practices</text>
+</svg>

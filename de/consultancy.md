@@ -18,7 +18,8 @@ Am wichtigsten: Wir wollen weder Ihre Belegschaft künstlich vergrößern noch S
 Unsere Partner können als <strong>Senior Developer Advocate</strong> oder als <strong>Unternehmerischer Berater</strong> agieren – mit gutem Informationsfluss zwischen beiden Rollen.
 
 <figure>
-	<img src="/img/EN-SeniorDevAdvocateEntrepreneurialConsultant.png" />
+	<!-- Ersetzt PNG durch lokalisierte SVG Darstellung -->
+	<object type="image/svg+xml" data="/img/DE-SeniorDevAdvocateUnternehmerischerBerater.svg"></object>
 </figure>
 
 {% include_relative contact.html %}

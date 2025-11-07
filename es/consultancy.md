@@ -18,7 +18,8 @@ Lo más importante: no buscamos aumentar tu plantilla ni obligarte a usar servic
 Nuestros asociados pueden actuar como **Senior Developer Advocate** o como **Consultor Emprendedor** con buen intercambio de información entre ellos.
 
 <figure>
-	<img src="/img/EN-SeniorDevAdvocateEntrepreneurialConsultant.png" />
+	<!-- Reemplaza PNG en inglés con SVG localizado en español -->
+	<object type="image/svg+xml" data="/img/ES-SeniorDevAdvocateConsultorEmprendedor.svg"></object>
 </figure>
 
 {% include_relative contact.html %}

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="392" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMin meet">
+  <title id="title">Senior Developer Advocate – Consultor Emprendedor</title>
+  <desc id="desc">Arco que conecta dos roles con declaración de coaching y dominios de práctica.</desc>
+  <style>
+    .title-left { font:700 21px Helvetica,Arial,sans-serif; fill:#05720b; }
+    .title-right { font:700 21px Helvetica,Arial,sans-serif; fill:#880070; }
+    .center { font:700 26px Helvetica,Arial,sans-serif; fill:#000; text-anchor:middle; }
+    .practices { font:700 28px Helvetica,Arial,sans-serif; }
+    .dev { fill:#05720b; }
+    .biz { fill:#880070; }
+    .arc { stroke:#000; stroke-width:12; stroke-linecap:round; fill:none; stroke-dasharray:110 34; }
+    .arrowhead { fill:#000; }
+  </style>
+  <text x="160" y="100" class="title-left">Senior Developer Advocate</text>
+  <text x="705" y="100" class="title-right">Consultor Emprendedor</text>
+  <polygon class="arrowhead" points="608,90 596,84 596,96" />
+  <polygon class="arrowhead" points="624,90 636,84 636,96" />
+  <path d="M180 340 C 420 80, 780 80, 1020 340" class="arc" />
+  <text x="600" y="240" class="center">
+    <tspan x="600" dy="0">Coaching en cada nivel</tspan>
+    <tspan x="600" dy="36">de la organización</tspan>
+    <tspan x="600" dy="36">para volverse más apta y adaptable</tspan>
+    <tspan x="600" dy="36">en un contexto empresarial cambiante</tspan>
+  </text>
+  <text x="250" y="520" class="practices dev">Prácticas de</text>
+  <text x="250" y="550" class="practices dev">Desarrollo</text>
+  <text x="835" y="520" class="practices biz">Prácticas de</text>
+  <text x="835" y="550" class="practices biz">Negocio</text>
+</svg>
