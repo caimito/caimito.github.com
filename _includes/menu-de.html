@@ -1,38 +1,41 @@
 <nav>
+  <!-- Canonical structure mirrors _includes/menu-en.html. Extra German-only items (Developer Advocate, Cloud Exit) commented out per repository navigation policy. -->
   <ul>
     <li>
       <a id="homeLink" class="brand" href="/de">
-  <img src="/img/CaimitoAgileLife.png" alt="Caimito Agile Life" />
+        <img src="/img/CaimitoAgileLife.png" alt="Caimito Agile Life" />
       </a>
     </li>
+    <li>
+      <a id="consultancyLink" href="/de/consultancy.html">Beratung</a>
+    </li>
+    <li>
+      <a id="recruitingLink" href="/de/recruiting.html">Recruiting</a>
+    </li>
+    <!-- TODO: Produktmanagement aktivieren wenn im englischen Menü freigeschaltet
+    <li>
+      <a href="/de/product-management.html">Produktmanagement</a>
+    </li> -->
+    <li>
+      <a id="developmentLink" href="/de/development.html">Software-Entwicklung</a>
+    </li>
+    <li>
+      <a id="blogLink" href="/de/blog.html">Blog</a>
+    </li>
+    <li>
+      <a id="aboutLink" href="/de/about.html">Über uns</a>
+    </li>
+    <!-- Aus dem englischen Menü nicht enthalten, daher ausgeblendet:
     <li>
       <a id="devAdvocateLink" href="/de/developer-advocate.html">Developer Advocate</a>
     </li>
     <li>
       <a id="cloudExitLink" href="/de/cloud-exit.html">Cloud Exit</a>
-    </li>
-    <li>
-      <a id="blogLink" href="/de/blog.html">Notizblog</a>
-    </li>
-    <li>
-      <a id="aboutLink" href="/de/about.html">Über uns</a>
-    </li>
-    <!-- <li>
-      <a id="agileLink" href="/de/consultancy.html">Technical Consultancy</a>
-    </li> -->
-    <!-- <li>
-      <a href="/de/recruiting.html">Technical Recruiting</a>
-    </li> -->
-    <!-- <li>
-      <a href="/de/development.html">Custom Software</a>
     </li> -->
     <li class="right">
-      <img src="/img/German-Language-Flag.svg" height="20px" alt="Deutsch" onClick="onSwitchLanguage('de')"
-        style="cursor: pointer" />
-      <img src="/img/English_language.svg" height="20px" alt="English" onClick="onSwitchLanguage('en')"
-        style="cursor: pointer" />
-      <img src="/img/Spanish-Language-Flag.svg" height="20px" alt="Español" onClick="onSwitchLanguage('es')"
-        style="cursor: pointer" />
+      <img src="/img/German-Language-Flag.svg" height="20px" alt="Deutsch" onClick="onSwitchLanguage('de')" style="cursor: pointer" />
+      <img src="/img/English_language.svg" height="20px" alt="English" onClick="onSwitchLanguage('en')" style="cursor: pointer" />
+      <img src="/img/Spanish-Language-Flag.svg" height="20px" alt="Español" onClick="onSwitchLanguage('es')" style="cursor: pointer" />
     </li>
   </ul>
 </nav>

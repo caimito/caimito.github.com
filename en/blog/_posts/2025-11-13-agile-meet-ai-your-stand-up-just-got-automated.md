@@ -68,3 +68,4 @@ If you cling to rituals, you’ll slow down.
 If you cling to principles — feedback, transparency, technical excellence — you’ll accelerate.
 
 That’s the real test of who understood Agile in the first place.
+
