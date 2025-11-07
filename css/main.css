@@ -4,3 +4,8 @@
 @import "modifications.css";
 @import "tables.css";
 @import "mobile.css"; 
+
+/* Adjust paragraph line height for improved readability */
+p {
+	line-height: 1.3em;
+}

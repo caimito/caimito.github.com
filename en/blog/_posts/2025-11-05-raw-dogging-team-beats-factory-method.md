@@ -9,7 +9,7 @@ tags:
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>By Stephan Schwab</em></p>
 
 There’s a certain mythology in management circles:
-that software development can be tamed by **process**, that predictability will emerge if we just impose the right structure — Scrum, SAFe, OKR, TSOD, Lean, whatever acronym happens to be fashionable this decade.
+that software development can be tamed by **process**, that predictability will emerge if we just impose the right structure — Scrum, SAFe, OKR, Lean, whatever acronym happens to be fashionable this decade.
 
 It’s the **manufacturing fantasy**: that software is an assembly line, and developers are workers piecing together widgets from a predefined blueprint. The goal is “repeatable output.” The metric is “velocity.”
 The outcome? Mediocrity — at best.
