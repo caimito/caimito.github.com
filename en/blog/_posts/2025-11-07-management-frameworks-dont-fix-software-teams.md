@@ -8,76 +8,86 @@ tags:
 ---
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>By Stephan Schwab</em></p>
 
-Every few years, a new management framework promises salvation.
-It comes with canvases, roles, ceremonies, and color‑coded stickies. It claims to uncover “waste,” “bottlenecks,” and “misalignment.”
-And to be fair — it often does uncover something.
-But what happens next is where things usually go wrong.
+Every few years, a new management framework arrives with the promise of order.
+It comes with canvases, ceremonies, roles, and dashboards. It helps organizations see where things go wrong — the bottlenecks, the overload, the rework.
+And that’s valuable.
+Because most organizations are blind until someone helps them see.
+
+For that, we owe consultants and method coaches real gratitude.
+They bring language, structure, and reflection into places that used to rely on chaos and charisma. They make dysfunction visible.
+
+But visibility is not the same as repair.
 
 ## Frameworks See Symptoms — Software Developers Fix Causes
 
-A framework is diagnostic, not curative.
-It can show that communication is broken, that work‑in‑progress is piling up, or that releases keep failing. But none of that can be fixed with more frameworks, rituals, or leadership slogans.
-Those problems live deep in code, tooling, and technical habits.
+Frameworks are diagnostic tools. They reveal what hurts, but they can’t perform surgery.
+Only software development can.
 
-Bad commits create integration hell — not bad standups.
-Unreliable releases come from missing tests — not missing retros.
-Long lead times are caused by poor CI/CD — not poor sprint planning.
-
-Until underlying software development practices change — version control discipline, automation, test coverage, modularity — no amount of method theater will make delivery smooth.
-
-## The Consultant’s Reflex: “Let’s Fix the Developers”
-
-Many management consultants, often with little or no coding experience, see developers as a black box that needs calibration.
-They think the problem is “developer mindset” or “culture.”
-So they introduce rituals to “improve collaboration” — as if the main challenge were emotional rather than technical.
-
-But software isn’t psychology. It’s a system of logic, feedback, and constraints.
-If developers resist arbitrary frameworks, it’s not because they’re stubborn — it’s because they already operate in a domain ruled by hard feedback: code compiles or it doesn’t, tests pass or they fail, users stay or they churn.
-In that environment, truth matters more than theater.
-
-## The Real Fix: Software Development Hygiene
-
-If you really want to improve delivery, start with the things that make feedback faster and errors cheaper:
+When a sprint keeps slipping, a framework might label it “lack of focus” or “scope creep.”
+A software developer will trace it to missing test automation, circular dependencies, or a weak build pipeline.
 
 <table>
 <thead>
-<tr><th>Area</th><th>Real Fix</th><th>Management Equivalent (Symptom)</th></tr>
+<tr><th>Problem</th><th>Framework’s View</th><th>Software Development Root Cause</th></tr>
 </thead>
 <tbody>
-<tr><td>Testing</td><td>Automated tests + CI/CD</td><td>“Quality circle” or “QA ownership workshop”</td></tr>
-<tr><td>Architecture</td><td>Clear modular boundaries</td><td>“Reduce dependencies between teams”</td></tr>
-<tr><td>Release</td><td>Small, reversible changes</td><td>“Reduce risk by adding more approvals”</td></tr>
-<tr><td>Communication</td><td>Shared code visibility</td><td>“Cross‑functional alignment meeting”</td></tr>
+<tr><td>Frequent regressions</td><td>“We need clearer roles”</td><td>Missing test coverage</td></tr>
+<tr><td>Unpredictable releases</td><td>“Improve coordination”</td><td>Weak CI/CD pipeline</td></tr>
+<tr><td>Slow feature flow</td><td>“Too much WIP”</td><td>Monolith coupling, long build times</td></tr>
+<tr><td>Low morale</td><td>“Culture issue”</td><td>Tooling pain, manual toil, unclear ownership</td></tr>
 </tbody>
 </table>
 
-The frameworks point at the pain — the software developers remove the cause.
-That’s the fundamental difference.
+Both perspectives are true — but only one can actually fix the system.
+
+## The Consultant’s Dilemma
+
+Many management consultants genuinely want to help. They come from strategy, operations, or organizational design — domains where process is the lever that moves performance.
+When they look at software teams, they reach for the same lever.
+
+But software is not a production line. It’s a living system that changes shape every day.
+Trying to “fix developers” through new ceremonies or motivational campaigns is like trying to tune a database by holding more meetings about the query plan.
+It feels active but doesn’t touch the cause.
+
+Still, their effort to understand is worth appreciating.
+They bridge a gap that most executives can’t even articulate — they care enough to try.
+
+## The Real Fix: Software Development Hygiene
+
+Once the diagnosis is clear, progress depends on software development principles — not management reform.
+That’s the moment where the consultant’s insight meets the developer’s craft.
+
+Automate what humans shouldn’t repeat.
+Keep changes small and reversible.
+Test before you trust.
+Make feedback immediate and visible.
+Measure flow in code, not in meetings.
+
+The consultant helps you see the waste.
+The software developer helps you remove it.
+
+They are not opponents — just specialists standing on different sides of the same truth.
 
 ## Let Software Developers Shape Their Work
 
-Every serious craft has its internal logic.
-You don’t tell a surgeon how to hold a scalpel, or a pilot how to handle turbulence. You trust their judgment because you trust their training.
+Consultants can guide how teams interact; software developers must own how the work flows.
+Crossing that line unintentionally creates friction — not because developers resist change, but because they operate in a world ruled by feedback that’s faster and harsher than any retrospective: the build fails, the system crashes, the user leaves.
 
-Software development is no different.
-When outsiders impose how software developers should plan, estimate, or “self‑organize,” they’re not empowering them — they’re interrupting flow.
+To honor that reality is not to reject management.
+It’s to respect the physics of software.
 
-Good management doesn’t fix developers.
-It creates the conditions for them to fix the system.
+## Grateful Boundaries
 
-## The Hard Truth
+We should thank the consultants who challenge complacency and reveal what’s broken.
+Their frameworks are useful mirrors.
+But after the mirror comes the wrench.
+And that’s when software developers must lead — not to replace the consultants, but to finish what they started.
 
-No framework, however elegant, will ever write a test, refactor a legacy module, or debug a failing pipeline.
-That’s work for software developers — not consultants.
-
-So if a management framework helps you see waste, great. Use it as a mirror.
-But when it’s time to act, hand the mirror to the people who actually build the thing.
-
-They don’t need fixing.
-They need space, tools, and trust to do their work.
+Good management knows when to step back.
+Great management creates space for the builders to fix what’s visible.
 
 ## TL;DR
 
-Frameworks reveal dysfunction.
-Software development repairs it.
-Consultants who try to “fix developers” are solving the wrong problem.
+Be grateful to those who reveal the waste.
+Then let the software developers repair the system.
+Methods start the conversation — software development ends it.
