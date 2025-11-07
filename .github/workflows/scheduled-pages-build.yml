@@ -1,0 +1,77 @@
+name: Scheduled Jekyll Build & Deploy
+
+on:
+  schedule:
+    - cron: '30 4 * * *' # Daily at 04:30 UTC (adjust as needed)
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify start
+        run: |
+          # Send start notification to Mattermost (webhook stored as secret)
+          curl -sS -X POST -H 'Content-Type: application/json' \
+            -d "{\"text\":\"$(hostname): Starting scheduled Jekyll build (workflow $GITHUB_WORKFLOW, run $GITHUB_RUN_ID, attempt $GITHUB_RUN_ATTEMPT)\"}" \
+            "${{ secrets.MATTERMOST_WEBHOOK }}" || true
+          echo "START_TS=$(date +%s)" >> $GITHUB_ENV
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+      - name: Install dependencies
+        run: |
+          bundle install --jobs 4 --retry 3
+      - name: Build site
+        env:
+          JEKYLL_ENV: production
+        run: |
+          # Capture full build output to a logfile for tailing in notification
+          bundle exec jekyll build --trace 2>&1 | tee build.log
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Notify build result
+        if: always()
+        run: |
+          # Tail last 40 lines of build log (if present) and escape for JSON
+          TAIL=$( (tail -n 40 build.log 2>/dev/null || echo "(no build.log)" ) | sed 's/\\/\\\\/g; s/"/\\"/g')
+          NOW_TS=$(date +%s)
+          DURATION=$(( NOW_TS - START_TS ))
+          MSG="$(hostname): Jekyll build job status: ${{ job.status }} (duration ${DURATION}s)\n\n\`\`\`\n$TAIL\n\`\`\`"
+          curl -sS -X POST -H 'Content-Type: application/json' \
+            -d "{\"text\":\"$MSG\"}" \
+            "${{ secrets.MATTERMOST_WEBHOOK }}" || true
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Notify deploy result
+        if: always()
+        run: |
+          STATUS="${{ job.status }}"
+          PAGE_URL="${{ steps.deployment.outputs.page_url }}"
+          TEXT="$(hostname): Pages deploy status: $STATUS URL: $PAGE_URL"
+          curl -sS -X POST -H 'Content-Type: application/json' \
+            -d "{\"text\":\"$TEXT\"}" \
+            "${{ secrets.MATTERMOST_WEBHOOK }}" || true

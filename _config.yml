@@ -1,1 +1,3 @@
 markdown: kramdown
+timezone: Europe/Berlin
+future: false # Keep false so future posts publish only when date passes (Action rebuild handles timing)
