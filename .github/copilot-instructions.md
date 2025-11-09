@@ -52,6 +52,7 @@ tags:
 * Avoid literal translations of strong English metaphors (e.g. "kills Agile"). Use neutral business German alternatives like "schafft nicht ab", "beendet", "macht obsolet", depending on nuance.
 * Avoid unnecessary English nouns (e.g. "Engineering") in German content. Prefer "Software-Entwicklung", "technische Umsetzung", or context-appropriate business terms (e.g. "Produktentwicklung") and use "fachlicher Experte" instead of "Domänenexperte" when describing domain specialists.
 * Avoid "germanized" English verbs (e.g. "reviewt", "deployt", "gemerged"). Use standard German equivalents: "prüfen", "ausliefern", "verteilen", "zusammenführen". If no concise equivalent exists, rephrase (e.g. describe the action: "Code wird überprüft und anschließend ausgeliefert").
+* Translate "governance" as "Führung" (leadership/guidance), not "Steuerung" (control/steering). This preserves the conceptual distinction between governance (systematic guidance through instrumentation) and control (direct oversight).
 
 ## Prohibited Actions
 * No insertion of marketing fluff, self-promotion, or unrelated external links.
