@@ -1,0 +1,27 @@
+<section>
+  <h2>Technical Consultancy</h2>
+  <h3>Senior Developer Advocate</h3>
+  <p>Embedded into your team as an active contributor, increasing effectiveness and elevating engineering clarity.</p>
+  <p><a href="/en/developer-advocate.html" class="learn-more">Learn more ...</a></p>
+  <h3>Technical Advisor</h3>
+  <p>Peer-style technical assessments before far-reaching decisions; reduce architectural and product risk early.</p>
+</section>
+
+<section>
+  <h2>Product & Delivery</h2>
+  <p>Ship working software to real users earlier. Measure impact and adapt based on evidence rather than assumption.</p>
+</section>
+
+<section>
+  <h2>Custom Software Development</h2>
+  <p>High quality, maintainable software. Short-term augmentation that leaves lasting capability in your own team.</p>
+</section>
+
+<section>
+  <h2>Recent blog posts</h2>
+  <ul class="posts">
+    {% for post in site.tags.en limit:10 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d.%m.%Y" }})</li>
+    {% endfor %}
+  </ul>
+</section>

@@ -1,0 +1,27 @@
+<section>
+  <h2>Consultoría Técnica</h2>
+  <h3>Senior Developer Advocate</h3>
+  <p>Integrado en tu equipo como colaborador activo, aumenta la efectividad y eleva la claridad técnica.</p>
+  <p><a href="/es/developer-advocate.html" class="learn-more">Más información ...</a></p>
+  <h3>Asesor Técnico</h3>
+  <p>Evaluaciones técnicas antes de decisiones de gran alcance para reducir riesgos de arquitectura y producto.</p>
+</section>
+
+<section>
+  <h2>Producto y Entrega</h2>
+  <p>Llevar software funcional a usuarios reales más pronto. Medir impacto y adaptar basado en evidencia.</p>
+</section>
+
+<section>
+  <h2>Desarrollo a Medida</h2>
+  <p>Software de alta calidad y fácil de mantener. Refuerzo temporal que deja capacidad duradera en tu propio equipo.</p>
+</section>
+
+<section>
+  <h2>Entradas recientes</h2>
+  <ul class="posts">
+    {% for post in site.tags.es limit:10 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%d.%m.%Y" }})</li>
+    {% endfor %}
+  </ul>
+</section>

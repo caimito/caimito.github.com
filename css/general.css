@@ -24,6 +24,20 @@ DIV.container {
   flex: 1;
 }
 
+/* Wider side margins specifically for blog entry pages */
+/* Side margins only for the blog entry content (not sidebar) */
+div.blog-entry, .blog-overview .featured-post {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+@media (max-width: 900px) {
+  div.blog-entry, .blog-overview .featured-post {
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+}
+
 DIV.introduction {
   margin-top: 1em;
   margin-bottom: 1em;
@@ -95,6 +109,8 @@ DIV.blog > DIV.posts {
 DIV.blog > DIV.posts {
   flex: 0 0 30%;
 }
+/* Wider margins only for the featured article on listing pages */
+/* Removed obsolete .blog-listing-article in favor of .featured-post */
 
 DIV.posts > UL, UL.posts {
   list-style-type: none;
@@ -157,10 +173,10 @@ div.two-columns.contracting-guidelines .column-left {
 }
 
 div.sidebar {
-  border-left: thin solid grey;
+  border-left: thin solid #cccccc;
   padding-top: 1em;
   padding-left: 1em;
-  padding-right: 1em;
+  padding-right: 3em;
   font-size: smaller;
 }
 
