@@ -8,12 +8,12 @@
 <body>
 	{% include menu-de.html %}
 	<div class="container content-container">
-		<div class="row">
-			<div class="span8">
+		<div class="two-columns">
+			<div class="page-with-sidebar">
 				{{ content }}
 			</div>
-			<div class="span4">
-				{% include services-list-de.html %}
+			<div class="sidebar">
+				{% include sidebar-blog-de.html %}
 			</div>
 		</div>
 		{% include footer-de.html %}

@@ -1,5 +1,6 @@
 ---
 layout: main-en
+sidebar: none
 title: About Caimito Agile Life
 ---
 # About Caimito Agile Life

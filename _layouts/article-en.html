@@ -8,7 +8,14 @@
 <body>
   {% include menu-en.html %}
   <div class="container content-container">
-    {{ content }}
+    <div class="two-columns">
+      <div class="page-with-sidebar">
+        {{ content }}
+      </div>
+      <div class="sidebar">
+        {% include sidebar-blog-en.html %}
+      </div>
+    </div>
     {% include footer-en.html %}
   </div> <!-- /container -->
 
