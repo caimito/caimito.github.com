@@ -6,9 +6,17 @@ tags:
   - sns-de
   - dev-advocate-de
 ---
+## Wenn KI die Regeln der Softwareauslieferung neu schreibt
+
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>Von Stephan Schwab</em></p>
 
-Zwei Jahrzehnte lang war „Agile“ das Beste, was der Software passierte.
+<a href="/de/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Zwei Jahrzehnte lang transformierte Agile die Software-Entwicklung – weg von Gantt-Charts hin zu lauffähigem Code, von Wasserfallmodellen zu kontinuierlicher Auslieferung. Doch KI beseitigt nun die Reibung, die Agile ursprünglich managen sollte. Wenn ein einzelner Entwickler mit einem guten Prompt liefern kann, was früher einen Sprint dauerte, verschiebt sich der Engpass vom Code zur Koordination, von technischer Umsetzung zur Entscheidungsfindung. Dieser Artikel zeigt, wie KI nicht Agile abschafft – sondern das Agile-Theater: die endlosen Zeremonien und Prozessrituale, die existieren um Boards zu füllen statt Wert zu liefern. Die Zukunft gehört kleinen, kompetenten Teams im kontinuierlichen Dialog mit KI-Werkzeugen, geleitet von Prinzipien statt Prozess-Religion.</p>
+</div>
+
+Zwei Jahrzehnte lang war „Agile" das Beste, was der Software passierte.
 Es brachte uns weg von Gantt-Charts und hin zu laufendem Code. Ich habe diese Reise gelebt – von Testautomatisierung zu CI/CD, von Lean Startup zu trunk-basiertem Delivery. All das machte uns schneller, indem es Reibung entfernte.
 
 Aber hier ist der Punkt: KI entfernt fast alles davon.

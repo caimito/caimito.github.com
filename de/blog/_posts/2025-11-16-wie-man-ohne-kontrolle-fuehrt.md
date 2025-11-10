@@ -6,10 +6,15 @@ tags:
   - sns-de
   - dev-advocate-de
 ---
-
-Von Stephan Schwab am {{ page.date | date: "%d.%m.%Y" }}
-
 ## Führungslektionen am Rande des technischen Chaos
+
+<div class="article-intro">
+<p>{{ page.date | date: "%d.%m.%Y" }}, <em>Von Stephan Schwab</em></p>
+
+<a href="/de/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Führungskräfte wollen beides: Stabilität und Innovation – doch diese Kräfte ziehen in entgegengesetzte Richtungen. Viele Organisationen greifen zu Kontrolle – der Illusion von Sicherheit durch Prozesse, Meetings und Kennzahlen – doch in der Software bringt Kontrolle selten Stabilität. Sie verlangsamt meist nur Feedback bis Systeme stumm versagen. Dieser Artikel zeigt, wie sich Führung von Kontrolle unterscheidet: Führung sorgt dafür, dass die richtigen Dinge zur richtigen Zeit sichtbar werden durch automatisierte Systeme, die Wahrheit sprechen, nicht durch Statusberichte. Indem man Genehmigungen durch Sichtbarkeit ersetzt, können technische Führungskräfte Feedback statt Menschen managen und Sensornetzwerke schaffen, die Fehlausrichtungen früh aufdecken. Echte Stabilität klingt laut – mit Tests, Builds und menschlicher Debatte – doch dieser Lärm ist tatsächlich der Klang technischer Exzellenz, die das Geschäft vor stummen Ausfällen schützt.</p>
+</div>
 
 Jede Führungskraft will zwei Dinge gleichzeitig:
 

@@ -16,6 +16,16 @@ Authoritative directives for AI assistance (GitHub Copilot, chat, or other agent
 | Tags (minimum) | `en`, `sns-en`, `dev-advocate-en` | `de`, `sns-de`, `dev-advocate-de` | `es`, `sns-es`, `dev-advocate-es` |
 | Date display | `{{ page.date | date: "%d.%m.%Y" }}` across all languages |
 
+### New Blog Post Formatting
+When preparing new blog content for publication:
+1. **Add introduction section** with:
+   - A subheading (level 2 heading) that summarizes the article's theme
+   - Wrap entire introduction in `<div class="article-intro">` with closing `</div>`
+   - Date and author line: `<p>{{ page.date | date: "%d.%m.%Y" }}, <em>By Stephan Schwab</em></p>` (or `Von` for German, `Por` for Spanish)
+   - Gravatar image linked to about page: `<a href="/en/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>` (adjust language path: `/de/about.html` or `/es/about.html`)
+   - Summary paragraph wrapped in `<p>` tags describing the article's key points and themes
+2. **Remove horizontal rules (`---`)** between sections within the article body (keep only in YAML front matter)
+
 ### Navigation / Menu
 * Treat English `menu-en.html` as canonical for structure and ordering.
 * Other language menus mirror items present (omit any English commented out TODO items unless explicitly enabled in English first).

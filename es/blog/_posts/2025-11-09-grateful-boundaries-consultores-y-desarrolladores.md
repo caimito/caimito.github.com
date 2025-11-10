@@ -6,7 +6,15 @@ tags:
 - sns-es
 - dev-advocate-es
 ---
+## Respetando la línea entre diagnóstico e implementación
+
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>Por Stephan Schwab</em></p>
+
+<a href="/es/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Toda transformación exitosa requiere dos superpoderes distintos: consultores que pueden ver y articular problemas sistémicos que los internos ya no notan, y desarrolladores de software que entienden que dentro del código base, la física toma el control. Este artículo explora el límite donde el diagnóstico encuentra la implementación—donde los marcos revelan desperdicio pero solo el desarrollo de software puede eliminarlo. La fricción comienza cuando un rol intenta convertirse en el otro. Los grandes consultores saben cuándo dejar de prescribir ceremonias y empezar a empoderar la acción. Cuando los consultores ayudan a los líderes a ver el sistema y los desarrolladores lo arreglan, la transformación se acelera. No es gestión versus desarrollo—es estrategia y ejecución dándose la mano.</p>
+</div>
 
 ## Límites Agradecidos
 

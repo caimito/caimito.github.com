@@ -6,10 +6,15 @@ tags:
   - sns-en
   - dev-advocate-en
 ---
-
-By Stephan Schwab on {{ page.date | date: "%d.%m.%Y" }}
-
 ## Leadership Lessons from the Edge of Engineering Chaos
+
+<div class="article-intro">
+<p>{{ page.date | date: "%d.%m.%Y" }}, <em>By Stephan Schwab</em></p>
+
+<a href="/en/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Leaders want both stability and innovation, but these forces pull in opposite directions. Many organizations reach for control—the illusion of safety through process, meetings, and metrics—yet in software, control rarely brings stability. It usually just slows feedback until systems fail silently. This article explores how governance differs from control: governance ensures the right things become visible at the right time through automated systems that tell the truth, not status reports. By replacing permission with visibility, technical leaders can manage feedback rather than people, creating sensor networks that surface misalignment early. Real stability looks noisy—with tests, builds, and human debate—but that noise is actually the sound of engineering excellence protecting the business from silent failure.</p>
+</div>
 
 Every leader wants two things at once:
 
@@ -24,8 +29,6 @@ To get both, many organizations reach for *control* — the illusion of safety t
 But in software, control rarely brings stability.
 
 It usually just slows the feedback loop until the system fails silently.
-
----
 
 ### Control Is Not Governance
 
@@ -45,8 +48,6 @@ In good engineering organizations, that truth comes from data, not status report
 
 That's governance — not management.
 
----
-
 ### Replace Permission with Visibility
 
 A healthy software system doesn't need pre-approval for every change.
@@ -62,8 +63,6 @@ It needs a pipeline that **catches bad changes automatically**.
 
 Governance isn't a bottleneck. It's a **sensor network**.
 
----
-
 ### The CTO's Real Job
 
 The CTO who governs without control doesn't manage people directly.
@@ -78,8 +77,6 @@ Their job is to ensure that:
 * Teams own their outcomes end-to-end.
 
 If those systems exist, governance happens naturally — without command structures.
-
----
 
 ### The CEO's Dilemma
 
@@ -125,8 +122,6 @@ The conversations are only the visible, audible part. The real thinking happens 
 
 Anyone demanding "fast features" while saying "talk to each other" hasn't understood that creating *and* discarding software is the thinking process, not a delay before the "real" programming.
 
----
-
 ### Trust, but Instrument
 
 "Trust" sounds soft, but it's measurable.
@@ -142,8 +137,6 @@ Automate the feedback loops (tests, monitoring, deployment gates), not the peopl
 Free engineers from performing safety theater so they can focus on the work that actually matters: thinking, designing, experimenting, collaborating.
 
 Governance scales through **architecture, automation, and accountability**, not hierarchy.
-
----
 
 ### The Paradox of Modern Leadership
 
@@ -227,8 +220,6 @@ That's governance. Everything else is just overhead.
 Governance is not knowing.
 
 It's *seeing*.
-
----
 
 #### TL;DR
 

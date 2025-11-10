@@ -1,12 +1,20 @@
 ---
 layout: blog-en
-title: Grateful Boundaries — How Consultants and Software Developers Can Respect Each Other’s Superpowers
+title: Grateful Boundaries — How Consultants and Software Developers Can Respect Each Other's Superpowers
 tags:
 - en
 - sns-en
 - dev-advocate-en
 ---
+## Respecting the Line Between Diagnosis and Implementation
+
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>By Stephan Schwab</em></p>
+
+<a href="/en/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Every successful transformation requires two distinct superpowers: consultants who can see and articulate systemic problems that insiders no longer notice, and software developers who understand that inside the codebase, physics takes over. This article explores the boundary where diagnosis meets implementation—where frameworks reveal waste but only software development can remove it. The friction begins when one role tries to become the other. Great consultants know when to stop prescribing ceremonies and start empowering action. When consultants help leaders see the system and developers fix it, transformation accelerates. It's not management versus development—it's strategy and execution shaking hands.</p>
+</div>
 
 ## Grateful Boundaries
 

@@ -8,10 +8,13 @@ tags:
 ---
 ## Softwareentwicklung ohne Verzögerungen
 
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>Von Stephan Schwab</em></p>
 
-<a href="/de/contact-sns.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
-Continuous Integration (CI) ist eine Praxis, bei der Teammitglieder ihre Arbeit häufig in den Hauptcode integrieren, um sicherzustellen, dass sich das Softwareprodukt reibungslos und effizient weiterentwickelt. Dieser Artikel untersucht das Wesen von CI und betont die Bedeutung kleiner, häufiger Beiträge, das Vermeiden von Branching und die Nutzung lokaler und automatisierter Tests. Er geht auch auf häufige Missverständnisse ein, wie die Notwendigkeit eines zentralen CI-Servers, und hebt die Leistungsfähigkeit moderner PCs und Laptops bei der Umsetzung von CI-Praktiken hervor.
+<a href="/de/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Continuous Integration (CI) ist eine Praxis, bei der Teammitglieder ihre Arbeit häufig in den Hauptcode integrieren, um sicherzustellen, dass sich das Softwareprodukt reibungslos und effizient weiterentwickelt. Dieser Artikel untersucht das Wesen von CI und betont die Bedeutung kleiner, häufiger Beiträge, das Vermeiden von Branching und die Nutzung lokaler und automatisierter Tests. Er geht auch auf häufige Missverständnisse ein, wie die Notwendigkeit eines zentralen CI-Servers, und hebt die Leistungsfähigkeit moderner PCs und Laptops bei der Umsetzung von CI-Praktiken hervor.</p>
+</div>
 
 ## Continuous Integration ist eine Praxis
 Continuous Integration ist etwas, das ein Team tut. Es bedeutet, dass alle Beiträge in Form von Code oder anderen Artefakten von allen Teammitgliedern ständig in das Softwareprodukt integriert werden, während es immer mehr Funktionalität gewinnt. Es spielt keine Rolle, wie das Team dies tut. Es spielt keine Rolle, ob es einen Continuous Integration-Server oder ein anderes Tool mit "CI" im Namen gibt.

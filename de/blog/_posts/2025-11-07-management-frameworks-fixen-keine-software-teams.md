@@ -6,7 +6,15 @@ tags:
 - sns-de
 - dev-advocate-de
 ---
+## Wenn Sichtbarkeit auf die Notwendigkeit zur Reparatur trifft
+
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>Von Stephan Schwab</em></p>
+
+<a href="/de/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Management-Frameworks kommen mit Canvas, Zeremonien und Dashboards – Werkzeuge, die Organisationen helfen ihre Engpässe, Überlast und Nacharbeit zu sehen. Diese Sichtbarkeit ist wertvoll, sogar notwendig, denn die meisten Organisationen sind blind bis jemand ihnen das Sehen ermöglicht. Wir schulden Beratern echten Dank dafür, dass sie Sprache und Struktur ins Chaos bringen. Doch Sichtbarkeit ist nicht gleich Reparatur. Während Frameworks Symptome diagnostizieren – Probleme als „Scope Creep" oder „fehlender Fokus" labeln – kann nur Software-Entwicklung Probleme auf ihre Ursachen zurückführen: fehlende Testautomatisierung, schwache CI/CD-Pipelines oder architektonische Kopplung. Dieser Artikel untersucht die Grenze zwischen Diagnose und Umsetzung und argumentiert, dass Berater die Verschwendung sichtbar machen während Entwickler sie beseitigen – nicht als Gegner, sondern als Spezialisten auf verschiedenen Seiten derselben Wahrheit.</p>
+</div>
 
 Alle paar Jahre taucht ein neues Management-Framework auf und verspricht Ordnung.
 Es bringt Canvas, Zeremonien, Rollen und Dashboards. Es hilft Organisationen zu sehen wo es hakt — Engpässe, Überlast, Nacharbeit.

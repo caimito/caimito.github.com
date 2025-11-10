@@ -6,7 +6,15 @@ tags:
 - sns-es
 - dev-advocate-es
 ---
+## Liberándose de la fantasía manufacturera
+
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>Por Stephan Schwab</em></p>
+
+<a href="/es/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>La gestión a menudo trata el desarrollo de software como una línea de ensamblaje—imponiendo marcos de proceso como Scrum, SAFe u OKRs en busca de predictibilidad y output repetible. Pero el software es fundamentalmente diferente: es descubrimiento, traducción y aprendizaje continuo envuelto en código. Este artículo desafía la fantasía manufacturera, argumentando que la verdadera excelencia emerge de equipos "raw dogging"—grupos pequeños y capacitados que confían en confianza, automatización y retroalimentación directa en lugar de ceremonias ritualizadas. Cuando las organizaciones confunden ritmo con resultados, la innovación muere silenciosamente en nombre de la consistencia. El futuro pertenece a equipos que entregan, aprenden y evolucionan sin esperar permiso de un marco.</p>
+</div>
 
 Existe una mitología persistente en círculos de gestión:
 La idea de que el desarrollo de software puede domesticarse con **proceso**, que la predictibilidad aparece si imponemos la estructura correcta — Scrum, SAFe, OKR, TSOD, Lean, cualquier acrónimo de moda esta década.

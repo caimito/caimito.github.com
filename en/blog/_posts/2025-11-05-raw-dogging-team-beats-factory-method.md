@@ -6,12 +6,20 @@ tags:
 - sns-en
 - dev-advocate-en
 ---
+## Breaking Free from the Manufacturing Fantasy
+
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>By Stephan Schwab</em></p>
 
-There’s a certain mythology in management circles:
+<a href="/en/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Management often treats software development as an assembly line—imposing process frameworks like Scrum, SAFe, or OKRs in pursuit of predictability and repeatable output. But software is fundamentally different: it's discovery, translation, and continuous learning wrapped in code. This article challenges the manufacturing fantasy, arguing that true excellence emerges from "raw dogging" teams—small, skilled groups who rely on trust, automation, and direct feedback rather than ritualized ceremonies. When organizations confuse rhythm with results, innovation dies quietly in the name of consistency. The future belongs to teams who ship, learn, and evolve without waiting for permission from a framework.</p>
+</div>
+
+There's a certain mythology in management circles:
 that software development can be tamed by **process**, that predictability will emerge if we just impose the right structure — Scrum, SAFe, OKR, Lean, whatever acronym happens to be fashionable this decade.
 
-It’s the **manufacturing fantasy**: that software is an assembly line, and developers are workers piecing together widgets from a predefined blueprint. The goal is “repeatable output.” The metric is “velocity.”
+It's the **manufacturing fantasy**: that software is an assembly line, and developers are workers piecing together widgets from a predefined blueprint. The goal is "repeatable output." The metric is "velocity."
 The outcome? Mediocrity — at best.
 
 ## The Myth of Method
@@ -69,10 +77,8 @@ There’s no process guide for that moment. No index card or Jira issue helps. J
 
 That’s the essence of software development — **the fusion of logic and intuition** in the service of solving something real.
 
-And that’s why a “raw dogging” team — small, sharp, self-organizing — will always outperform a methodized, consultant-driven factory.
+And that's why a "raw dogging" team — small, sharp, self-organizing — will always outperform a methodized, consultant-driven factory.
 Because where others follow rules, they follow truth.
-
----
 
 ### TL;DR
 

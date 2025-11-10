@@ -6,7 +6,15 @@ tags:
 - sns-es
 - dev-advocate-es
 ---
+## Cuando la visibilidad encuentra la necesidad de reparación
+
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>Por Stephan Schwab</em></p>
+
+<a href="/es/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Los frameworks de gestión llegan con lienzos, ceremonias y tableros—herramientas que ayudan a las organizaciones a ver sus cuellos de botella, sobrecarga y retrabajo. Esta visibilidad es valiosa, incluso necesaria, porque la mayoría de las organizaciones están ciegas hasta que alguien les ayuda a ver. Debemos gratitud real a los consultores por traer lenguaje y estructura al caos. Pero visibilidad no es lo mismo que reparación. Mientras los frameworks diagnostican síntomas—etiquetando problemas como "scope creep" o "falta de enfoque"—solo el desarrollo de software puede rastrear problemas hasta sus causas raíz: falta de automatización de pruebas, pipelines de CI/CD débiles o acoplamiento arquitectónico. Este artículo explora el límite donde el diagnóstico encuentra la implementación, argumentando que los consultores revelan el desperdicio mientras los desarrolladores lo eliminan—no como oponentes, sino como especialistas en lados diferentes de la misma verdad.</p>
+</div>
 
 Cada pocos años llega un nuevo framework de gestión con la promesa de orden.
 Trae lienzos, ceremonias, roles y tableros. Ayuda a las organizaciones a ver dónde fallan las cosas — los cuellos de botella, la sobrecarga, el retrabajo.

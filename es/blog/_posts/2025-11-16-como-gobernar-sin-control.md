@@ -6,10 +6,15 @@ tags:
   - sns-es
   - dev-advocate-es
 ---
-
-Por Stephan Schwab el {{ page.date | date: "%d.%m.%Y" }}
-
 ## Lecciones de liderazgo desde el borde del caos técnico
+
+<div class="article-intro">
+<p>{{ page.date | date: "%d.%m.%Y" }}, <em>Por Stephan Schwab</em></p>
+
+<a href="/es/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Los líderes quieren ambas: estabilidad e innovación, pero estas fuerzas tiran en direcciones opuestas. Muchas organizaciones recurren al control—la ilusión de seguridad a través de procesos, reuniones y métricas—pero en software, el control rara vez trae estabilidad. Usualmente solo ralentiza la retroalimentación hasta que los sistemas fallan silenciosamente. Este artículo explora cómo la gobernanza difiere del control: la gobernanza asegura que las cosas correctas se vuelvan visibles en el momento correcto a través de sistemas automatizados que dicen la verdad, no informes de estado. Al reemplazar permisos con visibilidad, los líderes técnicos pueden gestionar retroalimentación en lugar de personas, creando redes de sensores que detectan desalineaciones temprano. La estabilidad real suena ruidosa—con pruebas, builds y debate humano—pero ese ruido es en realidad el sonido de la excelencia técnica protegiendo el negocio del fallo silencioso.</p>
+</div>
 
 Todo líder quiere dos cosas a la vez:
 

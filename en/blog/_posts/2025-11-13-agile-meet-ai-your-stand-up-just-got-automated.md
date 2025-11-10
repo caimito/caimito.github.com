@@ -6,12 +6,20 @@ tags:
   - sns-en
   - dev-advocate-en
 ---
+## When AI Rewrites the Rules of Software Delivery
+
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>By Stephan Schwab</em></p>
 
-For two decades, “Agile” was the best thing that happened to software.
-It got us out of Gantt charts and into working code. I’ve lived that journey — from test automation to CI/CD, from Lean Startup to trunk-based delivery. All of it made us faster by removing friction.
+<a href="/en/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
 
-But here’s the punchline: AI removes almost all of it.
+<p>For two decades, Agile transformed software development—moving teams from Gantt charts to working code, from waterfall to continuous delivery. But AI is now removing the friction that Agile was designed to manage. When a single developer with a good prompt can ship what once took a sprint, the bottleneck shifts from code to coordination, from engineering to decision-making. This article explores how AI doesn't kill Agile—it kills Agile theatre: the endless ceremonies and process rituals that exist to fill boards rather than deliver value. The future belongs to small, skilled teams working in continuous conversation with AI tools, guided by principles rather than process religion.</p>
+</div>
+
+For two decades, "Agile" was the best thing that happened to software.
+It got us out of Gantt charts and into working code. I've lived that journey — from test automation to CI/CD, from Lean Startup to trunk-based delivery. All of it made us faster by removing friction.
+
+But here's the punchline: AI removes almost all of it.
 
 ## The uncomfortable truth
 

@@ -8,10 +8,13 @@ tags:
 ---
 ## Softwareentwicklung kostengünstiger machen
 
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>Von Stephan Schwab</em></p>
 
-<a href="/de/contact-sns.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
-Eigene Softwareentwicklung ist komplex und teuer. Selbst wenn man Mitarbeiter mit relativ geringen Gehältern dafür nutzen kann, sind die Gesamtkosten immer noch sehr hoch. Ein kleines Team aus lediglich 5 Personen mit eher geringen Gehaltsansprüchen kostet z. B. 400.000 € für ein Jahr.
+<a href="/de/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Eigene Softwareentwicklung ist komplex und teuer. Selbst wenn man Mitarbeiter mit relativ geringen Gehältern dafür nutzen kann, sind die Gesamtkosten immer noch sehr hoch. Ein kleines Team aus lediglich 5 Personen mit eher geringen Gehaltsansprüchen kostet z. B. 400.000 € für ein Jahr.</p>
+</div>
 
 Hat man nun steigende Anforderungen und möchte daher das Team vergrößern, wird man vermutlich über Agenturen oder freiberufliche IT-Spezialisten nach Verstärkung suchen. Diese erwarten am unteren Rand einen Stundensatz von z. B. 90 €. Dazu kommt meist noch die Provision des Vermittlers, und man landet bei etwa 110 € pro abgerechneter Arbeitsstunde. Nutzt man diese Ressourcen über ein ganzes Jahr, erhöhen sich die Kosten um ca. 200.000 € oder mehr – je nachdem, wie umfangreich der Einsatz ist.
 

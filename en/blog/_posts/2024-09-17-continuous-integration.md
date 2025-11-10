@@ -8,10 +8,13 @@ tags:
 ---
 ## Software Development Without Delays
 
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>By Stephan Schwab</em></p>
 
-<a href="/en/contact-sns.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
-Continuous Integration (CI) is a practice where team members frequently integrate their work into the main codebase, ensuring that the software product evolves smoothly and efficiently. This article explores the essence of CI, emphasizing the importance of small, frequent contributions, avoiding branching, and leveraging local and automated testing. It also addresses common misconceptions, such as the necessity of a central CI server, and highlights the power of modern developer workstations in facilitating CI practices.
+<a href="/en/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Continuous Integration (CI) is a practice where team members frequently integrate their work into the main codebase, ensuring that the software product evolves smoothly and efficiently. This article explores the essence of CI, emphasizing the importance of small, frequent contributions, avoiding branching, and leveraging local and automated testing. It also addresses common misconceptions, such as the necessity of a central CI server, and highlights the power of modern developer workstations in facilitating CI practices.</p>
+</div>
 
 ## Continuous Integration Is a Practice
 Continuous Integration is something that a team does. It means that all contributions in code or other artifacts from all team members are constantly being integrated into the software product as it gains more and more functionality. It does not matter how the team does this. It does not matter if there is a Continuous Integration server or another tool with "CI" in its name.

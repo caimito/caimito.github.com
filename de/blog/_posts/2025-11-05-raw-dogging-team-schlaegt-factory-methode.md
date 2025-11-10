@@ -6,7 +6,15 @@ tags:
 - sns-de
 - dev-advocate-de
 ---
+## Befreiung von der Fertigungs-Fantasie
+
+<div class="article-intro">
 <p>{{ page.date | date: "%d.%m.%Y" }}, <em>Von Stephan Schwab</em></p>
+
+<a href="/de/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
+
+<p>Führung behandelt Software-Entwicklung oft wie ein Montageband – Prozess-Frameworks wie Scrum, SAFe oder OKRs werden aufgezwungen auf der Suche nach Vorhersagbarkeit und wiederholbarem Output. Doch Software ist grundlegend anders: Sie ist Entdeckung, Übersetzung und kontinuierliches Lernen in Code verpackt. Dieser Artikel stellt die Fertigungs-Fantasie in Frage und argumentiert, dass echte Exzellenz von „Raw Dogging"-Teams kommt – kleinen, kompetenten Gruppen, die auf Vertrauen, Automation und direktes Feedback setzen statt auf ritualisierte Zeremonien. Wenn Organisationen Takt mit Ergebnis verwechseln, stirbt Innovation leise im Namen der Konsistenz. Die Zukunft gehört Teams, die ausliefern, lernen und sich entwickeln – ohne auf Erlaubnis von einem Framework zu warten.</p>
+</div>
 
 Es hält sich hartnäckig eine Manager-Mythologie:
 Man glaubt, Software-Entwicklung lasse sich durch **Prozess** zähmen. Vorhersagbarkeit entstehe, wenn man nur die richtige Struktur aufzwingt — Scrum, SAFe, OKR, TSOD, Lean, irgendein Akronym der Saison.
