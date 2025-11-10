@@ -21,6 +21,8 @@ p {
 
 .article-intro p {
 	margin-bottom: 0.75rem;
+	font-size: 105%;
+	line-height: 1.5em;
 }
 
 .article-intro p:last-child {
