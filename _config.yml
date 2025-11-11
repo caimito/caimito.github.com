@@ -1,3 +1,9 @@
 markdown: kramdown
 timezone: Europe/Berlin
 future: false # Keep false so future posts publish only when date passes (Action rebuild handles timing)
+exclude:
+  - _todo
+  - todo
+  - _internal
+  - "*.draft.md"
+  # internal improvement notes & drafts excluded from site build
