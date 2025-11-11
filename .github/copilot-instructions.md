@@ -64,6 +64,44 @@ tags:
 * Avoid "germanized" English verbs (e.g. "reviewt", "deployt", "gemerged"). Use standard German equivalents: "prüfen", "ausliefern", "verteilen", "zusammenführen". If no concise equivalent exists, rephrase (e.g. describe the action: "Code wird überprüft und anschließend ausgeliefert").
 * Translate "governance" as "Führung" (leadership/guidance), not "Steuerung" (control/steering). This preserves the conceptual distinction between governance (systematic guidance through instrumentation) and control (direct oversight).
 
+## Glossary
+<!-- Added initial multilingual glossary. Assumptions: retaining existing tag names (e.g. dev-advocate-*) for backward compatibility; proposing preferred prose alternatives. -->
+
+| English Term | German Preferred | Spanish Preferred | Notes |
+|--------------|------------------|-------------------|-------|
+| advocate (Developer Advocate) | (prose) "Ansprechpartner für Entwickler" / role label: "Developer Advocate" (kept English) | "evangelista de desarrolladores" (or "promotor técnico") | German: Avoid literal "Advokat" or awkward calques; use descriptive phrase. Emphasize it's a praxisnaher Senior-Software-Entwickler (schreibt produktiven Code, eingebettet im Team) – nicht nur Kommunikation oder Schulung. Tag `dev-advocate-de` retained for consistency. |
+| additional hires | "weitere Mitarbeiter" | "contrataciones adicionales" | Use people-focused wording, not "zusätzliche Stellen" (positions) when emphasizing added team members. |
+| governance | Führung | gobernanza | Maintain distinction vs. control (Steuerung / control). |
+| domain expert | fachlicher Experte | experto funcional | Avoid "Domänenexperte"; Spanish: choose functional/business context term. |
+| developer | Entwickler | desarrollador | Generic, non-gendered forms. |
+| to deploy (software) | ausliefern / verteilen | desplegar | Choose based on context: ausliefern (release), verteilen (distribution). |
+| to merge (code) | zusammenführen | fusionar | Describe action instead of anglicisms ("mergen"). |
+| release | Veröffentlichung | lanzamiento | German: also "Release" sometimes used; prefer "Veröffentlichung" in formal text. |
+| layout | Layout | diseño | Keep English in technical repo contexts; Spanish translate as "diseño" when referring to page structure. |
+| introduction section | Einleitung | introducción | For blog intro wrapped in `div.article-intro`. |
+| summary (article) | Zusammenfassung | resumen | Keep concise; may appear in intro paragraph. |
+| gender-neutral generic (developer, user) | generische Form (z.B. "Entwickler", "Nutzer") | forma genérica ("desarrollador", "usuario") | German: no gender markers; Spanish typically default masculine generic. |
+| engineering (software context) | Software-Entwicklung / Entwicklung | ingeniería de software / desarrollo de software | In German, "Engineering" evokes Maschinen-/Bauingenieurwesen; prefer explicit Software-Entwicklung to avoid Missverständnisse. |
+| methodology reseller | Methoden-Verkäufer | revendedor de metodologías | Prefer concise "Methoden-Verkäufer"; avoid calque "Methodik-Wiederverkäufer" which sounds awkward. Emphasize hands-on delivery over packaged frameworks. |
+| runtime signal | Laufzeit-Signal / Laufzeitdaten (kontextabhängig) | señal de ejecución / telemetría en tiempo de ejecución | German: Prefer "Laufzeitdaten" for plural evidence, use "Laufzeit-Signal" when emphasizing single metric; avoid generic "Runtime" anglicism. |
+| usage data | Nutzungsdaten | datos de uso | Distinguish from Meinungen; emphasizes echte Interaktionen produktiver Nutzer. |
+| repeatable innovation system | wiederholbares Innovations‑System | sistema repetible de innovación | Avoid marketing flourish; keep hyphenated compound in German for clarity; describes flow + integration + evidence loop. |
+| production deployment | Produktiv-Auslieferung / Produktionsbereitstellung | despliegue a producción | German: Prefer "Produktiv-Auslieferung" (delivery act) or "Produktionsbereitstellung" (readiness) depending on emphasis; avoid Anglizismus "Production Deployment". |
+| safe merge (code) | sichere Zusammenführung | fusión segura | Emphasize outcome (risikoarm integrierter Code) rather than tool brand or branching model. |
+| delivery flow | Lieferfluss | flujo de entrega | Describes progression of validierte Arbeit through Entwicklung to produktive Nutzung; avoid vague "Prozess". |
+| deployment frequency | Auslieferungsfrequenz | frecuencia de despliegue | Use when emphasizing rhythm of small, risikoarme Produktiv-Auslieferungen; avoid Anglizismus "Deployment Frequency" in German prose. |
+| Statement of Work (SOW) | Leistungsvereinbarung | declaración de trabajo (SOW) | Use "Leistungsvereinbarung" in German prose; avoid leaving "SOW" untranslated except optionally in first mention for clarity. Focus on Problem, Outcomes, Mess-Signale, Randbedingungen. |
+| integration friction | Integrations-Reibung | fricción de integración | Describes hindered Flow durch aufgestaute Integrationsarbeit; keep hyphenation consistent (Integrations-Reibung) for readability. |
+| defect rate | Fehlerrate | tasa de defectos | Overall proportion of Fehler; distinct from Durchrutschrate (Defect Escape Rate). Use Fehlerrate for aggregate quality discussion. |
+| defect escape rate | Fehler-Durchrutschrate | tasa de escape de defectos | Rate at which Fehler erst in späteren Stufen (z.B. Produktion) sichtbar werden; avoid leaving only English metric name. |
+| user adoption | Nutzerakzeptanz | adopción de usuarios | Emphasizes real produktive Nutzung vs Meinungen. Avoid metaphorical "traction" in German. |
+| production readiness | Produktionsbereitschaft | preparación para producción | State prior to Produktiv-Auslieferung; distinct from Deployment act. |
+| management framework | Management-Framework | marco de gestión | Generic framework (Skalierung, Governance); avoid over-translation; keep hyphen. |
+| embedded advocacy | Embedded Advocacy (eingebettete technische Unterstützung) | advocacy integrada | Role label kept English; German prose clarifies technische, hands-on Unterstützung im Team. |
+| executive coaching | Executive-Coaching | coaching ejecutivo | Focus on faktenbasierte Entscheidungsfähigkeit via direkte Einblicke (Pipelines, Telemetrie). |
+
+<!-- Future additions: SEO terms, build workflow vocabulary. -->
+
 ## Prohibited Actions
 * No insertion of marketing fluff, self-promotion, or unrelated external links.
 * No exposure of secrets (webhook URLs, tokens). Use `${{ secrets.MATTERMOST_WEBHOOK }}` only in workflows.
