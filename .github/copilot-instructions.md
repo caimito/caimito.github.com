@@ -91,14 +91,17 @@ tags:
 | delivery flow | Lieferfluss | flujo de entrega | Describes progression of validierte Arbeit through Entwicklung to produktive Nutzung; avoid vague "Prozess". |
 | deployment frequency | Auslieferungsfrequenz | frecuencia de despliegue | Use when emphasizing rhythm of small, risikoarme Produktiv-Auslieferungen; avoid Anglizismus "Deployment Frequency" in German prose. |
 | Statement of Work (SOW) | Leistungsvereinbarung | declaración de trabajo (SOW) | Use "Leistungsvereinbarung" in German prose; avoid leaving "SOW" untranslated except optionally in first mention for clarity. Focus on Problem, Outcomes, Mess-Signale, Randbedingungen. |
+| delivery (noun, software context) | Auslieferung | entrega | Prefer "Auslieferung" for the act/result; distinguish from "Lieferung" (generic shipping). Use in compounds (Auslieferungsfrequenz, Produktiv-Auslieferung). |
+| product organizations | Software-Anbieter | organizaciones de producto | German: Prefer "Software-Anbieter" to emphasize provider role over internal structure; avoid generic "Produktorganisationen". |
 | integration friction | Integrations-Reibung | fricción de integración | Describes hindered Flow durch aufgestaute Integrationsarbeit; keep hyphenation consistent (Integrations-Reibung) for readability. |
 | defect rate | Fehlerrate | tasa de defectos | Overall proportion of Fehler; distinct from Durchrutschrate (Defect Escape Rate). Use Fehlerrate for aggregate quality discussion. |
-| defect escape rate | Fehler-Durchrutschrate | tasa de escape de defectos | Rate at which Fehler erst in späteren Stufen (z.B. Produktion) sichtbar werden; avoid leaving only English metric name. |
+| defect escape rate | ausgelieferte Fehler (Rate ausgelieferter Fehler) | tasa de escape de defectos | Rate at which Fehler erst in späteren Stufen (z.B. Produktion) sichtbar werden; avoid leaving only English metric name. |
 | user adoption | Nutzerakzeptanz | adopción de usuarios | Emphasizes real produktive Nutzung vs Meinungen. Avoid metaphorical "traction" in German. |
 | production readiness | Produktionsbereitschaft | preparación para producción | State prior to Produktiv-Auslieferung; distinct from Deployment act. |
 | management framework | Management-Framework | marco de gestión | Generic framework (Skalierung, Governance); avoid over-translation; keep hyphen. |
 | embedded advocacy | Embedded Advocacy (eingebettete technische Unterstützung) | advocacy integrada | Role label kept English; German prose clarifies technische, hands-on Unterstützung im Team. |
 | executive coaching | Executive-Coaching | coaching ejecutivo | Focus on faktenbasierte Entscheidungsfähigkeit via direkte Einblicke (Pipelines, Telemetrie). |
+| validated user insight | validierte Erkenntnis zum Nutzererlebnis | insight validado sobre la experiencia de usuario | Evidence-based qualitative + quantitative Nutzerbeobachtung (Nutzungsdaten + Verhalten) verdichtet zu umsetzbarer Erkenntnis; avoid vague 'Feedback'. |
 
 <!-- Future additions: SEO terms, build workflow vocabulary. -->
 
