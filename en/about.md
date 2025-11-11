@@ -38,10 +38,16 @@ At first glance, the combination of software development and agriculture may see
 	<p>When the opportunity arises, he gives lectures at national and international conferences or participates
 			in industry meetings at home and abroad. More about Stephan Schwab can be found on his personal blog:</p>
 
-	<ul>
-		<li><a href="http://www.stephan-schwab.com" target="_blank">Blog</a></li>
-		<li><a href="http://www.stephan-schwab.com/resume" target="_blank">Professional Experience</a></li>
-	</ul>          
+	<p>On his personal blog you can also find articles about using a light aircraft for business travel. The avatar image
+	shows Stephan as a pilot wearing a headset – a metaphor for steady execution despite turbulence: calm focus instead of
+	fear or nervousness when things get hairy.</p>
+
+	<dl>
+		<dt><a href="http://www.stephan-schwab.com" target="_blank">Personal blog</a></dt>
+		<dd>Essays on software development, test-driven development, activity-centered design, life in the countryside, and using a light aircraft for business travel.</dd>
+		<dt><a href="http://www.stephan-schwab.com/resume" target="_blank">Professional Experience</a></dt>
+		<dd>Career history, roles, technologies, and international consulting engagements.</dd>
+	</dl>          
  </section>
 <section>
 	<h2>Publications</h2>

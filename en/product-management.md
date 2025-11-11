@@ -1,24 +1,23 @@
 ---
 layout: main-en
-title: Product Management
+title: Product Evolution & Impact
+permalink: /en/product-management.html # Preserve existing URL for any inbound links
 ---
 <!-- TODO: Finish article -->
 
-# Product Management
-For your organization we create a product-centric organization. Initially we will provide all the necessary personel but eventually your - likely newly hired - internal staff will take over.
+# Product Evolution & Impact
+We help your organization evolve a product-centric capability that continuously turns validated insight into shipped, measurable outcomes. Initially we supply senior advocacy and supporting personnel; over time newly hired internal staff take full ownership.
 
 There are two ways how we can build a new software product together:
 
-- [Custom Software Development](development.html) with your own Product Management staff
-- Create a product-centric organization in DevOps style to build and operate the software product
+- [Custom Software Development](development.html) with your own product evolution team
+- Create a product-centric DevOps organization to build, ship, and operate the software product
 
-## Product-centric organization
-Customers and product are key and center.
+## Product-centric Organization
+Customers and outcomes are the center; roadmap items are hypotheses to be validated, not guaranteed value. We instrument usage, retention, and qualitative feedback to decide what to enhance, pivot, or retire. <!-- Placeholder: Feature discard rate -->
 
-## DevOps
-DevOps means that we create a cross-functional team comprised of specialists for software Development and Operations. We make sure that nobody outside the core team is required to add features to the software product and to operate it.
+## DevOps Enablement
+We form a cross-functional team (product evolution, engineering, operations) able to add features and operate the platform without external handoffs. This reduces context switching and accelerates safe deployment frequency. <!-- Placeholder: Deployment frequency delta -->
 
-## Cost effective SaaS operation without a vendor cloud
-In recent years many companies have moved "to the cloud" and then found themselves facing huge monthly bills from vendors. We believe that using someone else's computer isn't a very smart move. Some companies have learned that lesson and are now doing their "cloud exit". Some are even vocal about that and share numbers about how much they are no saving by running their own infrastructure again.
-
-We are old enough to know how to run a datacenter and infrastructure and can help you to reap the benefits of "cloud computing" without the huge bills that are usually attached to it.
+## Cost-Effective Operation (Cloud Exit & Hybrid)
+Rising vendor cloud bills often outpace delivered value for steady, predictable workloads. Selective repatriation ("cloud exit") or hybrid placement can reclaim margin while preserving flexibility. We apply workload profiling and modern automation so you keep cloud-like agility without the recurring premium. <!-- Placeholder: Annual infra savings range -->

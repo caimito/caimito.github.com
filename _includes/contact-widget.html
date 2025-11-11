@@ -1,0 +1,6 @@
+<!-- Contact / Scheduling Widget Include -->
+{% comment %} Usage example (do not copy inside this file to avoid recursive include): {% include contact-widget.html label="Book a 30‑Minute Predictability Assessment" %} {% endcomment %}
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<button class="secondary"
+  onclick="Calendly.initPopupWidget({url: 'https://calendly.com/sns-caimito/conversation'});return false;">{{ include.label | default: 'Schedule online meeting' }}</button>
