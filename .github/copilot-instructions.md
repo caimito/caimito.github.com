@@ -102,6 +102,7 @@ tags:
 | embedded advocacy | Embedded Advocacy (eingebettete technische Unterstützung) | advocacy integrada | Role label kept English; German prose clarifies technische, hands-on Unterstützung im Team. |
 | executive coaching | Executive-Coaching | coaching ejecutivo | Focus on faktenbasierte Entscheidungsfähigkeit via direkte Einblicke (Pipelines, Telemetrie). |
 | validated user insight | validierte Erkenntnis zum Nutzererlebnis | insight validado sobre la experiencia de usuario | Evidence-based qualitative + quantitative Nutzerbeobachtung (Nutzungsdaten + Verhalten) verdichtet zu umsetzbarer Erkenntnis; avoid vague 'Feedback'. |
+| delivered software (result) | ausgelieferte Software | software entregada | Concrete result of a Produktiv-Auslieferung; use when emphasizing software now in produktiver Nutzung (avoid generic 'bereitgestellte Lösung'). |
 
 <!-- Future additions: SEO terms, build workflow vocabulary. -->
 
