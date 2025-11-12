@@ -25,6 +25,7 @@ When preparing new blog content for publication:
    - Gravatar image linked to about page: `<a href="/en/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>` (adjust language path: `/de/about.html` or `/es/about.html`)
    - Summary paragraph wrapped in `<p>` tags describing the article's key points and themes
 2. **Remove horizontal rules (`---`)** between sections within the article body (keep only in YAML front matter)
+3. **Blog post cadence**: New blog posts must be dated at least 3 days after the previous post. Check the most recent post date in each language's `blog/_posts/` directory and ensure the new post date is at minimum 3 days later. Do not publish posts more frequently than every 3 days.
 
 ### Navigation / Menu
 * Treat English `menu-en.html` as canonical for structure and ordering.
