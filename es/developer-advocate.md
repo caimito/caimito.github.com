@@ -1,6 +1,7 @@
 ---
 layout: main-es
 title:
+sidebar: none
 ---
 <div class="two-columns">
 	<div>

@@ -1,6 +1,7 @@
 ---
 layout: main-de
 title:
+sidebar: none
 ---
 <div class="two-columns">
   <div>
