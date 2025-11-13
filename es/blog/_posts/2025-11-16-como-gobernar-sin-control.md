@@ -1,6 +1,7 @@
 ---
 layout: blog-es
 title: "Cómo gobernar sin control"
+excerpt: "Los líderes quieren ambas: estabilidad e innovación, pero estas fuerzas tiran en direcciones opuestas. Muchas organizaciones recurren al control—la ilusión de seguridad a través de procesos, reuniones y métricas—pero en software, el control rara vez trae estabilidad. Usualmente solo ralentiza la retroalimentación hasta que los sistemas fallan silenciosamente. Este artículo explora cómo la gobernanza difiere del control: la gobernanza asegura que las cosas correctas se vuelvan visibles en el momento correcto a través de sistemas automatizados que dicen la verdad, no informes de estado. Al reemplazar permisos con visibilidad, los líderes técnicos pueden gestionar retroalimentación en lugar de personas, creando redes de sensores que detectan desalineaciones temprano. La estabilidad real suena ruidosa—con pruebas, builds y debate humano—pero ese ruido es en realidad el sonido de la excelencia técnica protegiendo el negocio del fallo silencioso."
 tags:
   - es
   - sns-es

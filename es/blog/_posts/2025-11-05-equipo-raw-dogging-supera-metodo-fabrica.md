@@ -1,10 +1,11 @@
 ---
 layout: blog-es
-title: Por qué un equipo "Raw Dogging" supera cualquier método de fábrica en software
+title: "Por qué el equipo 'raw dogging' supera el método de fábrica"
+excerpt: "La gestión a menudo trata el desarrollo de software como una línea de ensamblaje—imponiendo marcos de proceso como Scrum, SAFe u OKRs en busca de predictibilidad y output repetible. Pero el software es fundamentalmente diferente: es descubrimiento, traducción y aprendizaje continuo envuelto en código. Este artículo desafía la fantasía manufacturera, argumentando que la verdadera excelencia emerge de equipos 'raw dogging'—grupos pequeños y capacitados que confían en confianza, automatización y retroalimentación directa en lugar de ceremonias ritualizadas. Cuando las organizaciones confunden ritmo con resultados, la innovación muere silenciosamente en nombre de la consistencia. El futuro pertenece a equipos que entregan, aprenden y evolucionan sin esperar permiso de un marco."
 tags:
-- es
-- sns-es
-- dev-advocate-es
+  - es
+  - sns-es
+  - dev-advocate-es
 ---
 ## Liberándose de la fantasía manufacturera
 

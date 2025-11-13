@@ -1,6 +1,7 @@
 ---
 layout: blog-en
 title: "How to Govern Without Control"
+excerpt: "Leaders want both stability and innovation, but these forces pull in opposite directions. Many organizations reach for control—the illusion of safety through process, meetings, and metrics—yet in software, control rarely brings stability. It usually just slows feedback until systems fail silently. This article explores how governance differs from control: governance ensures the right things become visible at the right time through automated systems that tell the truth, not status reports. By replacing permission with visibility, technical leaders can manage feedback rather than people, creating sensor networks that surface misalignment early. Real stability looks noisy—with tests, builds, and human debate—but that noise is actually the sound of engineering excellence protecting the business from silent failure."
 tags:
   - en
   - sns-en

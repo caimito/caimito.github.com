@@ -1,6 +1,7 @@
 ---
 layout: blog-de
-title: "Warum Führungskräfte Verantwortung übernehmen und am System arbeiten müssen — nicht delegieren"
+title: "Warum Führung die Reise besitzen und AM System arbeiten muss — nicht delegieren"
+excerpt: "Methoden lassen sich nicht wie Software installieren. Big-Bang-Rewrites scheitern — Netscape und Borland haben das teuer gelernt. Willkürliche Deadlines erzeugen Panik, keinen Fortschritt. Echte Verbesserung ist ein kontinuierlicher Prozess: Entwickler lernen bessere Techniken im Kontext, fachliche Experten formulieren Anforderungen als testbare Spezifikationen, und Führungskräfte lernen, Auslieferungsdaten direkt zu lesen statt durch gefilterte Status-Berichte. Wir betten uns in Ihre Teams ein, übertragen Fähigkeiten und treten zurück, wenn Sie stärker sind — Fähigkeiten aufbauen, keine Abhängigkeit. Das Folgende erklärt, warum dauerhafte Verbesserung der Auslieferung davon kommt, dass Menschen besser arbeiten lernen, nicht davon, dass sie der Roadmap eines Framework-Anbieters folgen."
 tags:
   - de
   - sns-de

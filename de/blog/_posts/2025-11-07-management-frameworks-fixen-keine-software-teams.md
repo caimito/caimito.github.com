@@ -1,10 +1,11 @@
 ---
 layout: blog-de
-title: Management-Frameworks reparieren keine Software-Teams — Software-Entwicklung schon
+title: "Management-Frameworks fixen keine Software-Teams — Dankbarkeit und Software-Entwicklung tun es"
+excerpt: "Management-Frameworks kommen mit Canvas, Zeremonien und Dashboards – Werkzeuge, die Organisationen helfen ihre Engpässe, Überlast und Nacharbeit zu sehen. Diese Sichtbarkeit ist wertvoll, sogar notwendig, denn die meisten Organisationen sind blind bis jemand ihnen das Sehen ermöglicht. Wir schulden Beratern echten Dank dafür, dass sie Sprache und Struktur ins Chaos bringen. Doch Sichtbarkeit ist nicht gleich Reparatur. Während Frameworks Symptome diagnostizieren – Probleme als „Scope Creep“ oder „fehlender Fokus“ labeln – kann nur Software-Entwicklung Probleme auf ihre Ursachen zurückführen: fehlende Testautomatisierung, schwache CI/CD-Pipelines oder architektonische Kopplung. Dieser Artikel untersucht die Grenze zwischen Diagnose und Umsetzung und argumentiert, dass Berater die Verschwendung sichtbar machen während Entwickler sie beseitigen – nicht als Gegner, sondern als Spezialisten auf verschiedenen Seiten derselben Wahrheit."
 tags:
-- de
-- sns-de
-- dev-advocate-de
+  - de
+  - sns-de
+  - dev-advocate-de
 ---
 ## Wenn Sichtbarkeit auf die Notwendigkeit zur Reparatur trifft
 

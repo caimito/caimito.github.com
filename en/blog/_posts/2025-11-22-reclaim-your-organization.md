@@ -1,6 +1,7 @@
 ---
 layout: blog-en
-title: "Reclaim Your Organization — Before the Method Swallows It Whole"
+title: "Reclaim Your Organization"
+excerpt: "Too many organizations lose their best developers not to better offers, but to methods that treat humans like manufacturing inventory. Predictability is promised; compliance is delivered instead. Meanwhile, executives abdicate strategic judgment to consultants selling packaged frameworks, forgetting that no method can replace the hard work of understanding your own system. This article is a call to senior leaders: reclaim ownership of your organization's fate. Stop farming out decisions to methodology resellers who profit from dependency. Your developers aren't the problem—the theatrical rituals burying them are. The same people who appear unmotivated under rigid frameworks thrive elsewhere, not because those organizations lack structure, but because they treat thinking as a feature, not a bug."
 tags:
   - en
   - sns-en

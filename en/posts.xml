@@ -2,17 +2,17 @@
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Caimito Technologies - Deutsche Artikel</title>
-  <link href="https://www.caimito.net/de/posts.xml" rel="self" />
-  <link href="https://www.caimito.net/de/" />
+  <title>Caimito Technologies - English Articles</title>
+  <link href="https://www.caimito.net/en/posts.xml" rel="self" />
+  <link href="https://www.caimito.net/en/" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>https://www.caimito.net/de</id>
+  <id>https://www.caimito.net/en</id>
   <author>
     <name>Stephan Schwab</name>
     <email>sns@caimito.net</email>
   </author>
   {% for post in site.posts %}
-    {% if post.tags contains 'de' %}
+    {% if post.tags contains 'en' %}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
     <link href="https://www.caimito.net{{ post.url }}" />

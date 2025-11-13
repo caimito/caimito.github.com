@@ -1,10 +1,11 @@
 ---
 layout: blog-de
-title: Dankbare Grenzen — Wie Berater und Software-Entwickler die Superkräfte des jeweils anderen respektieren
+title: "Grateful Boundaries: Berater und Software-Entwickler"
+excerpt: "Jede erfolgreiche Transformation benötigt zwei unterschiedliche Superkräfte: Berater, die systemische Probleme sehen und artikulieren können, die Insider nicht mehr wahrnehmen, und Software-Entwickler, die verstehen, dass innerhalb der Codebasis die Physik übernimmt. Dieser Artikel untersucht die Grenze zwischen Diagnose und Umsetzung – wo Frameworks Verschwendung sichtbar machen, aber nur Software-Entwicklung sie beseitigen kann. Reibung beginnt, wenn eine Rolle versucht zur anderen zu werden. Gute Berater wissen, wann sie aufhören müssen Zeremonien zu verschreiben und stattdessen Handlung ermöglichen sollten. Wenn Berater Führungskräften helfen das System zu sehen und Entwickler es reparieren, beschleunigt sich die Transformation. Es ist nicht Führung gegen technische Umsetzung – es ist Strategie und Ausführung, die sich die Hand reichen."
 tags:
-- de
-- sns-de
-- dev-advocate-de
+  - de
+  - sns-de
+  - dev-advocate-de
 ---
 ## Respekt für die Grenze zwischen Diagnose und Umsetzung
 

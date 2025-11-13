@@ -1,10 +1,11 @@
 ---
 layout: blog-en
-title: Management Frameworks Don't Fix Software Teams — Software Development Does
+title: "Management Frameworks Don't Fix Software Teams—Gratitude and Software Development Do"
+excerpt: "Management frameworks arrive with canvases, ceremonies, and dashboards—tools that help organizations see their bottlenecks, overload, and rework. This visibility is valuable, even necessary, because most organizations are blind until someone helps them see. We owe consultants real gratitude for bringing language and structure to chaos. But visibility is not the same as repair. While frameworks diagnose symptoms—labeling issues as 'scope creep' or 'lack of focus'—only software development can trace problems to their root causes: missing test automation, weak CI/CD pipelines, or architectural coupling. This article explores the boundary where diagnosis meets implementation, arguing that consultants reveal the waste while developers remove it—not as opponents, but as specialists standing on different sides of the same truth."
 tags:
-- en
-- sns-en
-- dev-advocate-en
+  - en
+  - sns-en
+  - dev-advocate-en
 ---
 ## When Visibility Meets the Need for Repair
 

@@ -1,6 +1,7 @@
 ---
 layout: blog-en
 title: "Why Leaders Must Own the Journey and Work ON the System — Not Delegate It"
+excerpt: "Methodologies cannot be installed like software. Big-bang rewrites fail — Netscape and Borland learned this the expensive way. Arbitrary deadlines create panic, not progress. Real improvement requires a journey: developers learning better techniques in context, non-technical colleagues expressing requirements as testable specifications, and executives learning to read delivery signals directly rather than through filtered status reports. We embed with your teams, transfer skills, and step back when you're stronger — creating capability, not dependency. What follows explains why lasting delivery improvement comes from people learning to work better, not from following a branded framework's roadmap."
 tags:
   - en
   - sns-en

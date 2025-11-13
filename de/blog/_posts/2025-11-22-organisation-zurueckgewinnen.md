@@ -1,6 +1,7 @@
 ---
 layout: blog-de
-title: "Behalten Sie die Verantwortung — bevor die Methode Ihre Organisation verschlingt"
+title: "Organisation zurückgewinnen"
+excerpt: "Zu viele Organisationen verlieren ihre besten Entwickler nicht an bessere Angebote, sondern an Methoden, die Menschen wie austauschbare Ressourcen behandeln. Vorhersagbarkeit wird versprochen; Konformität wird geliefert. Währenddessen geben Führungskräfte strategische Entscheidungen an Berater ab, die fertige Frameworks verkaufen – und vergessen, dass keine Methode die harte Arbeit ersetzt, das eigene System zu verstehen. Dieser Artikel ist ein Appell an Führungskräfte: Übernehmen Sie wieder Verantwortung für das Schicksal Ihrer Organisation. Lagern Sie Entscheidungen nicht an Methoden-Verkäufer aus, die von Abhängigkeit profitieren. Das Problem sind nicht Ihre Entwickler – das Problem sind die theatralischen Rituale, die sie begraben. Dieselben Menschen, die unter starren Frameworks unmotiviert wirken, entfalten sich anderswo. Nicht weil dort keine Struktur existiert, sondern weil dort Denken als Stärke gilt, nicht als Störung."
 tags:
   - de
   - sns-de

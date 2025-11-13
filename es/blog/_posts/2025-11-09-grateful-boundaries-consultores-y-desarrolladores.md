@@ -1,6 +1,7 @@
 ---
 layout: blog-es
 title: Límites Agradecidos — Cómo Consultores y Desarrolladores de Software Respetan sus Superpoderes
+excerpt: "Toda transformación exitosa requiere dos superpoderes distintos: consultores que pueden ver y articular problemas sistémicos que los internos ya no notan, y desarrolladores de software que entienden que dentro del código base, la física toma el control. Este artículo explora el límite donde el diagnóstico encuentra la implementación—donde los marcos revelan desperdicio pero solo el desarrollo de software puede eliminarlo. La fricción comienza cuando un rol intenta convertirse en el otro. Los grandes consultores saben cuándo dejar de prescribir ceremonias y empezar a empoderar la acción. Cuando los consultores ayudan a los líderes a ver el sistema y los desarrolladores lo arreglan, la transformación se acelera. No es gestión versus desarrollo—es estrategia y ejecución dándose la mano."
 tags:
 - es
 - sns-es

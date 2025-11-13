@@ -1,10 +1,11 @@
 ---
 layout: blog-de
-title: Warum ein "Raw Dogging" Team jede Fabrik-Methode schlägt
+title: "Warum das „Raw Dogging“-Team die Factory-Methode schlägt"
+excerpt: "Führung behandelt Software-Entwicklung oft wie ein Montageband – Prozess-Frameworks wie Scrum, SAFe oder OKRs werden aufgezwungen auf der Suche nach Vorhersagbarkeit und wiederholbarem Output. Doch Software ist grundlegend anders: Sie ist Entdeckung, Übersetzung und kontinuierliches Lernen in Code verpackt. Dieser Artikel stellt die Fertigungs-Fantasie in Frage und argumentiert, dass echte Exzellenz von „Raw Dogging“-Teams kommt – kleinen, kompetenten Gruppen, die auf Vertrauen, Automation und direktes Feedback setzen statt auf ritualisierte Zeremonien. Wenn Organisationen Takt mit Ergebnis verwechseln, stirbt Innovation leise im Namen der Konsistenz. Die Zukunft gehört Teams, die ausliefern, lernen und sich entwickeln – ohne auf Erlaubnis von einem Framework zu warten."
 tags:
-- de
-- sns-de
-- dev-advocate-de
+  - de
+  - sns-de
+  - dev-advocate-de
 ---
 ## Befreiung von der Fertigungs-Fantasie
 

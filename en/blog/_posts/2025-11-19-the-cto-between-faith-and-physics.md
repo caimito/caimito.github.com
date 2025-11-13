@@ -1,6 +1,7 @@
 ---
 layout: blog-en
-title: The CTO Between Faith and Physics
+title: "The CTO: Between Faith and Physics"
+excerpt: "Organizations crave predictability—frameworks, timeboxes, and budgets that promise control over software delivery. But software obeys its own laws: complexity compounds, integration resists shortcuts, and discovery cannot be compressed. This article explores the CTO's challenge of balancing organizational faith in process with the hard physics of code, showing how timeboxes meant to contain risk often silence the very communication they claim to value. When control wins over curiosity, metrics may look clean while reality quietly breaks. True progress emerges only when boundaries serve learning rather than enforcement—turning faith into feedback before it's too late."
 tags:
   - en
   - sns-en

@@ -1,6 +1,7 @@
 ---
 layout: blog-es
-title: "Ágil conoce a IA: tu stand-up ahora está automatizado"
+title: "Ágil, conoce a la IA: Tu stand-up ahora está automatizado"
+excerpt: "Durante dos décadas, Agile transformó el desarrollo de software—moviendo equipos de diagramas de Gantt a código funcionando, de cascada a entrega continua. Pero la IA ahora está eliminando la fricción que Agile fue diseñado para gestionar. Cuando una sola persona con un buen prompt puede enviar lo que antes tomaba un sprint, el cuello de botella se desplaza del código a la coordinación, de ingeniería a toma de decisiones. Este artículo explora cómo la IA no mata a Agile—mata el teatro Agile: las ceremonias interminables y rituales de proceso que existen para llenar tableros en lugar de entregar valor. El futuro pertenece a equipos pequeños y capacitados trabajando en conversación continua con herramientas de IA, guiados por principios en lugar de religión de proceso."
 tags:
   - es
   - sns-es

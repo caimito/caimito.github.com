@@ -1,6 +1,7 @@
 ---
 layout: blog-es
-title: El CTO Entre la Fe y la Física
+title: "El CTO: Entre la fe y la física"
+excerpt: "Las organizaciones anhelan predictibilidad—marcos de trabajo, cajas de tiempo y presupuestos que prometen control sobre la entrega de software. Pero el software obedece sus propias leyes: la complejidad se multiplica, la integración resiste los atajos, y el descubrimiento no puede comprimirse. Este artículo explora el desafío del CTO de equilibrar la fe organizacional en los procesos con la dura física del código, mostrando cómo las cajas de tiempo diseñadas para contener el riesgo a menudo silencian la misma comunicación que afirman valorar. Cuando el control gana sobre la curiosidad, las métricas pueden verse limpias mientras la realidad se rompe silenciosamente. El verdadero progreso emerge solo cuando los límites sirven al aprendizaje en lugar de la imposición—transformando la fe en retroalimentación antes de que sea demasiado tarde."
 tags:
   - es
   - sns-es

@@ -1,6 +1,7 @@
 ---
 layout: blog-de
-title: "Agile trifft KI: Dein Stand-up wird automatisiert"
+title: "Agile, triff KI: Dein Stand-up wird automatisiert"
+excerpt: "Zwei Jahrzehnte lang transformierte Agile die Software-Entwicklung – weg von Gantt-Charts hin zu lauffähigem Code, von Wasserfallmodellen zu kontinuierlicher Auslieferung. Doch KI beseitigt nun die Reibung, die Agile ursprünglich managen sollte. Wenn ein einzelner Entwickler mit einem guten Prompt liefern kann, was früher einen Sprint dauerte, verschiebt sich der Engpass vom Code zur Koordination, von technischer Umsetzung zur Entscheidungsfindung. Dieser Artikel zeigt, wie KI nicht Agile abschafft – sondern das Agile-Theater: die endlosen Zeremonien und Prozessrituale, die existieren um Boards zu füllen statt Wert zu liefern. Die Zukunft gehört kleinen, kompetenten Teams im kontinuierlichen Dialog mit KI-Werkzeugen, geleitet von Prinzipien statt Prozess-Religion."
 tags:
   - de
   - sns-de

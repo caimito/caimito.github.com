@@ -1,6 +1,7 @@
 ---
 layout: blog-es
 title: "Retome Su Organización — Antes de Que el Método la Devore"
+excerpt: "Demasiadas organizaciones pierden a sus mejores desarrolladores no por mejores ofertas, sino por métodos que tratan a los humanos como inventario de fabricación. Se promete predictibilidad; se entrega conformidad en su lugar. Mientras tanto, los ejecutivos abdican el juicio estratégico a consultores que venden frameworks empaquetados, olvidando que ningún método puede reemplazar el trabajo duro de entender su propio sistema. Este artículo es un llamado a líderes senior: retomen la responsabilidad del destino de su organización. Dejen de delegar decisiones a revendedores de metodologías que lucran con la dependencia. Sus desarrolladores no son el problema—los rituales teatrales que los entierran sí lo son. Las mismas personas que parecen desmotivadas bajo frameworks rígidos prosperan en otros lugares, no porque esas organizaciones carezcan de estructura, sino porque tratan el pensamiento como una característica, no como un error."
 tags:
   - es
   - sns-es

@@ -1,6 +1,7 @@
 ---
 layout: blog-de
-title: Der CTO Zwischen Glauben und Physik
+title: "Der CTO: Zwischen Glauben und Physik"
+excerpt: "Organisationen sehnen sich nach Vorhersagbarkeit – Frameworks, Zeitboxen und Budgets, die Kontrolle über die Software-Auslieferung versprechen. Doch Software gehorcht ihren eigenen Gesetzen: Komplexität potenziert sich, Integration widersteht Abkürzungen, und Erkenntnisgewinn lässt sich nicht komprimieren. Dieser Artikel untersucht die Herausforderung des CTO, den organisatorischen Glauben an Prozesse mit der harten Physik von Code in Einklang zu bringen, und zeigt, wie Zeitboxen, die Risiken eingrenzen sollen, oft genau die Kommunikation zum Schweigen bringen, die sie angeblich fördern. Wenn Kontrolle über Neugier siegt, mögen Kennzahlen sauber aussehen, während die Realität still zerbricht. Echter Fortschritt entsteht nur, wenn Grenzen dem Lernen dienen statt der Durchsetzung – wenn Glauben in Feedback verwandelt wird, bevor es zu spät ist."
 tags:
   - de
   - sns-de

@@ -1,6 +1,7 @@
 ---
 layout: blog-en
 title: "Agile, Meet AI: Your Stand-Up Just Got Automated"
+excerpt: "For two decades, Agile transformed software development—moving teams from Gantt charts to working code, from waterfall to continuous delivery. But AI is now removing the friction that Agile was designed to manage. When a single developer with a good prompt can ship what once took a sprint, the bottleneck shifts from code to coordination, from engineering to decision-making. This article explores how AI doesn't kill Agile—it kills Agile theatre: the endless ceremonies and process rituals that exist to fill boards rather than deliver value. The future belongs to small, skilled teams working in continuous conversation with AI tools, guided by principles rather than process religion."
 tags:
   - en
   - sns-en

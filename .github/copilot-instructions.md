@@ -41,12 +41,22 @@ Front matter example:
 ---
 layout: blog-en
 title: "Example Title"
+excerpt: "A 1-3 sentence summary of the article that captures its key insights and themes. This appears in RSS feeds, social media previews, and Buffer. Extract from the summary paragraph inside article-intro, excluding date/author/avatar."
 tags:
   - en
   - sns-en
   - dev-advocate-en
 ---
 ```
+
+### Blog Post Excerpts (Required)
+**All blog posts must include an `excerpt:` field in the front matter.**
+- Extract the text from the summary paragraph within the `<div class="article-intro">` section
+- Exclude date, author line, and avatar image—include only the summary paragraph text
+- Length: 1-3 sentences (typically 150-250 words) capturing the article's core themes and insights
+- Purpose: Appears in RSS feeds (`posts.xml`), social media previews, Buffer scheduling, and any content aggregation systems
+- When creating new posts: Write the excerpt first to clarify the article's message, then expand in the intro section
+- When translating posts: Translate the excerpt along with the title and content
 
 ## Translation Rules
 * Mirror section headings and ordering from source language.

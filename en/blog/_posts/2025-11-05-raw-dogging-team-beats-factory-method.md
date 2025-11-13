@@ -1,10 +1,11 @@
 ---
 layout: blog-en
-title: Why a "Raw Dogging" Team Beats Any Factory Method in Software
-tags: 
-- en
-- sns-en
-- dev-advocate-en
+title: "Why the 'Raw Dogging' Team Beats the Factory Method"
+excerpt: "Management often treats software development as an assembly line—imposing process frameworks like Scrum, SAFe, or OKRs in pursuit of predictability and repeatable output. But software is fundamentally different: it's discovery, translation, and continuous learning wrapped in code. This article challenges the manufacturing fantasy, arguing that true excellence emerges from 'raw dogging' teams—small, skilled groups who rely on trust, automation, and direct feedback rather than ritualized ceremonies. When organizations confuse rhythm with results, innovation dies quietly in the name of consistency. The future belongs to teams who ship, learn, and evolve without waiting for permission from a framework."
+tags:
+  - en
+  - sns-en
+  - dev-advocate-en
 ---
 ## Breaking Free from the Manufacturing Fantasy
 

@@ -1,6 +1,7 @@
 ---
 layout: blog-es
 title: "Por qué los líderes deben asumir la responsabilidad y trabajar SOBRE el sistema — no delegarlo"
+excerpt: "Las metodologías no se pueden instalar como software. Las reescrituras big-bang fallan — Netscape y Borland lo aprendieron de forma costosa. Los plazos arbitrarios crean pánico, no progreso. La mejora real es un proceso continuo: desarrolladores aprendiendo mejores técnicas en contexto, colegas no técnicos expresando requisitos como especificaciones verificables, y directivos aprendiendo a interpretar datos de entrega directamente en lugar de depender de informes de estado filtrados. Nos integramos con sus equipos, transferimos capacidades y nos retiramos cuando son más fuertes — desarrollando capacidad interna, no dependencia. Lo siguiente explica por qué la mejora sostenible de la entrega proviene de que las personas aprendan a trabajar mejor, no de seguir la hoja de ruta de un proveedor de frameworks."
 tags:
   - es
   - sns-es
