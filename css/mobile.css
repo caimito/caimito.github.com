@@ -1,4 +1,4 @@
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 768px) {
 
   body {
     font-size: smaller;
@@ -16,6 +16,40 @@
   
   DIV.introduction {
     width: 100%;
+  }
+
+  /* Mobile typography adjustments for blog posts */
+  .blog-entry h1 {
+    font-size: 1.4rem !important;
+    line-height: 1.2;
+    margin-bottom: 0.3em !important;
+  }
+
+  .blog-entry h2 {
+    font-size: 1.1rem !important;
+    line-height: 1.3;
+    margin-top: 1em !important;
+    margin-bottom: 0.5em !important;
+  }
+
+  .blog-entry p,
+  .blog-entry li,
+  .blog-entry .line-breaks {
+    font-size: 0.9rem !important;
+    line-height: 1.4 !important;
+    margin-bottom: 0.6em !important;
+  }
+
+  .blog-entry strong {
+    font-weight: 500 !important;
+  }
+
+  .article-intro p {
+    font-size: 0.9rem !important;
+  }
+
+  .blog-entry p:first-letter {
+    font-size: 1em !important;
   }
   
   DIV.overview {
