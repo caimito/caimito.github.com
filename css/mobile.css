@@ -4,14 +4,54 @@
     font-size: smaller;
   }
 
+  NAV {
+    padding: 0.5em 0;
+  }
+
+  NAV UL {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.3em;
+  }
+
   #homeLink > IMG {
-    width: 100px;
+    width: 80px;
+  }
+
+  #homeLink {
+    padding: 5px 8px !important;
   }
 
   NAV ul li {
-    padding: 5px 5px;
-    font-size: 1em;
-    white-space: unset;
+    padding: 5px 8px;
+    font-size: 0.85em;
+    white-space: nowrap;
+  }
+
+  /* Hide language selector in navigation on mobile */
+  NAV > UL > LI.right {
+    display: none;
+  }
+
+  /* Add language selector to footer on mobile */
+  FOOTER {
+    flex-direction: column;
+    text-align: center;
+    gap: 1em;
+  }
+
+  FOOTER .language-selector {
+    display: block;
+    text-align: center;
+    padding: 1em 0;
+  }
+
+  FOOTER .language-selector > div {
+    display: inline;
+  }
+
+  FOOTER .language-selector img {
+    margin: 0 0.5em;
   }
   
   DIV.introduction {

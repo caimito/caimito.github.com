@@ -36,6 +36,11 @@ NAV > UL > LI.right {
   text-align: right;
 }
 
+/* Hide footer language selector on larger screens */
+FOOTER .language-selector {
+  display: none;
+}
+
 FOOTER {
   margin-top: 1em;
   padding: 1em;
