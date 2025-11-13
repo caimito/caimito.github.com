@@ -20,10 +20,15 @@ p {
 	border-radius: 4px;
 }
 
+.article-intro p:first-of-type {
+	margin-top: 0;
+}
+
 .article-intro p {
 	margin-bottom: 0.75rem;
 	font-size: 105%;
 	line-height: 1.5em;
+	font-weight: 300 !important;
 }
 
 .article-intro p:last-child {
@@ -34,4 +39,81 @@ p {
 	float: left;
 	margin-right: 1rem;
 	margin-bottom: 1rem;
+}
+
+/* Preserve intentional line breaks in paragraph text */
+.line-breaks {
+	white-space: pre-line;
+}
+
+.blog-entry .line-breaks {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 1.125rem;
+	line-height: 1.6;
+	margin: 0;
+	padding: 0;
+}
+
+.blog-entry p:has(+ .line-breaks) {
+	margin-bottom: 0;
+}
+
+.blog-entry .line-breaks + p {
+	margin-top: 1em;
+}
+
+/* Blog post typography - inspired by clean, readable German text layouts */
+.blog-entry {
+	font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.blog-entry h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 2.5rem;
+	line-height: 1.2;
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
+}
+
+.blog-entry h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 1.5rem;
+	line-height: 1.3;
+	margin-top: 1.5em;
+	margin-bottom: 0.75em;
+}
+
+.blog-entry p {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 1.125rem;
+	line-height: 1.6;
+	margin-bottom: 1em;
+	text-align: justify;
+	hyphens: auto;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+}
+
+.blog-entry p:first-letter {
+	font-size: 1.2em;
+}
+
+.blog-entry li {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 1.125rem;
+	line-height: 1.6;
+}
+
+.blog-entry strong {
+	font-weight: 500;
+}
+
+.blog-entry em {
+	font-style: italic;
 }
