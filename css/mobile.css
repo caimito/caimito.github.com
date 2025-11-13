@@ -65,7 +65,45 @@
   }
 
   div.sidebar {
-    display: none;
+    border-left: none;
+    border-top: 2px solid #007acc;
+    padding: 1.5em 0 0 0;
+    margin-top: 2em;
+    font-size: 0.9rem;
+  }
+
+  div.sidebar section {
+    margin-bottom: 1.5em;
+    padding: 1em;
+    background: #f9f9f9;
+    border-radius: 4px;
+  }
+
+  div.sidebar h2 {
+    font-size: 1.1rem !important;
+    margin-top: 0 !important;
+    margin-bottom: 0.5em !important;
+  }
+
+  div.sidebar h3 {
+    font-size: 1rem !important;
+    margin-top: 0.75em !important;
+    margin-bottom: 0.4em !important;
+  }
+
+  div.sidebar p {
+    font-size: 0.9rem !important;
+    line-height: 1.4 !important;
+    margin-bottom: 0.5em !important;
+  }
+
+  div.sidebar ul.posts {
+    font-size: 0.85rem !important;
+    padding-left: 1.2em;
+  }
+
+  div.sidebar ul.posts li {
+    margin-bottom: 0.5em !important;
   }
 
   div.reference-projects > dl {
