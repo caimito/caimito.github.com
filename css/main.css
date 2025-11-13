@@ -5,6 +5,25 @@
 @import "tables.css";
 @import "mobile.css"; 
 
+/* Hero container with introduction and buttons */
+.hero-container {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+  margin-bottom: 2em;
+}
+
+.hero-container .introduction {
+  flex: 1;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.hero-container .button-section {
+  margin: 0;
+  flex-shrink: 0;
+}
+
 /* Adjust paragraph line height for improved readability */
 p {
 	font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
@@ -76,7 +95,45 @@ p {
 	margin-top: 0.5em;
 }
 
-.blog-entry h2 {
+.call-to-action {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+  margin: 2em 0 2em 0;
+  min-width: 30vw;
+}
+
+.call-to-action .button-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6em;
+  flex-shrink: 0;
+}
+
+.call-to-action .cta-subtext {
+  margin: 0.5em 0 0 0;
+  font-size: 0.85em;
+  color: #666;
+  text-align: center;
+  line-height: 1.3;
+}
+
+.call-to-action .button-group .button,
+.call-to-action .button-group a.button,
+.call-to-action .button-group button {
+  min-width: 200px;
+  max-width: 240px;
+  padding: 0.65em 1em;
+  font-size: 0.95em;
+  border-radius: 5px;
+  margin: 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  white-space: normal;
+  text-align: center;
+  font-weight: 500;
+}.blog-entry h2 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	font-size: 1.5rem;
