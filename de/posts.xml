@@ -2,7 +2,7 @@
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Caimito Technologies - Deutsche Artikel</title>
+  <title>Caimito Agile Life - Deutsche Artikel</title>
   <link href="https://www.caimito.net/de/posts.xml" rel="self" />
   <link href="https://www.caimito.net/de/" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
