@@ -5,7 +5,7 @@
 <link rel="alternate" type="application/atom+xml" title="Caimito Agile Life - English Articles" href="/en/posts.xml" />
 {% elsif page_lang == 'de' %}
 <link rel="alternate" type="application/atom+xml" title="Caimito Agile Life - Deutsche Artikel" href="/de/posts.xml" />
-{% elsif page_lang == 'es' %}
+{% elsif page_lang == 'es' %>
 <link rel="alternate" type="application/atom+xml" title="Caimito Agile Life - Artículos en Español" href="/es/posts.xml" />
 {% endif %}
 <!-- Preconnect to Google Fonts for better performance -->
