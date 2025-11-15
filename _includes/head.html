@@ -1,6 +1,24 @@
 <meta charset="utf-8">
 <title>{{ page.title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
+<!-- Open Graph / Social Media -->
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.caimito.net{{ page.url }}" />
+<meta property="og:image" content="https://www.caimito.net/img/CaimitoAgileLife.png" />
+<meta property="og:site_name" content="Caimito Agile Life" />
+{% if page.excerpt %}
+<meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
+<meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
+{% endif %}
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:image" content="https://www.caimito.net/img/CaimitoAgileLife.png" />
+{% if page.excerpt %}
+<meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
+{% endif %}
 {% if page_lang == 'en' %}
 <link rel="alternate" type="application/atom+xml" title="Caimito Agile Life - English Articles" href="/en/posts.xml" />
 {% elsif page_lang == 'de' %}
