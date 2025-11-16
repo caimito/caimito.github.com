@@ -11,6 +11,8 @@
     <name>Stephan Schwab</name>
     <email>sns@caimito.net</email>
   </author>
+  <logo>https://www.caimito.net/img/Caimito-C-solid.png</logo>
+  <icon>https://www.caimito.net/img/Caimito-C-solid.png</icon>
   {% for post in site.posts %}
     {% if post.tags contains 'de' %}
   <entry>
