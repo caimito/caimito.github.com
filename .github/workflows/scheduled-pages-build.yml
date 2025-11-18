@@ -44,8 +44,8 @@ jobs:
             echo "$NEW_FILES" >> $GITHUB_ENV
             echo 'EOF' >> $GITHUB_ENV
           else
-            echo "No new articles published today."
-            echo "NEW_ARTICLES_MSG=No new articles published today." >> $GITHUB_ENV
+            echo "Success: No new articles were published today."
+            echo "NEW_ARTICLES_MSG=Success: No new articles were published today." >> $GITHUB_ENV
           fi
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
