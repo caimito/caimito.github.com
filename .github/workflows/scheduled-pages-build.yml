@@ -27,6 +27,26 @@ jobs:
           echo "START_TS=$(date +%s)" >> $GITHUB_ENV
       - name: Checkout repository
         uses: actions/checkout@v4
+      - name: Check for newly published articles
+        id: new_articles
+        run: |
+          TODAY=$(date +'%Y-%m-%d')
+          echo "Searching for articles published on $TODAY"
+          # Find post files starting with today's date across all language post directories
+          NEW_FILES=$(find . -path "*/_posts/$TODAY-*.md" -exec basename {} \; | sed 's,^,  - ,')
+
+          if [ -n "$NEW_FILES" ]; then
+            echo "Found newly published articles:"
+            echo "$NEW_FILES"
+            # Use a multiline-safe way to pass this to the environment file
+            echo 'NEW_ARTICLES_MSG<<EOF' >> $GITHUB_ENV
+            echo "New articles published today:" >> $GITHUB_ENV
+            echo "$NEW_FILES" >> $GITHUB_ENV
+            echo 'EOF' >> $GITHUB_ENV
+          else
+            echo "No new articles published today."
+            echo "NEW_ARTICLES_MSG=No new articles published today." >> $GITHUB_ENV
+          fi
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -52,7 +72,9 @@ jobs:
           TAIL=$( (tail -n 40 build.log 2>/dev/null || echo "(no build.log)" ) | sed 's/\\/\\\\/g; s/"/\\"/g')
           NOW_TS=$(date +%s)
           DURATION=$(( NOW_TS - START_TS ))
-          MSG="$(hostname): Jekyll build job status: ${{ job.status }} (duration ${DURATION}s)\n\n\`\`\`\n$TAIL\n\`\`\`"
+          # Prepare message, including new article info
+          MSG_BODY="${{ env.NEW_ARTICLES_MSG }}"
+          MSG="$(hostname): Jekyll build job status: ${{ job.status }} (duration ${DURATION}s)\n\n${MSG_BODY}\n\nBuild Log Tail:\n\`\`\`\n$TAIL\n\`\`\`"
           curl -sS -X POST -H 'Content-Type: application/json' \
             -d "{\"text\":\"$MSG\"}" \
             "${{ secrets.MATTERMOST_WEBHOOK }}" || true
