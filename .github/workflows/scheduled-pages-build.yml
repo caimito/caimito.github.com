@@ -17,6 +17,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      new_articles_msg: ${{ steps.new_articles.outputs.message }}
     steps:
       - name: Notify start
         run: |
@@ -43,9 +45,12 @@ jobs:
             echo "New articles published today:" >> $GITHUB_ENV
             echo "$NEW_FILES" >> $GITHUB_ENV
             echo 'EOF' >> $GITHUB_ENV
+            # Also set as step output for job output
+            echo "::set-output name=message::New articles published today:\n$NEW_FILES"
           else
             echo "Success: No new articles were published today."
             echo "NEW_ARTICLES_MSG=Success: No new articles were published today." >> $GITHUB_ENV
+            echo "::set-output name=message::Success: No new articles were published today."
           fi
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -90,10 +95,14 @@ jobs:
         uses: actions/deploy-pages@v4
       - name: Notify deploy result
         if: always()
+        env:
+          NEW_ARTICLES_MSG: "${{ needs.build.outputs.new_articles_msg }}"
         run: |
           STATUS="${{ job.status }}"
           PAGE_URL="${{ steps.deployment.outputs.page_url }}"
-          TEXT="$(hostname): Pages deploy status: $STATUS URL: $PAGE_URL"
+          # Escape the message for JSON
+          MSG_BODY=$(echo "$NEW_ARTICLES_MSG" | sed 's/\\/\\\\/g; s/"/\\"/g')
+          TEXT="$(hostname): Pages deploy status: $STATUS\nURL: $PAGE_URL\n\n$MSG_BODY"
           curl -sS -X POST -H 'Content-Type: application/json' \
             -d "{\"text\":\"$TEXT\"}" \
             "${{ secrets.MATTERMOST_WEBHOOK }}" || true
