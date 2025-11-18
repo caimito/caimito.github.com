@@ -6,6 +6,8 @@ tags:
   - de
   - sns-de
   - dev-advocate-de
+  - beratung-de
+  - pragmatische-auslieferung-de
 ---
 ## Wenn Sichtbarkeit auf die Notwendigkeit zur Reparatur trifft
 

@@ -5,6 +5,7 @@ tags:
 - de
 - sns-de
 - dev-advocate-de
+- teamkultur-de
 ---
 ## Softwareentwicklung kostengünstiger machen
 

@@ -6,6 +6,8 @@ tags:
   - es
   - sns-es
   - dev-advocate-es
+  - liderazgo-es
+  - gobernanza-es
 ---
 ## La Tensión entre el Control de Procesos y la Realidad del Software
 

@@ -6,6 +6,8 @@ tags:
   - es
   - sns-es
   - dev-advocate-es
+  - liderazgo-es
+  - entrega-pragmatica-es
 ---
 ## Por Qué los Líderes Senior Deben Dejar de Delegar Juicio a Vendedores de Frameworks
 

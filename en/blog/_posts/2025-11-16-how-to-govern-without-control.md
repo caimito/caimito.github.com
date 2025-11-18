@@ -6,6 +6,8 @@ tags:
   - en
   - sns-en
   - dev-advocate-en
+  - governance-en
+  - leadership-en
 ---
 ## Leadership Lessons from the Edge of Engineering Chaos
 

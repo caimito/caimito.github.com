@@ -6,6 +6,8 @@ tags:
   - en
   - sns-en
   - dev-advocate-en
+  - leadership-en
+  - pragmatic-delivery-en
 ---
 
 <div class="article-intro">

@@ -6,6 +6,8 @@ tags:
   - en
   - sns-en
   - dev-advocate-en
+  - consulting-en
+  - pragmatic-delivery-en
 ---
 ## Respecting the Line Between Diagnosis and Implementation
 

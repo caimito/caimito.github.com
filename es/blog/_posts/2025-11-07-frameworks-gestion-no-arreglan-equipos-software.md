@@ -3,9 +3,11 @@ layout: blog-es
 title: Los frameworks de gestión no arreglan equipos de software — el desarrollo de software sí
 excerpt: "Los frameworks de gestión llegan con lienzos, ceremonias y tableros—herramientas que ayudan a las organizaciones a ver sus cuellos de botella, sobrecarga y retrabajo. Esta visibilidad es valiosa, incluso necesaria, porque la mayoría de las organizaciones están ciegas hasta que alguien les ayuda a ver. Debemos gratitud real a los consultores por traer lenguaje y estructura al caos. Pero visibilidad no es lo mismo que reparación. Mientras los frameworks diagnostican síntomas—etiquetando problemas como 'scope creep' o 'falta de enfoque'—solo el desarrollo de software puede rastrear problemas hasta sus causas raíz: falta de automatización de pruebas, pipelines de CI/CD débiles o acoplamiento arquitectónico. Este artículo explora el límite donde el diagnóstico encuentra la implementación, argumentando que los consultores revelan el desperdicio mientras los desarrolladores lo eliminan—no como oponentes, sino como especialistas en lados diferentes de la misma verdad."
 tags:
-- es
-- sns-es
-- dev-advocate-es
+  - es
+  - sns-es
+  - dev-advocate-es
+  - consultoria-es
+  - entrega-pragmatica-es
 ---
 ## Cuando la visibilidad encuentra la necesidad de reparación
 

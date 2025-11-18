@@ -6,6 +6,8 @@ tags:
   - de
   - sns-de
   - dev-advocate-de
+  - ki-de
+  - pragmatische-auslieferung-de
 ---
 ## Wenn KI die Regeln der Softwareauslieferung neu schreibt
 

@@ -6,6 +6,8 @@ tags:
   - en
   - sns-en
   - dev-advocate-en
+  - ai-en
+  - pragmatic-delivery-en
 ---
 ## When AI Rewrites the Rules of Software Delivery
 

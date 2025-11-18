@@ -6,6 +6,8 @@ tags:
   - es
   - sns-es
   - dev-advocate-es
+  - ia-es
+  - entrega-pragmatica-es
 ---
 ## Cuando la IA reescribe las reglas de la entrega de software
 

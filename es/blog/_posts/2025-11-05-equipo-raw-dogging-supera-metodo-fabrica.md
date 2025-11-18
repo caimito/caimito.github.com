@@ -6,6 +6,8 @@ tags:
   - es
   - sns-es
   - dev-advocate-es
+  - entrega-pragmatica-es
+  - cultura-de-equipo-es
 ---
 ## Liberándose de la fantasía manufacturera
 

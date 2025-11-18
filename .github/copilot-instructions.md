@@ -16,6 +16,38 @@ Authoritative directives for AI assistance (GitHub Copilot, chat, or other agent
 | Tags (minimum) | `en`, `sns-en`, `dev-advocate-en` | `de`, `sns-de`, `dev-advocate-de` | `es`, `sns-es`, `dev-advocate-es` |
 | Date display | `{{ page.date | date: "%d.%m.%Y" }}` across all languages |
 
+### Blog Post Category Tags (Required)
+**Each blog post must include appropriate category tags in addition to the minimum required tags (language, author, role).**
+
+**Available category tags (use existing tags only, do not create new ones):**
+
+**Priority 1 - Most Common:**
+- **Pragmatic Delivery**: `pragmatic-delivery-en` / `pragmatische-auslieferung-de` / `entrega-pragmatica-es`
+  - Articles about smart software delivery, process critique, methodology independence
+- **Leadership**: `leadership-en` / `fuehrung-de` / `liderazgo-es`
+  - Organizational change, executive decision-making, CTO challenges
+- **Governance**: `governance-en` / `fuehrung-de` / `gobernanza-es`
+  - Visibility, metrics, governing without control
+
+**Priority 2 - Secondary:**
+- **Consulting**: `consulting-en` / `beratung-de` / `consultoria-es`
+  - Consultant-developer relationships, boundaries, collaboration
+- **AI & Automation**: `ai-en` / `ki-de` / `ia-es`
+  - AI impact on software, automation, future of work
+- **Team Culture**: `team-culture-en` / `teamkultur-de` / `cultura-de-equipo-es`
+  - Team dynamics, collaboration, effectiveness
+
+**Priority 3 - Technical:**
+- **CI/CD**: `ci-cd-en` / `ci-cd-de` / `ci-cd-es`
+  - Continuous integration, DevOps, deployment pipelines
+- **Infrastructure**: `infrastructure-en` / `infrastruktur-de` / `infraestructura-es`
+  - Cloud, infrastructure decisions, cost optimization
+
+**Tagging guidelines:**
+- Add 1-3 category tags per post based on primary themes
+- Choose tags that best represent the article's core message
+- When a post covers multiple topics, prioritize the main theme
+
 ### New Blog Post Formatting
 When preparing new blog content for publication:
 1. **Heading hierarchy**: The `title` in the YAML front matter becomes the page's H1 (level 1 heading). The subheading immediately after (within `article-intro` or standalone) should be H2 (level 2, `##`). All subsequent section headings in the article body are H2 (level 2, `##`), with subsections as H3 (level 3, `###`) and deeper as needed. Never use H1 (`#`) within the article body.

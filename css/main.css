@@ -173,3 +173,41 @@ p {
 .blog-entry em {
 	font-style: italic;
 }
+
+/* Category filter styling */
+.category-filter {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+	margin: 2rem 0;
+}
+
+.category-filter span {
+	white-space: nowrap;
+}
+
+.category-filter span span {
+	color: #666;
+}
+
+.category-tag {
+	cursor: pointer;
+	padding: 0.5rem 1rem;
+	border-radius: 4px;
+	transition: background-color 0.2s, color 0.2s;
+}
+
+.category-tag:hover {
+	background-color: #f0f0f0;
+}
+
+.category-tag.active {
+	background-color: #007acc;
+	color: white;
+}
+
+.category-tag.active span {
+	color: white;
+}

@@ -6,6 +6,8 @@ tags:
   - de
   - sns-de
   - dev-advocate-de
+  - fuehrung-de
+  - pragmatische-auslieferung-de
 ---
 
 <div class="article-intro">

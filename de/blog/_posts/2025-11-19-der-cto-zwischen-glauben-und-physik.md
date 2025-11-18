@@ -6,6 +6,7 @@ tags:
   - de
   - sns-de
   - dev-advocate-de
+  - fuehrung-de
 ---
 ## Die Spannung zwischen Prozesskontrolle und Software-Realität
 

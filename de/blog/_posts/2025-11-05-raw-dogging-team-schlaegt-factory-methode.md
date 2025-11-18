@@ -6,6 +6,8 @@ tags:
   - de
   - sns-de
   - dev-advocate-de
+  - pragmatische-auslieferung-de
+  - teamkultur-de
 ---
 ## Befreiung von der Fertigungs-Fantasie
 

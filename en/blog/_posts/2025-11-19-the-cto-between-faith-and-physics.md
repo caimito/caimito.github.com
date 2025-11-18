@@ -6,6 +6,8 @@ tags:
   - en
   - sns-en
   - dev-advocate-en
+  - leadership-en
+  - governance-en
 ---
 ## The Tension Between Process Control and Software Reality
 

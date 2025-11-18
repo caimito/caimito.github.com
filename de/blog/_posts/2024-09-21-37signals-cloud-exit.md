@@ -5,6 +5,7 @@ tags:
 - de
 - sns-de
 - cloud-exit-de
+- infrastruktur-de
 ---
 ## Raus aus der Cloud und 7 Millionen USD über 5 Jahre sparen
 

@@ -6,6 +6,8 @@ tags:
   - es
   - sns-es
   - dev-advocate-es
+  - gobernanza-es
+  - liderazgo-es
 ---
 ## Lecciones de liderazgo desde el borde del caos técnico
 

@@ -5,6 +5,7 @@ tags:
 - de
 - sns-de
 - dev-advocate-de
+- ci-cd-de
 ---
 ## Softwareentwicklung ohne Verzögerungen
 

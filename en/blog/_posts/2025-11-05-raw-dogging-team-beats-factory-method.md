@@ -6,6 +6,8 @@ tags:
   - en
   - sns-en
   - dev-advocate-en
+  - pragmatic-delivery-en
+  - team-culture-en
 ---
 ## Breaking Free from the Manufacturing Fantasy
 

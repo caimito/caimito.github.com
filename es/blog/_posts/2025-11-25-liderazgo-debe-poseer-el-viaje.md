@@ -6,6 +6,8 @@ tags:
   - es
   - sns-es
   - dev-advocate-es
+  - liderazgo-es
+  - entrega-pragmatica-es
 ---
 
 <div class="article-intro">

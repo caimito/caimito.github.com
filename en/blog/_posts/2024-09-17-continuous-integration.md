@@ -5,6 +5,7 @@ tags:
 - en
 - sns-en
 - dev-advocate-en
+- ci-cd-en
 ---
 ## Software Development Without Delays
 

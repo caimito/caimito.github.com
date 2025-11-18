@@ -6,6 +6,8 @@ tags:
   - de
   - sns-de
   - dev-advocate-de
+  - fuehrung-de
+  - pragmatische-auslieferung-de
 ---
 ## Warum Führung nicht an Methoden-Verkäufer delegiert werden darf
 

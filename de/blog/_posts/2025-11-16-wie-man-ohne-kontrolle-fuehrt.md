@@ -6,6 +6,7 @@ tags:
   - de
   - sns-de
   - dev-advocate-de
+  - fuehrung-de
 ---
 ## Führungslektionen am Rande des technischen Chaos
 

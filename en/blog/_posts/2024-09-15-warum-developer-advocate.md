@@ -5,6 +5,7 @@ tags:
 - en
 - sns-en
 - dev-advocate-en
+- team-culture-en
 ---
 ## Making Software Development More Cost-Effective
 

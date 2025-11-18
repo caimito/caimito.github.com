@@ -6,6 +6,8 @@ tags:
   - de
   - sns-de
   - dev-advocate-de
+  - beratung-de
+  - pragmatische-auslieferung-de
 ---
 ## Respekt für die Grenze zwischen Diagnose und Umsetzung
 
