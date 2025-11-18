@@ -21,7 +21,7 @@ Diese Praktiken bilden einen Motor der Vorhersagbarkeit. Sie sind keine Methodik
 
 Mit diesem Verständnis lassen Sie uns untersuchen, was diese Kernpraktiken sind und warum sie so wirksam sind.
 
-## Die unendliche Suche nach der Wunderwaffe
+## Die unendliche Suche nach dem Allheilmittel
 
 Der Kampf um vorhersagbare Software-Auslieferung ist nicht neu. Tatsächlich reicht er bis mindestens 1968 zurück, als auf einer NATO-Konferenz der Begriff „Softwarekrise“ geprägt wurde, um die weitverbreiteten Probleme von Projekten zu beschreiben, die das Budget und den Zeitplan überschritten und unzuverlässige Ergebnisse lieferten. In den Jahrzehnten seither ist eine milliardenschwere Industrie entstanden, die Management-Frameworks und Methodologien verkauft, die versprechen, diese Krise zu lösen.
 
