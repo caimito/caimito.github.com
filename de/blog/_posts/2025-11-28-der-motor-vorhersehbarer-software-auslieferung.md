@@ -9,13 +9,13 @@ tags:
   - pragmatische-auslieferung-de
 ---
 <div class="article-intro">
-  <h2>Warum manche Software-Teams vorhersagbar sind und andere nicht</h2>
+  <h2>Warum manche Software-Teams vorhersagbare Ergebnisse liefern und andere nicht</h2>
   <p>{{ page.date | date: "%d.%m.%Y" }}, <em>Von Stephan Schwab</em></p>
   <a href="/de/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
   <p>Vorhersagbare Software-Auslieferung ist keine Magie; sie ist Disziplin, verstärkt durch KI. Kernpraktiken der Software-Entwicklung – wie testgetriebene Entwicklung, Zusammenarbeit und kontinuierliche Integration – werden durch künstliche Intelligenz enorm beschleunigt. Diese kraftvolle Kombination verwandelt die Software-Entwicklung von einem riskanten Glücksspiel in einen zuverlässigen Motor für Geschäftswert und ermöglicht es Teams, das Richtige richtig zu bauen und sich schnell anzupassen.</p>
 </div>
 
-Jeder Unternehmensführer wünscht sich Vorhersagbarkeit von seinen Software-Teams. Sie wollen die Gewissheit, dass eine neue Funktionalität pünktlich, im Rahmen des Budgets und mit hohem Qualitätsstandard ausgeliefert wird. Dennoch finden sich viele Organisationen in einem Kreislauf aus verpassten Terminen, fehlerhaften Veröffentlichungen und einem ständigen Gefühl der Unsicherheit wieder. Das Problem liegt oft nicht an mangelndem Talent oder Einsatz, sondern am Fehlen einiger grundlegender technischer Disziplinen – Praktiken, die heute durch KI enorm verstärkt werden.
+Jeder Unternehmensführer wünscht sich vorhersagbare Ergebnisse von seinen Software-Teams. Sie wollen die Gewissheit, dass eine neue Funktionalität pünktlich, im Rahmen des Budgets und mit hohem Qualitätsstandard ausgeliefert wird. Dennoch finden sich viele Organisationen in einem Kreislauf aus verpassten Terminen, fehlerhaften Veröffentlichungen und einem ständigen Gefühl der Unsicherheit wieder. Das Problem liegt oft nicht an mangelndem Talent oder Einsatz, sondern am Fehlen einiger grundlegender technischer Disziplinen – Praktiken, die heute durch KI enorm verstärkt werden.
 
 Diese Praktiken bilden einen Motor der Vorhersagbarkeit. Sie sind keine Methodik, die man kaufen oder übernehmen kann; sie sind eine Reihe disziplinierter Gewohnheiten, die schnelle Feedback-Schleifen schaffen, Risiken reduzieren und sicherstellen, dass das Team sich stets auf einem soliden Fundament vorwärtsbewegt. Wenn diese Praktiken im Mittelpunkt eines Projekts stehen – sei es eine brandneue Anwendung oder ein jahrzehntealtes Legacy-System – ist das Ergebnis ein ruhiger, beständiger und vorhersagbarer Fluss von Werten.
 
