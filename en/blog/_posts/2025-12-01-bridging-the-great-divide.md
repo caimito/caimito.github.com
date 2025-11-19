@@ -26,6 +26,8 @@ Both conversations are real. Both happen in organizations every day. And this pa
 
 That was 57 years ago. Why hasn't this improved?
 
+*A brief clarification: When we say "non-technical," we mean specifically those who haven't built large-scale software systems. Many accomplished engineers and technical leaders from other domains — mechanical engineering, electrical engineering, manufacturing — find themselves managing software teams. Just as a distinguished engine engineer with "gasoline in their blood" would struggle to predict how code will behave under production load, software complexity follows different rules than physical systems. This isn't about intelligence or technical capability; it's about domain-specific expertise that only comes from building, breaking, and maintaining complex software over years.*
+
 **Here's what's really happening beneath the surface:** Each role carries distinct pressures and perspectives. Managers carry the weight of commitments to customers, boards, and market expectations — they need certainty in an uncertain domain. Developers carry the weight of technical reality and long-term consequences — they see risks others can't. Everyone is trying to protect the organization, but from different vantage points. Neither perspective is wrong; each is incomplete without the other.
 
 To understand why this pattern persists, we need to look at how it began — and why five decades of methodologies haven't solved it.
@@ -68,7 +70,9 @@ The gap between technical and non-technical perspectives isn't caused by bad peo
 
 Software development is largely invisible. A manager can see a construction project's progress by walking the site. They can count assembled units in a factory. But software? It exists in abstract form — lines of code, architecture diagrams, test suites, deployment pipelines. Progress isn't visible until something runs, and even then, quality is hard to assess.
 
-This invisibility creates an information vacuum that everyone struggles to navigate. Without shared visibility, decisions are made with incomplete context, leading to misalignment and frustration.
+"But I *can* see the software," you might think. "I use it every day. I see the interface, the buttons, the screens." This is where the illusion begins. The user interface is like the dashboard of a car — you can see the speedometer, the fuel gauge, the warning lights. But the dashboard tells you nothing about whether the engine was built correctly, whether the transmission will fail under stress, or whether the frame will hold up in a crash. When you look at software's UI, you're seeing perhaps 5% of what exists. The other 95% — the architecture, the algorithms, the data structures, the integrations, the error handling, the security layers, the performance optimizations — remains completely invisible. This is why two applications that look identical in the UI can differ wildly in quality, maintainability, and long-term cost.
+
+This invisibility creates an information vacuum that everyone struggles to navigate. Without shared visibility into the actual work, decisions are made with incomplete context, leading to misalignment and frustration.
 
 **What this feels like psychologically:** For managers, it's like being responsible for a ship's navigation but the compass only works for the crew — you can see the destination, feel the pressure from passengers asking "are we there yet?" but you're navigating by asking questions in a language where every answer feels incomplete. For developers, it's like being the ship's engineer — you can hear the hull creaking, you know the engine needs maintenance, but the captain keeps ordering full speed ahead because "the passengers expect to arrive on time." Both are trying to get everyone safely to shore.
 
@@ -86,7 +90,9 @@ Neither translation is accurate. Both people leave the conversation feeling misu
 
 Invisible work and missing shared language create a third problem: when you can't see the work clearly and can't communicate about it effectively, decisions inevitably get made without sufficient facts.
 
-You've been in these meetings. Someone asks: "How long will this take?" The developer, knowing the answer depends on factors that won't be clear until they start, offers a range: "Probably two to four weeks, depending on what we find." The meeting notes record: "Estimate: 2 weeks." The developer winces but doesn't object — what's the point?
+You've been in these meetings. Someone asks: "How long will this take?" The developer, knowing the answer depends on factors that won't be clear until they start, offers a range: "Probably two to four weeks, depending on what we discover as we build." The meeting notes record: "Estimate: 2 weeks." The developer winces but doesn't object — what's the point?
+
+*Here's the reality: Building software is design work, not assembly work. You can't know how long design takes until you attempt it and learn what the problem actually requires. This is why experienced developers speak in ranges and hedge with "depending on what we find" — they're being honest about the discovery inherent in creation.*
 
 Most software decisions are made with insufficient data:
 - Estimates are guesses dressed up as commitments
@@ -180,6 +186,8 @@ This visibility must be:
 
 [Caimito Navigator](https://navigator.caimito.net) was built precisely for this purpose. Through daily logbook entries — brief, focused observations about work, blockers, and learnings — it creates organizational intelligence. These entries aggregate into weekly reports that synthesize patterns, surface risks, and provide recommendations grounded in what actually happened.
 
+**Why logbooks?** This practice is borrowed from professions where invisible complexity requires systematic documentation. Ship captains maintain bridge logs recording course changes, weather conditions, equipment issues, and navigational decisions — not for bureaucracy, but because lives depend on understanding what happened and why. Surgeons document procedures, complications, and learnings to improve outcomes and share knowledge. Research scientists keep laboratory notebooks detailing experiments, unexpected results, and evolving hypotheses — because discovery emerges from documented observation. In each case, professionals who work with high complexity and high stakes write things down daily, knowing that memory is unreliable and patterns only become visible when you can look back across time. Software development shares these characteristics: high complexity, high stakes, constant learning, and the need to surface problems before they become crises.
+
 Observers (executives, board members, stakeholders) gain strategic visibility while respecting team autonomy. They see recommendations and conclusions in their full context, enabling informed decisions. They understand where teams are stuck, what's accelerating, and where capacity is constrained — based on evidence, not opinion.
 
 This transforms decision-making. Instead of "Can we ship by month-end?" the question becomes: "Given what we're observing about integration complexity and the emerging API dependencies, what's the earliest realistic date — and what would we need to change to accelerate it?"
@@ -228,7 +236,7 @@ The path forward is clear. The question is whether we're ready to take it.
 
 The 1968 software crisis identified a fundamental problem: software is hard to manage using traditional approaches. Fifty-seven years later, many organizations still struggle with the same issues — not because software got harder, but because they're still trying to manage invisible work with invisible tools and misaligned incentives.
 
-The solution isn't complexity. It's clarity:
+The path forward doesn't require elaborate frameworks or organizational overhauls. It requires four foundational shifts:
 
 1. **Make work visible** through daily structured logging and weekly intelligence
 2. **Embed technical advocacy** to bridge language gaps and translate between worlds
