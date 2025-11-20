@@ -10,7 +10,7 @@ tags:
   - teamkultur-de
 ---
 <div class="article-intro">
-  <h2>Ein 57 Jahre altes Problem, das niemand wählte — und wie man es beendet</h2>
+  <h2>Ein 57 Jahre altes Problem, das niemand wollte — und wie man es löst</h2>
   <p>{{ page.date | date: "%d.%m.%Y" }}, <em>Von Stephan Schwab</em></p>
   <a href="/de/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
   <p>Durch organisatorische Intelligenz und eingebettete technische Unterstützung im Tagesgeschäft können Unternehmen Annahmen durch Fakten ersetzen und Konflikte in produktive Zusammenarbeit verwandeln. Seit der Software-Krise von 1968 wiederholt sich ein Muster: Nicht-technische Führungskräfte und technische Teams verstehen einander oft nicht. Diese Kluft ist nicht unvermeidbar — sie entsteht durch unsichtbare Arbeit, fehlende gemeinsame Sprache und Entscheidungen ohne Fakten.</p>
