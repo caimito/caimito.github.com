@@ -253,3 +253,70 @@ p {
 .category-tag.active span {
 	color: white;
 }
+
+/* Card grid layout */
+.card-grid {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+/* Card styling */
+.card {
+	background: #f8f9fa;
+	border: 1px solid #e3e6e9;
+	border-radius: 12px;
+	padding: 1rem 1.15rem 1.2rem;
+	box-shadow: 0 1px 2px rgba(0,0,0,.04);
+	transition: border-color .15s ease, box-shadow .15s ease;
+}
+
+.card:hover {
+	border-color: #d0d4d8;
+	box-shadow: 0 2px 6px rgba(0,0,0,.06);
+}
+
+.card h2 {
+	margin-top: 0;
+	font-size: 1.3rem;
+	letter-spacing: .3px;
+	color: #2c5f2d;
+}
+
+.card h3 {
+	margin-top: .8rem;
+	font-size: 1.1rem;
+	color: #555;
+}
+
+/* Card variants */
+.card-flex {
+	flex: 1 1 400px;
+}
+
+.card-stacked {
+	margin: 1.25rem 0;
+}
+
+.card img.card-logo {
+	float: right;
+	margin-left: 1.5rem;
+	margin-bottom: 1rem;
+	max-width: 180px;
+	border-radius: 8px;
+}
+
+/* Page intro section */
+.page-intro {
+	font-size: 1.1rem;
+	line-height: 1.6;
+	margin-bottom: 2rem;
+	color: #444;
+}
+
+@media (min-width:900px) {
+	.card {
+		padding: 1.1rem 1.25rem 1.3rem;
+	}
+}

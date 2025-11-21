@@ -20,6 +20,11 @@
     <li>
       <a id="aboutLink" href="/es/about.html">Sobre Nosotros</a>
     </li>
+    {% if page.url contains '/partners/' %}
+    <li style="border-left:1px solid #ccc;margin-left:0.5rem;padding-left:0.5rem;">
+      <a href="/es/partners/">Socios</a>
+    </li>
+    {% endif %}
     <li class="right">
       <img src="/img/German-Language-Flag.svg" height="20px" alt="Deutsch" onClick="onSwitchLanguage('de')"
         style="cursor: pointer" />

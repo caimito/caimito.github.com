@@ -25,6 +25,11 @@
     <li>
       <a id="aboutLink" href="/de/about.html">Über uns</a>
     </li>
+    {% if page.url contains '/partners/' %}
+    <li style="border-left:1px solid #ccc;margin-left:0.5rem;padding-left:0.5rem;">
+      <a href="/de/partners/">Partner</a>
+    </li>
+    {% endif %}
     <!-- Aus dem englischen Menü nicht enthalten, daher ausgeblendet:
     <li>
       <a id="devAdvocateLink" href="/de/developer-advocate.html">Developer Advocate</a>
