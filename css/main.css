@@ -60,6 +60,12 @@ p {
 	margin-bottom: 1rem;
 }
 
+.article-intro h2 {
+	margin-top: 0 !important;
+	margin-bottom: 0.5rem !important;
+}
+}
+
 /* Preserve intentional line breaks in paragraph text */
 .line-breaks {
 	white-space: pre-line;

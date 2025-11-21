@@ -10,7 +10,7 @@ tags:
   - team-culture-en
 ---
 <div class="article-intro">
-  <h2>Why the Best Developers Don’t Work for Stickers and Pizza</h2>
+  <h2>Pride, Curiosity, and Purpose: The Real Currency of Great Software</h2>
   <p>{{ page.date | date: "%d.%m.%Y" }}, <em>By Stephan Schwab</em></p>
   <a href="/en/about.html"><img src="https://gravatar.com/avatar/663d11426b0a187ddac59f8c17ce61b4?s=120&d=robohash&r=x" class="avatar" /></a>
   <p>Intrinsic motivation is the quiet force behind the best software you've ever seen: the tools that feel thoughtfully crafted, the systems that behave predictably under pressure, and the products that keep getting better long after the initial launch. When organizations learn to stop fighting this motivation and instead design around it, they get more reliable delivery, healthier teams, and software that users actually value.</p>
