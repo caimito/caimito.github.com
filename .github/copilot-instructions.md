@@ -9,6 +9,10 @@ Authoritative directives for AI assistance (GitHub Copilot, chat, or other agent
 4. Use repository conventions; infer when unspecified and document assumptions via HTML comments.
 
 ## Blogging Conventions
+* Avoid meta phrases like "this article", "in this post", or "today we will" in body text; write directly about the topic instead.
+* Aim for thought-provoking but consistently polite, respectful language. Readers should leave with a persistent, challenging idea — never with a sense of being attacked or personally offended.
+* Prefer business-friendly language over internal tooling jargon in public content (e.g. "work items" instead of "tickets" when describing units of work).
+* **Callout boxes**: Use `<div class="callout-box">...</div>` for newspaper-style sidebar quotes. Because they float right, place them *before* the paragraph they relate to so subsequent text flows around them properly.
 | Aspect | English | German | Spanish |
 |--------|---------|--------|---------|
 | Layout | `blog-en` | `blog-de` | `blog-es` |
